@@ -179,12 +179,43 @@ h1 {
   letter-spacing: -0.02em;
 }
 
-.section h3 {
-  margin: 18px 0 8px;
+.section > h3 {
+  margin: 22px 0 8px;
   font-size: 13px;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--applied);
+}
+
+.company-block {
+  margin: 0 0 18px;
+}
+
+.company-head {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin: 0 0 8px;
+  font-size: 16px;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--ink);
+}
+
+.company-head a {
+  color: inherit;
+  font-weight: 650;
+  text-decoration: none;
+}
+
+.company-head a:hover {
+  text-decoration: underline;
+}
+
+.company-count {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 500;
 }
 
 .table-wrap {
@@ -233,18 +264,8 @@ tr:last-child td {
   cursor: pointer;
 }
 
-.company a {
-  color: inherit;
-  font-weight: 650;
-  text-decoration: none;
-}
-
-.company a:hover {
-  text-decoration: underline;
-}
-
 .title {
-  min-width: 220px;
+  min-width: 260px;
 }
 
 .loc,
@@ -280,8 +301,8 @@ tr:last-child td {
     display: none;
   }
 
-  th:nth-child(4),
-  td:nth-child(4) {
+  th:nth-child(3),
+  td:nth-child(3) {
     display: none;
   }
 }

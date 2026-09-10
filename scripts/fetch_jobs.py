@@ -24,12 +24,14 @@ MAX_AGE_DAYS = 120
 WORKDAY_LIMIT = 20
 WORKDAY_MAX_PAGES = 3
 WORKDAY_QUERIES = (
-    "intern",
-    "internship",
-    "co-op",
-    "new grad",
-    "early career",
+    "engineering intern",
+    "mechanical intern",
+    "manufacturing intern",
+    "operations intern",
+    "engineering internship",
+    "engineering co-op",
     "mechanical engineer",
+    "new grad",
 )
 HTTP_TIMEOUT = 25
 MAX_WORKERS = 10
@@ -111,6 +113,86 @@ HARDWARE_OVERRIDE_RE = re.compile(
     r"mechanical|manufacturing|mechatronic|hardware|thermal|structural|propulsion|powertrain",
     re.I,
 )
+
+# Intern/co-op titles at these companies are often "Engineering Intern" or
+# "Operations Internship" without the word mechanical.
+INTERN_ME_RE = re.compile(
+    r"""
+    engineer|engineering|manufacturing|mechanical|mechatronic|
+    biomedical|aerospace|operations\s+(intern|internship|co-?op)|
+    process|quality|r&d|research\s+and\s+development|industrial|
+    validation|packaging|tooling|reliability|materials|thermal|
+    hardware|product\s+development|production|plant|factory|npi|
+    assembly|equipment|design\s+intern|test\s+intern
+    """,
+    re.I | re.X,
+)
+INTERN_JUNK_RE = re.compile(
+    r"""
+    \b(it\s+intern|information\s+technology|software|firmware|cyber|
+    finance\s+intern|marketing\s+intern|hr\s+intern|human\s+resources|
+    commercial|business\s+analyst|government\s+affairs|statistician|
+    clinical\s+application|clinical\s+field|sales\s+intern|legal|
+    communications|accountant|nursing|nurse|data\s+scientist|
+    data\s+engineer|digital\s+marketing)
+    \b
+    """,
+    re.I | re.X,
+)
+
+COMPANY_PRIORITY = [
+    "Johnson & Johnson",
+    "Medtronic",
+    "Abbott",
+    "Stryker",
+    "Boston Scientific",
+    "Intuitive",
+    "GE HealthCare",
+    "Thermo Fisher Scientific",
+    "Baxter",
+    "BD",
+    "Philips",
+    "Edwards Lifesciences",
+    "Zimmer Biomet",
+    "Alcon",
+    "Dexcom",
+    "Danaher",
+    "Tesla",
+    "General Motors",
+    "Ford",
+    "Toyota",
+    "Honda",
+    "BMW",
+    "Stellantis",
+    "Rivian",
+    "Lucid Motors",
+    "Cummins",
+    "SpaceX",
+    "Boeing",
+    "Northrop Grumman",
+    "RTX",
+    "Blue Origin",
+    "GE Aerospace",
+    "Anduril",
+    "Airbus",
+    "L3Harris",
+    "BAE Systems",
+    "General Dynamics",
+    "John Deere",
+    "Caterpillar",
+    "Honeywell",
+    "3M",
+    "GE Vernova",
+    "Emerson",
+    "Eaton",
+    "Parker Hannifin",
+    "Applied Materials",
+    "ASML",
+    "Lam Research",
+    "Boston Dynamics",
+    "NVIDIA",
+    "Procter & Gamble",
+]
 
 COOP_RE = re.compile(r"\bco[-\s]?op\b", re.I)
 INTERN_RE = re.compile(r"\b(intern|internship|interns|student)\b", re.I)
@@ -439,6 +521,10 @@ FETCHERS = {
 }
 
 
+def is_internish(title: str) -> bool:
+    return bool(COOP_RE.search(title) or INTERN_RE.search(title))
+
+
 def is_me_role(title: str, description: str) -> bool:
     if re.search(r"\btechnician\b", title, re.I):
         return False
@@ -450,7 +536,16 @@ def is_me_role(title: str, description: str) -> bool:
         return True
     if re.search(r"\b(mechanical|mechatronics|manufacturing|aerospace|biomedical)\b", title, re.I):
         return True
+    if is_internish(title) and INTERN_ME_RE.search(title) and not INTERN_JUNK_RE.search(title):
+        return True
     return False
+
+
+def company_priority(name: str) -> int:
+    try:
+        return COMPANY_PRIORITY.index(name)
+    except ValueError:
+        return len(COMPANY_PRIORITY) + 1
 
 
 def markdown_level(level: str) -> str:
@@ -569,11 +664,10 @@ def dedupe(jobs: list[dict[str, Any]]) -> list[dict[str, Any]]:
 
 
 def sort_jobs(jobs: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    def key(job: dict[str, Any]) -> tuple[int, float]:
+    def key(job: dict[str, Any]) -> tuple[int, str, float]:
         age = job["age"]
-        if age is None:
-            return (1, 0.0)
-        return (0, float(age))
+        age_key = float(age) if age is not None else 999.0
+        return (company_priority(job["company"]), job["company"].lower(), age_key)
 
     return sorted(jobs, key=key)
 
@@ -828,6 +922,7 @@ def write_jobs_json(all_jobs: list[dict[str, Any]], stamp: str) -> None:
                 "level": job["level"],
                 "geo": job["geo"],
                 "age": job["age"],
+                "priority": company_priority(job["company"]),
             }
             for job in all_jobs
         ],

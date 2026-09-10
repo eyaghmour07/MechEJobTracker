@@ -1134,3 +1134,11 @@ companies:
     site: Goodyear
     category: other
     careers_url: https://www.goodyear.com/careers
+
+  - name: Procter & Gamble
+    ats: workday
+    host: pg.wd5.myworkdayjobs.com
+    tenant: pg
+    site: 1000
+    category: other
+    careers_url: https://www.pgcareers.com/

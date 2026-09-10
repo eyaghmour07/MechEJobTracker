@@ -96,38 +96,76 @@ function updateTabCounts() {
   }
 }
 
+function sortJobs(jobs) {
+  return [...jobs].sort((a, b) => {
+    const pa = a.priority ?? 999;
+    const pb = b.priority ?? 999;
+    if (pa !== pb) return pa - pb;
+    const byName = (a.company || "").localeCompare(b.company || "");
+    if (byName) return byName;
+    return (a.age ?? 999) - (b.age ?? 999);
+  });
+}
+
+function groupByCompany(jobs) {
+  const groups = [];
+  const index = new Map();
+  for (const job of sortJobs(jobs)) {
+    const name = job.company || "Unknown";
+    if (!index.has(name)) {
+      index.set(name, groups.length);
+      groups.push({
+        company: name,
+        careers: job.careers_url,
+        priority: job.priority ?? 999,
+        jobs: [],
+      });
+    }
+    groups[index.get(name)].jobs.push(job);
+  }
+  return groups;
+}
+
 function renderTable(jobs, applied) {
   if (!jobs.length) {
     return `<div class="empty">${applied ? "Nothing applied yet." : "No open roles in this section."}</div>`;
   }
-  const rows = jobs
-    .map((job) => {
-      const age = job.age == null ? "?" : `${job.age}d`;
-      return `<tr class="${applied ? "applied-row" : ""}">
-        <td class="check">
-          <input type="checkbox" ${applied ? "checked" : ""} data-url="${escapeHtml(job.url)}" aria-label="Mark ${escapeHtml(job.title)} as applied" />
-        </td>
-        <td class="company"><a href="${escapeHtml(job.careers_url)}" target="_blank" rel="noreferrer">${escapeHtml(job.company)}</a></td>
-        <td class="title">${escapeHtml(job.title)}</td>
-        <td class="loc">${escapeHtml(job.location)}</td>
-        <td class="posting"><a href="${escapeHtml(job.url)}" target="_blank" rel="noreferrer">${escapeHtml(job.url)}</a></td>
-        <td class="age">${escapeHtml(age)}</td>
-      </tr>`;
+  return groupByCompany(jobs)
+    .map((group) => {
+      const rows = group.jobs
+        .map((job) => {
+          const age = job.age == null ? "?" : `${job.age}d`;
+          return `<tr class="${applied ? "applied-row" : ""}">
+            <td class="check">
+              <input type="checkbox" ${applied ? "checked" : ""} data-url="${escapeHtml(job.url)}" aria-label="Mark ${escapeHtml(job.title)} as applied" />
+            </td>
+            <td class="title">${escapeHtml(job.title)}</td>
+            <td class="loc">${escapeHtml(job.location)}</td>
+            <td class="posting"><a href="${escapeHtml(job.url)}" target="_blank" rel="noreferrer">${escapeHtml(job.url)}</a></td>
+            <td class="age">${escapeHtml(age)}</td>
+          </tr>`;
+        })
+        .join("");
+      return `<article class="company-block">
+        <h3 class="company-head">
+          <a href="${escapeHtml(group.careers)}" target="_blank" rel="noreferrer">${escapeHtml(group.company)}</a>
+          <span class="company-count">${group.jobs.length}</span>
+        </h3>
+        <div class="table-wrap"><table>
+          <thead>
+            <tr>
+              <th class="check"></th>
+              <th>Position</th>
+              <th>Location</th>
+              <th>Application</th>
+              <th>Age</th>
+            </tr>
+          </thead>
+          <tbody>${rows}</tbody>
+        </table></div>
+      </article>`;
     })
     .join("");
-  return `<div class="table-wrap"><table>
-    <thead>
-      <tr>
-        <th class="check"></th>
-        <th>Company</th>
-        <th>Position</th>
-        <th>Location</th>
-        <th>Application</th>
-        <th>Age</th>
-      </tr>
-    </thead>
-    <tbody>${rows}</tbody>
-  </table></div>`;
 }
 
 function render() {
@@ -136,8 +174,8 @@ function render() {
   const board = document.getElementById("board");
   const sections = CATEGORIES.map(([id, label]) => {
     const inCat = tabJobs.filter((job) => (job.category || "other") === id);
-    const open = inCat.filter((job) => !isApplied(job)).sort((a, b) => (a.age ?? 999) - (b.age ?? 999));
-    const applied = inCat.filter((job) => isApplied(job)).sort((a, b) => (a.age ?? 999) - (b.age ?? 999));
+    const open = inCat.filter((job) => !isApplied(job));
+    const applied = inCat.filter((job) => isApplied(job));
     return `<section class="section" id="${id}">
       <h2>${label}</h2>
       ${renderTable(open, false)}
