@@ -127,6 +127,40 @@ INTERN_ME_RE = re.compile(
     """,
     re.I | re.X,
 )
+TALENT_POOL_RE = re.compile(
+    r"""
+    talent\s+pool|
+    not\s+currently\s+recruiting|
+    not\s+currently\s+hiring|
+    building\s+a\s+pipeline\s+for\s+future|
+    this\s+is\s+not\s+(an?\s+)?(open\s+)?(req|requisition|vacancy|job\s+posting)|
+    expression\s+of\s+interest
+    """,
+    re.I | re.X,
+)
+ME_MAJOR_RE = re.compile(
+    r"mechanical\s+engineering|mechanical\s+engineer|\bmech\.?\s*e\b|mechatronic",
+    re.I,
+)
+DEGREE_IN_RE = re.compile(
+    r"(?:pursuing|enrolled\s+in|seeking|bachelor'?s?|master'?s?|degree|major(?:ing)?)\s+"
+    r"(?:a\s+)?(?:bachelor'?s?\s+|master'?s?\s+)?(?:degree\s+)?(?:in|of)\s+([^\.]{8,280})",
+    re.I,
+)
+NAMED_MAJOR_RE = re.compile(
+    r"""
+    chemical\s+engineering|biomedical\s+engineering|bioengineering|
+    electrical\s+engineering|computer\s+science|chemistry|biochemistry|
+    biology|industrial\s+engineering|manufacturing\s+engineering|
+    plastics\s+engineering|materials\s+engineering|aerospace\s+engineering|
+    mechanical\s+engineering|mechatronic
+    """,
+    re.I | re.X,
+)
+WET_LAB_RE = re.compile(
+    r"chromatography|\bnmr\b|mass\s+spectrom|elisa|western\s+blot|organic\s+synthesis|immunohistochemistry",
+    re.I,
+)
 INTERN_JUNK_RE = re.compile(
     r"""
     \b(it\s+intern|information\s+technology|software|firmware|cyber|
@@ -169,15 +203,9 @@ COMPANY_PRIORITY = [
     "Cummins",
     "SpaceX",
     "Boeing",
-    "Northrop Grumman",
-    "RTX",
     "Blue Origin",
     "GE Aerospace",
-    "Anduril",
     "Airbus",
-    "L3Harris",
-    "BAE Systems",
-    "General Dynamics",
     "John Deere",
     "Caterpillar",
     "Honeywell",
@@ -465,6 +493,7 @@ def fetch_workday(company: dict[str, Any]) -> list[dict[str, Any]]:
                     continue
                 seen.add(key)
                 apply_url = f"https://{host}/en-US/{site}{path}" if path else f"https://{host}/{site}"
+                detail_url = f"https://{host}/wday/cxs/{tenant}/{site}{path}" if path else ""
                 jobs.append(
                     {
                         "title": job.get("title") or "",
@@ -472,6 +501,7 @@ def fetch_workday(company: dict[str, Any]) -> list[dict[str, Any]]:
                         "url": apply_url,
                         "posted_at": parse_dt(job.get("postedOn") or job.get("firstPosted")),
                         "description": "",
+                        "detail_url": detail_url,
                     }
                 )
             if len(postings) < WORKDAY_LIMIT:
@@ -525,6 +555,53 @@ def is_internish(title: str) -> bool:
     return bool(COOP_RE.search(title) or INTERN_RE.search(title))
 
 
+def fetch_workday_detail(detail_url: str) -> tuple[str, bool | None]:
+    if not detail_url:
+        return "", None
+    try:
+        data = get_json(detail_url)
+    except Exception:  # noqa: BLE001 — fail soft; keep title-only fallback
+        return "", None
+    info = data.get("jobPostingInfo") or {}
+    return strip_html(info.get("jobDescription") or ""), info.get("canApply")
+
+
+def is_open_posting(title: str, description: str, can_apply: bool | None) -> bool:
+    blob = f"{title} {description}"
+    if can_apply is False:
+        return False
+    if TALENT_POOL_RE.search(blob):
+        return False
+    return True
+
+
+def allows_mechanical_major(title: str, description: str) -> bool:
+    """Keep roles that list ME, or don't name a non-ME-only major list."""
+    blob = f"{title} {description}"
+    title_has_me = bool(re.search(r"\bmechanical\b|mechatronic", title, re.I))
+    desc_has_me = bool(ME_MAJOR_RE.search(blob))
+    if title_has_me or desc_has_me:
+        # Still drop if a degree sentence names majors and omits ME.
+        for match in DEGREE_IN_RE.finditer(blob):
+            clause = match.group(1)
+            named = {m.group(0).lower() for m in NAMED_MAJOR_RE.finditer(clause)}
+            if not named:
+                continue
+            if not any("mechanical" in n or "mechatronic" in n for n in named):
+                return False
+        return True
+    for match in DEGREE_IN_RE.finditer(blob):
+        clause = match.group(1)
+        named = {m.group(0).lower() for m in NAMED_MAJOR_RE.finditer(clause)}
+        if named and not any("mechanical" in n or "mechatronic" in n for n in named):
+            return False
+    if WET_LAB_RE.search(blob) and not desc_has_me:
+        return False
+    if re.search(r"\bbiomedical\b|\bbioengineering\b", title, re.I) and not desc_has_me:
+        return False
+    return True
+
+
 def is_me_role(title: str, description: str) -> bool:
     if re.search(r"\btechnician\b", title, re.I):
         return False
@@ -534,7 +611,7 @@ def is_me_role(title: str, description: str) -> bool:
         return False
     if INCLUDE_RE.search(title):
         return True
-    if re.search(r"\b(mechanical|mechatronics|manufacturing|aerospace|biomedical)\b", title, re.I):
+    if re.search(r"\b(mechanical|mechatronics|manufacturing|aerospace)\b", title, re.I):
         return True
     if is_internish(title) and INTERN_ME_RE.search(title) and not INTERN_JUNK_RE.search(title):
         return True
@@ -617,9 +694,16 @@ def fetch_company(company: dict[str, Any]) -> tuple[str, list[dict[str, Any]], s
         location = (job.get("location") or "").strip()
         url = (job.get("url") or "").strip()
         desc = job.get("description") or ""
+        can_apply = job.get("can_apply")
         if not title or not url:
             continue
+        if not desc and job.get("detail_url") and is_internish(title):
+            desc, can_apply = fetch_workday_detail(job["detail_url"])
+        if not is_open_posting(title, desc, can_apply):
+            continue
         if not is_me_role(title, desc):
+            continue
+        if not allows_mechanical_major(title, desc):
             continue
         level = classify_level(title, desc)
         if not level:

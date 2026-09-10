@@ -14,6 +14,10 @@
 # - Lockheed Martin — IBM Kenexa BrassRing
 # - Apple — custom gated careers site
 # - NASA / national labs — USAJobs
+#
+# Skipped on purpose (defense):
+# Northrop Grumman, RTX, Anduril, Shield AI, Saronic, BAE Systems,
+# L3Harris, General Dynamics, Textron / Bell.
 
 companies:
   # ---------------------------------------------------------------------------
@@ -498,22 +502,6 @@ companies:
     category: aerospace
     careers_url: https://jobs.boeing.com/
 
-  - name: Northrop Grumman
-    ats: workday
-    host: ngc.wd1.myworkdayjobs.com
-    tenant: ngc
-    site: Northrop_Grumman_External_Site
-    category: aerospace
-    careers_url: https://www.northropgrumman.com/jobs
-
-  - name: RTX
-    ats: workday
-    host: globalhr.wd5.myworkdayjobs.com
-    tenant: globalhr
-    site: REC_RTX_Ext_Gateway
-    category: aerospace
-    careers_url: https://careers.rtx.com/
-
   - name: GE Aerospace
     ats: workday
     host: geaerospace.wd5.myworkdayjobs.com
@@ -521,12 +509,6 @@ companies:
     site: GE_ExternalSite
     category: aerospace
     careers_url: https://careers.geaerospace.com/
-
-  - name: Anduril
-    ats: greenhouse
-    board: andurilindustries
-    category: aerospace
-    careers_url: https://www.anduril.com/careers
 
   - name: Relativity Space
     ats: greenhouse
@@ -624,18 +606,6 @@ companies:
     category: aerospace
     careers_url: https://www.beta.team/careers/
 
-  - name: Shield AI
-    ats: ashby
-    board: shield-ai
-    category: aerospace
-    careers_url: https://shield.ai/careers/
-
-  - name: Saronic
-    ats: ashby
-    board: saronic
-    category: aerospace
-    careers_url: https://www.saronic.com/careers
-
   - name: Hadrian
     ats: greenhouse
     board: hadrian
@@ -677,38 +647,6 @@ companies:
     board: astrobotic
     category: aerospace
     careers_url: https://www.astrobotic.com/careers/
-
-  - name: BAE Systems
-    ats: workday
-    host: baesystems.wd3.myworkdayjobs.com
-    tenant: baesystems
-    site: BAE_Life_External
-    category: aerospace
-    careers_url: https://jobs.baesystems.com/
-
-  - name: L3Harris
-    ats: workday
-    host: l3harris.wd5.myworkdayjobs.com
-    tenant: l3harris
-    site: L3Harris_External
-    category: aerospace
-    careers_url: https://careers.l3harris.com/
-
-  - name: General Dynamics
-    ats: workday
-    host: gdmissionsystems.wd1.myworkdayjobs.com
-    tenant: gdmissionsystems
-    site: GDMS_External
-    category: aerospace
-    careers_url: https://gdmissionsystems.com/careers
-
-  - name: Textron
-    ats: workday
-    host: textron.wd1.myworkdayjobs.com
-    tenant: textron
-    site: TEXTRON
-    category: aerospace
-    careers_url: https://www.textron.com/careers
 
   - name: Spirit AeroSystems
     ats: workday
