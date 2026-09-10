@@ -1,0 +1,1136 @@
+# Mechanical engineering employers to scrape.
+# Add a company by copying a block that matches its ATS.
+#
+# greenhouse / lever / ashby / smartrecruiters:
+#   board: slug from the careers URL
+# workday:
+#   host, tenant, site from https://{host}/wday/cxs/{tenant}/{site}/jobs
+# tesla:
+#   no extra fields (fixed careers API)
+#
+# category: medical | automotive | aerospace | energy | robotics | other
+
+# Skipped (no public JSON ATS):
+# - Lockheed Martin — IBM Kenexa BrassRing
+# - Apple — custom gated careers site
+# - NASA / national labs — USAJobs
+
+companies:
+  # ---------------------------------------------------------------------------
+  # Medical Devices (shown first on every page)
+  # ---------------------------------------------------------------------------
+  - name: Abbott
+    ats: workday
+    host: abbott.wd5.myworkdayjobs.com
+    tenant: abbott
+    site: abbottcareers
+    category: medical
+    careers_url: https://www.jobs.abbott/
+
+  - name: Medtronic
+    ats: workday
+    host: medtronic.wd1.myworkdayjobs.com
+    tenant: medtronic
+    site: MedtronicCareers
+    category: medical
+    careers_url: https://www.medtronic.com/en-us/our-company/careers.html
+
+  - name: Stryker
+    ats: workday
+    host: stryker.wd1.myworkdayjobs.com
+    tenant: stryker
+    site: StrykerCareers
+    category: medical
+    careers_url: https://careers.stryker.com/
+
+  - name: Boston Scientific
+    ats: workday
+    host: bostonscientific.wd1.myworkdayjobs.com
+    tenant: bostonscientific
+    site: BSH
+    category: medical
+    careers_url: https://jobs.bostonscientific.com/
+
+  - name: Intuitive
+    ats: workday
+    host: intuitive.wd5.myworkdayjobs.com
+    tenant: intuitive
+    site: Intuitive
+    category: medical
+    careers_url: https://careers.intuitive.com/
+
+  - name: Edwards Lifesciences
+    ats: workday
+    host: edwards.wd5.myworkdayjobs.com
+    tenant: edwards
+    site: EdwardsCareers
+    category: medical
+    careers_url: https://www.edwards.com/careers
+
+  - name: Zimmer Biomet
+    ats: workday
+    host: zimmerbiomet.wd1.myworkdayjobs.com
+    tenant: zimmerbiomet
+    site: ZBCAREERS
+    category: medical
+    careers_url: https://www.zimmerbiomet.com/en/careers.html
+
+  - name: Johnson & Johnson
+    ats: workday
+    host: jj.wd5.myworkdayjobs.com
+    tenant: jj
+    site: jj
+    category: medical
+    careers_url: https://www.careers.jnj.com/
+
+  - name: BD
+    ats: workday
+    host: bd.wd1.myworkdayjobs.com
+    tenant: bd
+    site: EXTERNAL_CAREERS
+    category: medical
+    careers_url: https://jobs.bd.com/
+
+  - name: Baxter
+    ats: workday
+    host: baxter.wd1.myworkdayjobs.com
+    tenant: baxter
+    site: Baxter_Careers
+    category: medical
+    careers_url: https://jobs.baxter.com/
+
+  - name: GE HealthCare
+    ats: workday
+    host: gehealthcare.wd5.myworkdayjobs.com
+    tenant: gehealthcare
+    site: GE_External_Career_Site
+    category: medical
+    careers_url: https://careers.gehealthcare.com/
+
+  - name: Philips
+    ats: workday
+    host: philips.wd3.myworkdayjobs.com
+    tenant: philips
+    site: jobs-and-careers
+    category: medical
+    careers_url: https://www.careers.philips.com/
+
+  - name: Thermo Fisher Scientific
+    ats: workday
+    host: thermofisher.wd5.myworkdayjobs.com
+    tenant: thermofisher
+    site: ThermoFisherCareers
+    category: medical
+    careers_url: https://jobs.thermofisher.com/
+
+  - name: Danaher
+    ats: workday
+    host: danaher.wd1.myworkdayjobs.com
+    tenant: danaher
+    site: danahercareers
+    category: medical
+    careers_url: https://jobs.danaher.com/
+
+  - name: Illumina
+    ats: workday
+    host: illumina.wd1.myworkdayjobs.com
+    tenant: illumina
+    site: illumina-careers
+    category: medical
+    careers_url: https://www.illumina.com/company/careers.html
+
+  - name: Agilent
+    ats: workday
+    host: agilent.wd5.myworkdayjobs.com
+    tenant: agilent
+    site: Agilent_Careers
+    category: medical
+    careers_url: https://careers.agilent.com/
+
+  - name: Dexcom
+    ats: workday
+    host: dexcom.wd1.myworkdayjobs.com
+    tenant: dexcom
+    site: Dexcom
+    category: medical
+    careers_url: https://careers.dexcom.com/
+
+  - name: Align Technology
+    ats: workday
+    host: aligntech.wd5.myworkdayjobs.com
+    tenant: aligntech
+    site: aligncareers
+    category: medical
+    careers_url: https://www.aligntech.com/careers
+
+  - name: Hologic
+    ats: workday
+    host: hologic.wd1.myworkdayjobs.com
+    tenant: hologic
+    site: careers
+    category: medical
+    careers_url: https://careers.hologic.com/
+
+  - name: ResMed
+    ats: workday
+    host: resmed.wd3.myworkdayjobs.com
+    tenant: resmed
+    site: ResMed_External_Careers
+    category: medical
+    careers_url: https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers
+
+  - name: Insulet
+    ats: greenhouse
+    board: insuletcorporation
+    category: medical
+    careers_url: https://www.insulet.com/careers
+
+  - name: Penumbra
+    ats: greenhouse
+    board: penumbra
+    category: medical
+    careers_url: https://www.penumbrainc.com/careers/
+
+  - name: 10x Genomics
+    ats: greenhouse
+    board: 10xgenomics
+    category: medical
+    careers_url: https://www.10xgenomics.com/careers
+
+  - name: Natera
+    ats: greenhouse
+    board: natera
+    category: medical
+    careers_url: https://www.natera.com/careers/
+
+  - name: Guardant Health
+    ats: greenhouse
+    board: guardanthealth
+    category: medical
+    careers_url: https://guardanthealth.com/careers/
+
+  - name: Exact Sciences
+    ats: workday
+    host: exactsciences.wd1.myworkdayjobs.com
+    tenant: exactsciences
+    site: Exact_Sciences
+    category: medical
+    careers_url: https://www.exactsciences.com/careers
+
+  - name: Bio-Rad
+    ats: workday
+    host: bio-rad.wd1.myworkdayjobs.com
+    tenant: bio-rad
+    site: External_Careers
+    category: medical
+    careers_url: https://careers.bio-rad.com/
+
+  - name: Waters
+    ats: workday
+    host: waters.wd5.myworkdayjobs.com
+    tenant: waters
+    site: Waters_External_Career_Site
+    category: medical
+    careers_url: https://www.waters.com/careers
+
+  - name: IDEXX
+    ats: workday
+    host: idexx.wd1.myworkdayjobs.com
+    tenant: idexx
+    site: IDEXX
+    category: medical
+    careers_url: https://careers.idexx.com/
+
+  - name: Smith+Nephew
+    ats: workday
+    host: smithnephew.wd5.myworkdayjobs.com
+    tenant: smithnephew
+    site: SmithNephewCareers
+    category: medical
+    careers_url: https://www.smith-nephew.com/careers
+
+  - name: Alcon
+    ats: workday
+    host: alcon.wd5.myworkdayjobs.com
+    tenant: alcon
+    site: careers_alcon
+    category: medical
+    careers_url: https://jobs.alcon.com/
+
+  - name: Teleflex
+    ats: workday
+    host: teleflex.wd1.myworkdayjobs.com
+    tenant: teleflex
+    site: TeleflexCareers
+    category: medical
+    careers_url: https://teleflex.com/careers
+
+  - name: ICU Medical
+    ats: workday
+    host: icumedical.wd1.myworkdayjobs.com
+    tenant: icumedical
+    site: ICUMedical_Careers
+    category: medical
+    careers_url: https://www.icumed.com/careers/
+
+  - name: Globus Medical
+    ats: greenhouse
+    board: globusmedical
+    category: medical
+    careers_url: https://www.globusmedical.com/careers/
+
+  - name: PROCEPT BioRobotics
+    ats: greenhouse
+    board: proceptbiorobotics
+    category: medical
+    careers_url: https://www.procept-biorobotics.com/careers/
+
+  - name: Masimo
+    ats: workday
+    host: masimo.wd1.myworkdayjobs.com
+    tenant: masimo
+    site: Masimo_Careers
+    category: medical
+    careers_url: https://www.masimo.com/company/careers/
+
+  - name: Tandem Diabetes Care
+    ats: greenhouse
+    board: tandemdiabetes
+    category: medical
+    careers_url: https://www.tandemdiabetes.com/careers
+
+  - name: Revvity
+    ats: workday
+    host: revvity.wd1.myworkdayjobs.com
+    tenant: revvity
+    site: RevvityCareers
+    category: medical
+    careers_url: https://www.revvity.com/careers
+
+  # ---------------------------------------------------------------------------
+  # Automotive & EV
+  # ---------------------------------------------------------------------------
+  - name: Tesla
+    ats: tesla
+    category: automotive
+    careers_url: https://www.tesla.com/careers
+
+  - name: Rivian
+    ats: greenhouse
+    board: rivian
+    category: automotive
+    careers_url: https://careers.rivian.com/
+
+  - name: Lucid Motors
+    ats: greenhouse
+    board: lucidmotors
+    category: automotive
+    careers_url: https://www.lucidmotors.com/careers
+
+  - name: Zoox
+    ats: lever
+    board: zoox
+    category: automotive
+    careers_url: https://zoox.com/careers/
+
+  - name: General Motors
+    ats: workday
+    host: generalmotors.wd5.myworkdayjobs.com
+    tenant: generalmotors
+    site: Careers_GM
+    category: automotive
+    careers_url: https://search-careers.gm.com/
+
+  - name: Ford
+    ats: workday
+    host: ford.wd1.myworkdayjobs.com
+    tenant: ford
+    site: FordCareer
+    category: automotive
+    careers_url: https://corporate.ford.com/careers.html
+
+  - name: Stellantis
+    ats: workday
+    host: stellantis.wd3.myworkdayjobs.com
+    tenant: stellantis
+    site: Stellantis
+    category: automotive
+    careers_url: https://careers.stellantis.com/
+
+  - name: Cummins
+    ats: workday
+    host: cummins.wd5.myworkdayjobs.com
+    tenant: cummins
+    site: Cummins_Careers
+    category: automotive
+    careers_url: https://www.cummins.com/careers
+
+  - name: PACCAR
+    ats: workday
+    host: paccar.wd1.myworkdayjobs.com
+    tenant: paccar
+    site: PACCAR
+    category: automotive
+    careers_url: https://www.paccar.com/careers/
+
+  - name: BorgWarner
+    ats: workday
+    host: borgwarner.wd1.myworkdayjobs.com
+    tenant: borgwarner
+    site: BorgWarner_Careers
+    category: automotive
+    careers_url: https://www.borgwarner.com/careers
+
+  - name: Magna
+    ats: workday
+    host: magna.wd3.myworkdayjobs.com
+    tenant: magna
+    site: Magna_Careers
+    category: automotive
+    careers_url: https://www.magna.com/careers
+
+  - name: Aptiv
+    ats: workday
+    host: aptiv.wd5.myworkdayjobs.com
+    tenant: aptiv
+    site: Aptiv
+    category: automotive
+    careers_url: https://www.aptiv.com/en/careers
+
+  - name: Honda
+    ats: workday
+    host: hondana.wd1.myworkdayjobs.com
+    tenant: hondana
+    site: Honda_Careers
+    category: automotive
+    careers_url: https://careers.honda.com/
+
+  - name: Toyota
+    ats: workday
+    host: toyota.wd1.myworkdayjobs.com
+    tenant: toyota
+    site: ToyotaCareers
+    category: automotive
+    careers_url: https://www.toyota.com/usa/careers
+
+  - name: Hyundai
+    ats: workday
+    host: hyundaicrm.wd1.myworkdayjobs.com
+    tenant: hyundaicrm
+    site: Hyundai_Careers
+    category: automotive
+    careers_url: https://www.hyundaimotorgroup.com/Careers
+
+  - name: Nuro
+    ats: greenhouse
+    board: nuro
+    category: automotive
+    careers_url: https://www.nuro.ai/careers
+
+  - name: Aurora
+    ats: greenhouse
+    board: aurora
+    category: automotive
+    careers_url: https://aurora.tech/careers
+
+  - name: Waymo
+    ats: greenhouse
+    board: waymo
+    category: automotive
+    careers_url: https://waymo.com/careers/
+
+  - name: QuantumScape
+    ats: greenhouse
+    board: quantumscape
+    category: automotive
+    careers_url: https://www.quantumscape.com/careers/
+
+  - name: Redwood Materials
+    ats: greenhouse
+    board: redwoodmaterials
+    category: automotive
+    careers_url: https://www.redwoodmaterials.com/careers/
+
+  - name: ChargePoint
+    ats: greenhouse
+    board: chargepoint
+    category: automotive
+    careers_url: https://www.chargepoint.com/about/careers
+
+  - name: Volvo Cars
+    ats: workday
+    host: volvocars.wd3.myworkdayjobs.com
+    tenant: volvocars
+    site: Volvo_Cars_Careers
+    category: automotive
+    careers_url: https://jobs.volvocars.com/
+
+  - name: BMW
+    ats: workday
+    host: bmwgroup.wd3.myworkdayjobs.com
+    tenant: bmwgroup
+    site: BMW_External_Career_Site
+    category: automotive
+    careers_url: https://www.bmwgroup.jobs/
+
+  # ---------------------------------------------------------------------------
+  # Aerospace & Defense
+  # ---------------------------------------------------------------------------
+  - name: SpaceX
+    ats: greenhouse
+    board: spacex
+    category: aerospace
+    careers_url: https://www.spacex.com/careers
+
+  - name: Blue Origin
+    ats: workday
+    host: blueorigin.wd5.myworkdayjobs.com
+    tenant: blueorigin
+    site: BlueOrigin
+    category: aerospace
+    careers_url: https://www.blueorigin.com/careers
+
+  - name: Boeing
+    ats: workday
+    host: boeing.wd1.myworkdayjobs.com
+    tenant: boeing
+    site: EXTERNAL_CAREERS
+    category: aerospace
+    careers_url: https://jobs.boeing.com/
+
+  - name: Northrop Grumman
+    ats: workday
+    host: ngc.wd1.myworkdayjobs.com
+    tenant: ngc
+    site: Northrop_Grumman_External_Site
+    category: aerospace
+    careers_url: https://www.northropgrumman.com/jobs
+
+  - name: RTX
+    ats: workday
+    host: globalhr.wd5.myworkdayjobs.com
+    tenant: globalhr
+    site: REC_RTX_Ext_Gateway
+    category: aerospace
+    careers_url: https://careers.rtx.com/
+
+  - name: GE Aerospace
+    ats: workday
+    host: geaerospace.wd5.myworkdayjobs.com
+    tenant: geaerospace
+    site: GE_ExternalSite
+    category: aerospace
+    careers_url: https://careers.geaerospace.com/
+
+  - name: Anduril
+    ats: greenhouse
+    board: andurilindustries
+    category: aerospace
+    careers_url: https://www.anduril.com/careers
+
+  - name: Relativity Space
+    ats: greenhouse
+    board: relativity
+    category: aerospace
+    careers_url: https://www.relativityspace.com/careers
+
+  - name: Rocket Lab
+    ats: greenhouse
+    board: rocketlab
+    category: aerospace
+    careers_url: https://www.rocketlabusa.com/careers/
+
+  - name: Firefly Aerospace
+    ats: greenhouse
+    board: fireflyaerospace
+    category: aerospace
+    careers_url: https://fireflyspace.com/careers/
+
+  - name: Sierra Space
+    ats: greenhouse
+    board: sierraspace
+    category: aerospace
+    careers_url: https://www.sierraspace.com/careers/
+
+  - name: Stoke Space
+    ats: greenhouse
+    board: stokespace
+    category: aerospace
+    careers_url: https://www.stokespace.com/careers/
+
+  - name: Vast
+    ats: greenhouse
+    board: vast
+    category: aerospace
+    careers_url: https://www.vastspace.com/careers
+
+  - name: Axiom Space
+    ats: greenhouse
+    board: axiom
+    category: aerospace
+    careers_url: https://www.axiomspace.com/careers
+
+  - name: Impulse Space
+    ats: ashby
+    board: impulse
+    category: aerospace
+    careers_url: https://www.impulsespace.com/careers
+
+  - name: Ursa Major
+    ats: greenhouse
+    board: ursamajor
+    category: aerospace
+    careers_url: https://www.ursamajor.com/careers
+
+  - name: Astranis
+    ats: greenhouse
+    board: astranis
+    category: aerospace
+    careers_url: https://www.astranis.com/careers
+
+  - name: Varda
+    ats: greenhouse
+    board: vardaspace
+    category: aerospace
+    careers_url: https://www.varda.com/careers
+
+  - name: Boom Supersonic
+    ats: ashby
+    board: boom
+    category: aerospace
+    careers_url: https://boomsupersonic.com/careers
+
+  - name: Hermeus
+    ats: greenhouse
+    board: hermeus
+    category: aerospace
+    careers_url: https://www.hermeus.com/careers
+
+  - name: Joby Aviation
+    ats: greenhouse
+    board: jobyaviation
+    category: aerospace
+    careers_url: https://www.jobyaviation.com/careers/
+
+  - name: Archer Aviation
+    ats: greenhouse
+    board: archer
+    category: aerospace
+    careers_url: https://www.archer.com/careers
+
+  - name: Beta Technologies
+    ats: greenhouse
+    board: beta
+    category: aerospace
+    careers_url: https://www.beta.team/careers/
+
+  - name: Shield AI
+    ats: ashby
+    board: shield-ai
+    category: aerospace
+    careers_url: https://shield.ai/careers/
+
+  - name: Saronic
+    ats: ashby
+    board: saronic
+    category: aerospace
+    careers_url: https://www.saronic.com/careers
+
+  - name: Hadrian
+    ats: greenhouse
+    board: hadrian
+    category: aerospace
+    careers_url: https://www.hadrian.co/careers
+
+  - name: True Anomaly
+    ats: greenhouse
+    board: trueanomaly
+    category: aerospace
+    careers_url: https://www.trueanomaly.space/careers
+
+  - name: CesiumAstro
+    ats: greenhouse
+    board: cesiumastro
+    category: aerospace
+    careers_url: https://www.cesiumastro.com/careers
+
+  - name: Planet Labs
+    ats: greenhouse
+    board: planetlabs
+    category: aerospace
+    careers_url: https://www.planet.com/careers/
+
+  - name: Redwire
+    ats: greenhouse
+    board: redwire
+    category: aerospace
+    careers_url: https://redwirespace.com/careers/
+
+  - name: Intuitive Machines
+    ats: greenhouse
+    board: intuitivemachines
+    category: aerospace
+    careers_url: https://www.intuitivemachines.com/careers
+
+  - name: Astrobotic
+    ats: greenhouse
+    board: astrobotic
+    category: aerospace
+    careers_url: https://www.astrobotic.com/careers/
+
+  - name: BAE Systems
+    ats: workday
+    host: baesystems.wd3.myworkdayjobs.com
+    tenant: baesystems
+    site: BAE_Life_External
+    category: aerospace
+    careers_url: https://jobs.baesystems.com/
+
+  - name: L3Harris
+    ats: workday
+    host: l3harris.wd5.myworkdayjobs.com
+    tenant: l3harris
+    site: L3Harris_External
+    category: aerospace
+    careers_url: https://careers.l3harris.com/
+
+  - name: General Dynamics
+    ats: workday
+    host: gdmissionsystems.wd1.myworkdayjobs.com
+    tenant: gdmissionsystems
+    site: GDMS_External
+    category: aerospace
+    careers_url: https://gdmissionsystems.com/careers
+
+  - name: Textron
+    ats: workday
+    host: textron.wd1.myworkdayjobs.com
+    tenant: textron
+    site: TEXTRON
+    category: aerospace
+    careers_url: https://www.textron.com/careers
+
+  - name: Spirit AeroSystems
+    ats: workday
+    host: spiritaero.wd1.myworkdayjobs.com
+    tenant: spiritaero
+    site: SpiritAero
+    category: aerospace
+    careers_url: https://www.spiritaero.com/careers/
+
+  - name: Howmet Aerospace
+    ats: workday
+    host: howmet.wd1.myworkdayjobs.com
+    tenant: howmet
+    site: Howmet
+    category: aerospace
+    careers_url: https://www.howmet.com/careers/
+
+  - name: Moog
+    ats: workday
+    host: moog.wd1.myworkdayjobs.com
+    tenant: moog
+    site: Moog
+    category: aerospace
+    careers_url: https://www.moog.com/careers.html
+
+  - name: Rolls-Royce
+    ats: workday
+    host: rollsroyce.wd3.myworkdayjobs.com
+    tenant: rollsroyce
+    site: Rolls_Royce
+    category: aerospace
+    careers_url: https://careers.rolls-royce.com/
+
+  - name: Airbus
+    ats: workday
+    host: airbus.wd3.myworkdayjobs.com
+    tenant: airbus
+    site: jobs
+    category: aerospace
+    careers_url: https://www.airbus.com/careers
+
+  - name: ABL Space
+    ats: greenhouse
+    board: ablspace
+    category: aerospace
+    careers_url: https://ablspacesystems.com/careers/
+
+  # ---------------------------------------------------------------------------
+  # Energy & Industrial
+  # ---------------------------------------------------------------------------
+  - name: John Deere
+    ats: workday
+    host: deere.wd5.myworkdayjobs.com
+    tenant: deere
+    site: DeereCareers
+    category: energy
+    careers_url: https://www.deere.com/en/our-company/john-deere-careers/
+
+  - name: Caterpillar
+    ats: workday
+    host: cat.wd5.myworkdayjobs.com
+    tenant: cat
+    site: CaterpillarCareers
+    category: energy
+    careers_url: https://www.caterpillar.com/en/careers.html
+
+  - name: Honeywell
+    ats: workday
+    host: honeywell.wd1.myworkdayjobs.com
+    tenant: honeywell
+    site: Honeywell
+    category: energy
+    careers_url: https://careers.honeywell.com/
+
+  - name: Parker Hannifin
+    ats: workday
+    host: parker.wd1.myworkdayjobs.com
+    tenant: parker
+    site: ParkerCareers
+    category: energy
+    careers_url: https://www.parker.com/careers
+
+  - name: Emerson
+    ats: workday
+    host: emerson.wd5.myworkdayjobs.com
+    tenant: emerson
+    site: Emerson_Careers
+    category: energy
+    careers_url: https://www.emerson.com/careers
+
+  - name: Eaton
+    ats: workday
+    host: eaton.wd1.myworkdayjobs.com
+    tenant: eaton
+    site: Eaton_Careers
+    category: energy
+    careers_url: https://www.eaton.com/careers
+
+  - name: 3M
+    ats: workday
+    host: 3m.wd1.myworkdayjobs.com
+    tenant: 3m
+    site: Search
+    category: energy
+    careers_url: https://www.3m.com/3M/en_US/careers-us/
+
+  - name: GE Vernova
+    ats: workday
+    host: gevernova.wd5.myworkdayjobs.com
+    tenant: gevernova
+    site: GE_ExternalSite
+    category: energy
+    careers_url: https://careers.gevernova.com/
+
+  - name: Baker Hughes
+    ats: workday
+    host: bakerhughes.wd5.myworkdayjobs.com
+    tenant: bakerhughes
+    site: BakerHughes
+    category: energy
+    careers_url: https://careers.bakerhughes.com/
+
+  - name: SLB
+    ats: workday
+    host: slb.wd5.myworkdayjobs.com
+    tenant: slb
+    site: SLB_External
+    category: energy
+    careers_url: https://careers.slb.com/
+
+  - name: Halliburton
+    ats: workday
+    host: halliburton.wd5.myworkdayjobs.com
+    tenant: halliburton
+    site: HAL_Careers
+    category: energy
+    careers_url: https://jobs.halliburton.com/
+
+  - name: Trane Technologies
+    ats: workday
+    host: tranetechnologies.wd5.myworkdayjobs.com
+    tenant: tranetechnologies
+    site: Trane_Careers
+    category: energy
+    careers_url: https://www.tranetechnologies.com/careers
+
+  - name: Carrier
+    ats: workday
+    host: carrier.wd1.myworkdayjobs.com
+    tenant: carrier
+    site: Carrier
+    category: energy
+    careers_url: https://www.corporate.carrier.com/careers/
+
+  - name: Johnson Controls
+    ats: workday
+    host: johnsoncontrols.wd5.myworkdayjobs.com
+    tenant: johnsoncontrols
+    site: JCI_Careers
+    category: energy
+    careers_url: https://www.johnsoncontrols.com/careers
+
+  - name: Rockwell Automation
+    ats: workday
+    host: rockwellautomation.wd1.myworkdayjobs.com
+    tenant: rockwellautomation
+    site: RockwellAutomation
+    category: energy
+    careers_url: https://www.rockwellautomation.com/careers.html
+
+  - name: Ingersoll Rand
+    ats: workday
+    host: irco.wd1.myworkdayjobs.com
+    tenant: irco
+    site: IR_Careers
+    category: energy
+    careers_url: https://www.irco.com/en-us/careers
+
+  - name: First Solar
+    ats: workday
+    host: firstsolar.wd1.myworkdayjobs.com
+    tenant: firstsolar
+    site: FirstSolar_Careers
+    category: energy
+    careers_url: https://www.firstsolar.com/en/Careers
+
+  - name: Enphase
+    ats: greenhouse
+    board: enphaseenergy
+    category: energy
+    careers_url: https://enphase.com/careers
+
+  - name: Bloom Energy
+    ats: greenhouse
+    board: bloomenergy
+    category: energy
+    careers_url: https://www.bloomenergy.com/careers/
+
+  - name: TerraPower
+    ats: greenhouse
+    board: terrapower
+    category: energy
+    careers_url: https://www.terrapower.com/careers/
+
+  - name: Kairos Power
+    ats: greenhouse
+    board: kairospower
+    category: energy
+    careers_url: https://kairospower.com/careers/
+
+  - name: Commonwealth Fusion Systems
+    ats: greenhouse
+    board: cfs
+    category: energy
+    careers_url: https://cfs.energy/careers
+
+  - name: Helion
+    ats: ashby
+    board: helion
+    category: energy
+    careers_url: https://www.helionenergy.com/careers/
+
+  - name: X-energy
+    ats: greenhouse
+    board: xenergy
+    category: energy
+    careers_url: https://x-energy.com/careers
+
+  - name: BWX Technologies
+    ats: workday
+    host: bwxtech.wd1.myworkdayjobs.com
+    tenant: bwxtech
+    site: BWXT
+    category: energy
+    careers_url: https://www.bwxt.com/careers
+
+  - name: CNH Industrial
+    ats: workday
+    host: cnh.wd1.myworkdayjobs.com
+    tenant: cnh
+    site: CNH_Careers
+    category: energy
+    careers_url: https://www.cnh.com/careers
+
+  - name: Applied Materials
+    ats: workday
+    host: amat.wd1.myworkdayjobs.com
+    tenant: amat
+    site: External
+    category: energy
+    careers_url: https://www.appliedmaterials.com/us/en/careers.html
+
+  # ---------------------------------------------------------------------------
+  # Robotics & Hardware
+  # ---------------------------------------------------------------------------
+  - name: Figure
+    ats: greenhouse
+    board: figureai
+    category: robotics
+    careers_url: https://www.figure.ai/careers
+
+  - name: Agility Robotics
+    ats: greenhouse
+    board: agilityrobotics
+    category: robotics
+    careers_url: https://www.agilityrobotics.com/careers
+
+  - name: Apptronik
+    ats: greenhouse
+    board: apptronik
+    category: robotics
+    careers_url: https://apptronik.com/careers/
+
+  - name: Boston Dynamics
+    ats: greenhouse
+    board: bostondynamics
+    category: robotics
+    careers_url: https://bostondynamics.com/careers/
+
+  - name: 1X
+    ats: ashby
+    board: 1x
+    category: robotics
+    careers_url: https://www.1x.tech/careers
+
+  - name: Skydio
+    ats: ashby
+    board: skydio
+    category: robotics
+    careers_url: https://www.skydio.com/careers
+
+  - name: Gecko Robotics
+    ats: greenhouse
+    board: geckorobotics
+    category: robotics
+    careers_url: https://www.geckorobotics.com/careers
+
+  - name: iRobot
+    ats: workday
+    host: irobot.wd1.myworkdayjobs.com
+    tenant: irobot
+    site: iRobot
+    category: robotics
+    careers_url: https://www.irobot.com/careers
+
+  - name: Dyson
+    ats: workday
+    host: dyson.wd3.myworkdayjobs.com
+    tenant: dyson
+    site: Dyson_Careers
+    category: robotics
+    careers_url: https://careers.dyson.com/
+
+  - name: Lam Research
+    ats: workday
+    host: lamresearch.wd1.myworkdayjobs.com
+    tenant: lamresearch
+    site: LamResearch
+    category: robotics
+    careers_url: https://careers.lamresearch.com/
+
+  - name: ASML
+    ats: workday
+    host: asml.wd3.myworkdayjobs.com
+    tenant: asml
+    site: ASML
+    category: robotics
+    careers_url: https://www.asml.com/careers
+
+  - name: KLA
+    ats: workday
+    host: kla.wd1.myworkdayjobs.com
+    tenant: kla
+    site: KLA_Careers
+    category: robotics
+    careers_url: https://www.kla.com/careers
+
+  - name: NVIDIA
+    ats: workday
+    host: nvidia.wd5.myworkdayjobs.com
+    tenant: nvidia
+    site: NVIDIAExternalCareerSite
+    category: robotics
+    careers_url: https://www.nvidia.com/en-us/about-nvidia/careers/
+
+  - name: Analog Devices
+    ats: workday
+    host: analogdevices.wd1.myworkdayjobs.com
+    tenant: analogdevices
+    site: Analog
+    category: robotics
+    careers_url: https://www.analog.com/en/careers.html
+
+  - name: Texas Instruments
+    ats: workday
+    host: ti.wd1.myworkdayjobs.com
+    tenant: ti
+    site: Search
+    category: robotics
+    careers_url: https://careers.ti.com/
+
+  - name: Teradyne
+    ats: workday
+    host: teradyne.wd1.myworkdayjobs.com
+    tenant: teradyne
+    site: Teradyne
+    category: robotics
+    careers_url: https://www.teradyne.com/careers/
+
+  - name: Symbotic
+    ats: greenhouse
+    board: symbotic
+    category: robotics
+    careers_url: https://www.symbotic.com/careers
+
+  - name: Garmin
+    ats: workday
+    host: garmin.wd5.myworkdayjobs.com
+    tenant: garmin
+    site: Garmin
+    category: robotics
+    careers_url: https://careers.garmin.com/
+
+  # ---------------------------------------------------------------------------
+  # Other
+  # ---------------------------------------------------------------------------
+  - name: Corning
+    ats: workday
+    host: corning.wd1.myworkdayjobs.com
+    tenant: corning
+    site: Corning
+    category: other
+    careers_url: https://www.corning.com/careers
+
+  - name: DuPont
+    ats: workday
+    host: dupont.wd5.myworkdayjobs.com
+    tenant: dupont
+    site: DuPont_Careers
+    category: other
+    careers_url: https://careers.dupont.com/
+
+  - name: Dow
+    ats: workday
+    host: dow.wd1.myworkdayjobs.com
+    tenant: dow
+    site: Dow_Careers
+    category: other
+    careers_url: https://corporate.dow.com/en-us/careers.html
+
+  - name: Eastman
+    ats: workday
+    host: eastman.wd5.myworkdayjobs.com
+    tenant: eastman
+    site: Eastman_Careers
+    category: other
+    careers_url: https://www.eastman.com/careers
+
+  - name: Goodyear
+    ats: workday
+    host: goodyear.wd1.myworkdayjobs.com
+    tenant: goodyear
+    site: Goodyear
+    category: other
+    careers_url: https://www.goodyear.com/careers
