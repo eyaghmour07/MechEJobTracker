@@ -9,6 +9,7 @@ import json
 import logging
 import re
 import sys
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
@@ -279,8 +280,32 @@ INTL_HINTS = {
     "hungary", "slovakia", "munich", "berlin", "paris", "amsterdam", "dublin",
     "sydney", "melbourne", "bangalore", "bengaluru", "hyderabad", "shanghai",
     "shenzhen", "beijing", "tokyo", "osaka", "seoul", "remote - canada",
-    "remote - europe", "remote - uk", "emea", "apac",
+    "remote - europe", "remote - uk", "emea", "apac", "costa rica", "alajuela",
+    "auckland", "johannesburg", "penang", "eindhoven", "glostrup",
 }
+# Bare Workday city names that are US sites (no state/country on the listing).
+US_CITIES = {
+    "madison", "state college", "waukesha", "west milwaukee", "evendale",
+    "fridley", "jacksonville", "cincinnati", "hawthorne", "starbase",
+    "pleasanton", "foster city", "redmond", "cape canaveral", "long beach",
+    "irvine", "tempe", "mounds view", "plymouth", "north haven", "houston",
+    "greenville", "detroit", "seattle", "greater seattle area", "denver",
+    "space coast", "van horn",
+}
+INTL_HINT_RE = re.compile(
+    r"\b(?:" + "|".join(re.escape(h) for h in sorted(INTL_HINTS, key=len, reverse=True)) + r")\b",
+    re.I,
+)
+US_HINT_RE = re.compile(
+    r"\b(?:" + "|".join(re.escape(h) for h in sorted(US_HINTS, key=len, reverse=True)) + r")\b"
+    r"|united states",
+    re.I,
+)
+MULTI_LOC_RE = re.compile(r"^\d+\s+locations?$", re.I)
+COUNTRY_PATH_RE = re.compile(
+    r"/(usa|can|gbr|esp|deu|fra|irl|nld|mex|ind|chn|jpn|kor|aus|sgp|nzl|zaf|cri|pol|dnk|mys)[-_/]",
+    re.I,
+)
 
 logging.basicConfig(
     level=logging.INFO,
@@ -378,16 +403,88 @@ def strip_html(text: str) -> str:
     return html.unescape(re.sub(r"\s+", " ", text)).strip()
 
 
+def unique_locations(values: list[str]) -> list[str]:
+    seen: set[str] = set()
+    out: list[str] = []
+    for raw in values:
+        loc = re.sub(r"\s+", " ", (raw or "").strip())
+        if not loc or MULTI_LOC_RE.fullmatch(loc):
+            continue
+        key = loc.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(loc)
+    return out
+
+
+def split_location_text(location: str) -> list[str]:
+    loc = re.sub(r"\s+", " ", (location or "").strip())
+    if not loc or MULTI_LOC_RE.fullmatch(loc):
+        return []
+    parts = re.split(r"\s*;\s*|\s*\|\s*|\s+\+\s+|\s+/\s+|\s+and\s+(?=[A-Z])", loc)
+    return unique_locations(parts)
+
+
+def country_to_code(country: Any) -> str | None:
+    if not country:
+        return None
+    if isinstance(country, str):
+        name, code = country, ""
+    else:
+        name = str(country.get("descriptor") or country.get("name") or "")
+        raw = country.get("alpha2Code") or ""
+        code = raw if isinstance(raw, str) else ""
+    if len(code) == 2 and code.isalpha():
+        return code.upper()
+    low = name.lower()
+    if "united states" in low or low in {"usa", "us", "u.s.", "u.s.a.", "u.s.a"}:
+        return "US"
+    if name:
+        return "INTL"
+    return None
+
+
+def workday_locations(info: dict[str, Any]) -> tuple[list[str], str | None]:
+    locs: list[str] = []
+    primary = info.get("location")
+    if isinstance(primary, str):
+        locs.append(primary)
+    elif isinstance(primary, dict):
+        locs.append(str(primary.get("descriptor") or primary.get("name") or ""))
+    for item in info.get("additionalLocations") or []:
+        if isinstance(item, str):
+            locs.append(item)
+        elif isinstance(item, dict):
+            locs.append(str(item.get("descriptor") or item.get("name") or ""))
+    req = info.get("jobRequisitionLocation") or {}
+    country = country_to_code(info.get("country")) or country_to_code(
+        req.get("country") if isinstance(req, dict) else None
+    )
+    return unique_locations(locs), country
+
+
 def fetch_greenhouse(company: dict[str, Any]) -> list[dict[str, Any]]:
     board = company["board"]
     data = get_json(f"https://boards-api.greenhouse.io/v1/boards/{board}/jobs", params={"content": "true"})
     jobs = []
     for job in data.get("jobs", []):
         loc = (job.get("location") or {}).get("name") or ""
+        office_locs = []
+        for office in job.get("offices") or []:
+            name = office.get("name") or ""
+            nested = office.get("location")
+            if isinstance(nested, str):
+                office_locs.append(nested)
+            elif isinstance(nested, dict):
+                office_locs.append(nested.get("name") or "")
+            office_locs.append(name)
+        use_offices = bool(MULTI_LOC_RE.fullmatch(loc) or re.search(r"multiple|various|several", loc, re.I) or ";" in loc)
         jobs.append(
             {
                 "title": job.get("title") or "",
                 "location": loc,
+                "locations": unique_locations(office_locs) if use_offices else split_location_text(loc),
                 "url": job.get("absolute_url") or "",
                 "posted_at": parse_dt(job.get("first_published") or job.get("updated_at")),
                 "description": strip_html(job.get("content") or ""),
@@ -402,10 +499,20 @@ def fetch_lever(company: dict[str, Any]) -> list[dict[str, Any]]:
     jobs = []
     for job in data:
         cats = job.get("categories") or {}
+        loc = cats.get("location") or job.get("country") or ""
+        extra = job.get("additionalLocations") or job.get("locations") or []
+        extra_locs = []
+        if isinstance(extra, list):
+            for item in extra:
+                if isinstance(item, str):
+                    extra_locs.append(item)
+                elif isinstance(item, dict):
+                    extra_locs.append(item.get("name") or item.get("location") or "")
         jobs.append(
             {
                 "title": job.get("text") or "",
-                "location": cats.get("location") or job.get("country") or "",
+                "location": loc,
+                "locations": unique_locations([loc, *extra_locs] if extra_locs else split_location_text(loc)),
                 "url": job.get("hostedUrl") or job.get("applyUrl") or "",
                 "posted_at": parse_dt(job.get("createdAt")),
                 "description": strip_html(job.get("descriptionPlain") or job.get("description") or ""),
@@ -422,10 +529,17 @@ def fetch_ashby(company: dict[str, Any]) -> list[dict[str, Any]]:
         loc = job.get("location") or ""
         if isinstance(loc, dict):
             loc = loc.get("locationName") or loc.get("name") or ""
+        extra_locs = []
+        for item in job.get("secondaryLocations") or []:
+            if isinstance(item, str):
+                extra_locs.append(item)
+            elif isinstance(item, dict):
+                extra_locs.append(item.get("locationName") or item.get("name") or "")
         jobs.append(
             {
                 "title": job.get("title") or "",
                 "location": loc,
+                "locations": unique_locations([loc, *extra_locs] if extra_locs else split_location_text(loc)),
                 "url": job.get("jobUrl") or job.get("applyUrl") or "",
                 "posted_at": parse_dt(job.get("publishedAt") or job.get("updatedAt")),
                 "description": strip_html(job.get("descriptionHtml") or job.get("descriptionPlain") or ""),
@@ -522,13 +636,15 @@ def fetch_tesla(company: dict[str, Any]) -> list[dict[str, Any]]:
     jobs = []
     for job in listings:
         loc_id = job.get("l") or job.get("location")
-        loc = ""
+        locs: list[str] = []
         if isinstance(loc_id, list):
-            loc = ", ".join(str(loc_map.get(str(i), i)) for i in loc_id[:3])
+            locs = [str(loc_map.get(str(i), i)) for i in loc_id]
         elif isinstance(loc_id, (str, int)):
-            loc = str(loc_map.get(str(loc_id), loc_id))
+            locs = [str(loc_map.get(str(loc_id), loc_id))]
         elif isinstance(job.get("locationName"), str):
-            loc = job["locationName"]
+            locs = [job["locationName"]]
+        locs = unique_locations(locs)
+        loc = locs[0] if locs else ""
         title = job.get("t") or job.get("title") or ""
         job_id = str(job.get("id") or job.get("i") or "")
         slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
@@ -537,6 +653,7 @@ def fetch_tesla(company: dict[str, Any]) -> list[dict[str, Any]]:
             {
                 "title": title,
                 "location": loc,
+                "locations": locs,
                 "url": url,
                 "posted_at": parse_dt(job.get("dp") or job.get("publishedDate") or job.get("hot")),
                 "description": "",
@@ -559,15 +676,21 @@ def is_internish(title: str) -> bool:
     return bool(COOP_RE.search(title) or INTERN_RE.search(title))
 
 
-def fetch_workday_detail(detail_url: str) -> tuple[str, bool | None]:
+def fetch_workday_detail(detail_url: str) -> tuple[str, bool | None, list[str], str | None]:
     if not detail_url:
-        return "", None
-    try:
-        data = get_json(detail_url)
-    except Exception:  # noqa: BLE001 — fail soft; keep title-only fallback
-        return "", None
-    info = data.get("jobPostingInfo") or {}
-    return strip_html(info.get("jobDescription") or ""), info.get("canApply")
+        return "", None, [], None
+    data = None
+    for attempt in range(3):
+        try:
+            data = get_json(detail_url)
+            break
+        except Exception:  # noqa: BLE001 — fail soft; keep title-only fallback
+            if attempt == 2:
+                return "", None, [], None
+            time.sleep(0.5 * (attempt + 1))
+    info = (data or {}).get("jobPostingInfo") or {}
+    locs, country = workday_locations(info)
+    return strip_html(info.get("jobDescription") or ""), info.get("canApply"), locs, country
 
 
 def is_open_posting(title: str, description: str, can_apply: bool | None) -> bool:
@@ -650,34 +773,75 @@ def classify_level(title: str, description: str) -> str | None:
     return None
 
 
-def classify_geo(location: str) -> str:
-    loc = (location or "").strip().lower()
-    if not loc:
-        return "usa"
-    if re.search(r"\d+\s+locations?\b", loc):
-        return "usa"
-    if any(h in loc for h in INTL_HINTS):
-        return "intl"
-    if re.search(r"\b(mexico|canada|uk|germany|india|china|japan|france|australia|spain|ireland|netherlands|singapore|vietnam)\b", loc):
-        return "intl"
-    if any(h in loc for h in US_HINTS) or "united states" in loc:
-        return "usa"
-    if re.search(r"\bremote\b", loc):
-        return "usa"
+def looks_us_location(loc: str) -> bool:
+    if US_HINT_RE.search(loc) or re.search(r"\bunited states\b", loc):
+        return True
+    if re.search(r"\b(usa|u\.s\.a?\.?)\b", loc) or re.match(r"^(us|usa)\b", loc):
+        return True
+    if re.search(r"\bremote\b", loc) and not INTL_HINT_RE.search(loc):
+        return True
     m = re.search(r",\s*([a-z]{2})\b", loc)
     if m and m.group(1) in US_STATE_ABBR:
-        return "usa"
+        return True
     for name in US_STATE_NAMES:
         if re.search(rf"\b{re.escape(name)}\b", loc):
-            return "usa"
+            return True
     tokens = set(re.findall(r"[a-z]+", loc))
     if "in" in tokens and not re.search(r",\s*in\b", loc) and "indiana" not in loc:
         tokens.discard("in")
     if "or" in tokens and not re.search(r",\s*or\b", loc) and "oregon" not in loc:
         tokens.discard("or")
     if tokens & US_STATE_ABBR:
+        return True
+    city = re.sub(r"[^a-z\s]", " ", loc).strip()
+    if city in US_CITIES:
+        return True
+    return False
+
+
+def infer_geo_context(title: str, url: str) -> str | None:
+    path = COUNTRY_PATH_RE.search(url or "")
+    if path:
+        return "usa" if path.group(1).lower() == "usa" else "intl"
+    if re.search(r"united-states|united_states|/usa[-_/]", url or "", re.I):
         return "usa"
-    if re.search(r",\s*[a-z]{2}$", loc) and loc.replace(".", "")[-2:] in US_STATE_ABBR:
+    if re.search(
+        r"/(china|shanghai|beijing|singapore|india|ireland|germany|spain|canada|mexico|"
+        r"poland|malaysia|denmark|netherlands|france|japan|korea|australia|united-kingdom)[-_/]",
+        url or "",
+        re.I,
+    ):
+        return "intl"
+    for name in sorted(US_STATE_NAMES, key=len, reverse=True):
+        slug = name.replace(" ", "-")
+        if re.search(rf"[-_/]{re.escape(slug)}[-_/]", url or "", re.I):
+            return "usa"
+    if re.search(r"seattle|detroit|mossville|peoria|huntsville|cape-canaveral", url or "", re.I):
+        return "usa"
+    if re.search(r"\b(united states|\bu\.s\.a?\.?\b|\busa\b)\b", title or "", re.I):
+        return "usa"
+    if re.search(r"(?:^|[\s–\-/])us(?:[\s–\-/]|$)", title or "", re.I):
+        return "usa"
+    return None
+
+
+def classify_geo(location: str, country_code: str | None = None, title: str = "", url: str = "") -> str:
+    loc = (location or "").strip().lower()
+    if loc and looks_us_location(loc) and not (INTL_HINT_RE.search(loc) and "united states" not in loc and "usa" not in loc):
+        return "usa"
+    if loc and INTL_HINT_RE.search(loc):
+        return "intl"
+    if loc and looks_us_location(loc):
+        return "usa"
+    code = (country_code or "").strip().upper()
+    if code in {"US", "USA"}:
+        return "usa"
+    if code:
+        return "intl"
+    hint = infer_geo_context(title, url)
+    if hint:
+        return hint
+    if not loc or loc in {"not specified", "multiple locations", "various locations", "flexible - any spacex site"}:
         return "usa"
     return "intl"
 
@@ -699,10 +863,17 @@ def fetch_company(company: dict[str, Any]) -> tuple[str, list[dict[str, Any]], s
         url = (job.get("url") or "").strip()
         desc = job.get("description") or ""
         can_apply = job.get("can_apply")
+        detail_locs = list(job.get("locations") or [])
+        country_code = job.get("country_code")
         if not title or not url:
             continue
-        if not desc and job.get("detail_url") and is_internish(title):
-            desc, can_apply = fetch_workday_detail(job["detail_url"])
+        need_detail = bool(job.get("detail_url") and (is_internish(title) or MULTI_LOC_RE.fullmatch(location)))
+        if need_detail:
+            desc, can_apply, fetched_locs, fetched_country = fetch_workday_detail(job["detail_url"])
+            if fetched_locs:
+                detail_locs = fetched_locs
+            if fetched_country:
+                country_code = fetched_country
         if not is_open_posting(title, desc, can_apply):
             continue
         if not is_me_role(title, desc):
@@ -716,20 +887,22 @@ def fetch_company(company: dict[str, Any]) -> tuple[str, list[dict[str, Any]], s
         age = age_days(posted) if isinstance(posted, datetime) else None
         if age is not None and age > MAX_AGE_DAYS:
             continue
-        out.append(
-            {
-                "company": name,
-                "careers_url": company.get("careers_url") or url,
-                "category": company.get("category") or "other",
-                "title": title,
-                "location": location or "Not specified",
-                "url": url,
-                "posted_at": posted,
-                "age": age,
-                "level": level,
-                "geo": classify_geo(location),
-            }
-        )
+        locations = unique_locations(detail_locs) or split_location_text(location) or [location or "Not specified"]
+        for loc in locations:
+            out.append(
+                {
+                    "company": name,
+                    "careers_url": company.get("careers_url") or url,
+                    "category": company.get("category") or "other",
+                    "title": title,
+                    "location": loc,
+                    "url": url,
+                    "posted_at": posted,
+                    "age": age,
+                    "level": level,
+                    "geo": classify_geo(loc, country_code, title, url),
+                }
+            )
     return name, out, None
 
 
@@ -752,10 +925,16 @@ def dedupe(jobs: list[dict[str, Any]]) -> list[dict[str, Any]]:
 
 
 def sort_jobs(jobs: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    def key(job: dict[str, Any]) -> tuple[int, str, float]:
+    def key(job: dict[str, Any]) -> tuple[int, str, str, float, str]:
         age = job["age"]
         age_key = float(age) if age is not None else 999.0
-        return (company_priority(job["company"]), job["company"].lower(), age_key)
+        return (
+            company_priority(job["company"]),
+            job["company"].lower(),
+            job["title"].lower(),
+            age_key,
+            (job.get("location") or "").lower(),
+        )
 
     return sorted(jobs, key=key)
 

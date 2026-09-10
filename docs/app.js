@@ -103,7 +103,11 @@ function sortJobs(jobs) {
     if (pa !== pb) return pa - pb;
     const byName = (a.company || "").localeCompare(b.company || "");
     if (byName) return byName;
-    return (a.age ?? 999) - (b.age ?? 999);
+    const byTitle = (a.title || "").localeCompare(b.title || "");
+    if (byTitle) return byTitle;
+    const byAge = (a.age ?? 999) - (b.age ?? 999);
+    if (byAge) return byAge;
+    return (a.location || "").localeCompare(b.location || "");
   });
 }
 
