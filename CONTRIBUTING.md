@@ -90,6 +90,26 @@ python3 scripts/fetch_jobs.py
 
 The script rewrites only the `<!-- TABLE_* -->` and count markers in the markdown files. Do not hand-edit those table bodies; they are overwritten on every run.
 
+## Mark a job as applied
+
+Open roles live in each category table. After you apply, the posting should move into that category's **Applied** subsection (✅ instead of the Apply badge). Applied rows stay even if the company takes the posting down.
+
+Pick one:
+
+1. **GitHub Actions** — Actions → *Update job listings* → Run workflow → paste the posting URL into `apply_url`.
+2. **YAML** — add the URL to [`scripts/applied.yaml`](scripts/applied.yaml):
+
+```yaml
+applications:
+  - url: https://jj.wd5.myworkdayjobs.com/en-US/jj/job/...
+```
+
+3. **CLI**
+
+```bash
+python3 scripts/fetch_jobs.py --applied 'https://...'
+```
+
 ## What gets listed
 
 Only mechanical / hardware roles (including biomedical, manufacturing, test, thermal, and device design). Software-only, firmware-only, clinical, nursing, and sales jobs are dropped. Internships are split from new-grad / early-career roles. Postings older than 120 days are dropped.

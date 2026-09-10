@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 * * * *"
   workflow_dispatch:
+    inputs:
+      apply_url:
+        description: "Paste a job posting URL to mark as applied. Leave blank to only refresh listings."
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -29,13 +34,18 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Fetch jobs
-        run: python scripts/fetch_jobs.py
+        run: |
+          if [ -n "${{ github.event.inputs.apply_url }}" ]; then
+            python scripts/fetch_jobs.py --applied "${{ github.event.inputs.apply_url }}"
+          else
+            python scripts/fetch_jobs.py
+          fi
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md NEW_GRAD_USA.md INTERN_INTL.md NEW_GRAD_INTL.md
+          git add README.md NEW_GRAD_USA.md INTERN_INTL.md NEW_GRAD_INTL.md scripts/applied.yaml
           if git diff --staged --quiet; then
             echo "No listing changes"
           else

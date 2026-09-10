@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import argparse
 import html
 import logging
 import re
@@ -16,6 +17,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = Path(__file__).resolve().parent / "companies.yaml"
+APPLIED_PATH = Path(__file__).resolve().parent / "applied.yaml"
 MAX_AGE_DAYS = 120
 WORKDAY_LIMIT = 20
 WORKDAY_MAX_PAGES = 3
@@ -56,6 +58,13 @@ COUNT_KEYS = {
     ("newgrad", "usa"): "COUNT_NEWGRAD_USA",
     ("intern", "intl"): "COUNT_INTERN_INTL",
     ("newgrad", "intl"): "COUNT_NEWGRAD_INTL",
+}
+
+APPLIED_COUNT_KEYS = {
+    ("intern", "usa"): "COUNT_APPLIED_INTERN_USA",
+    ("newgrad", "usa"): "COUNT_APPLIED_NEWGRAD_USA",
+    ("intern", "intl"): "COUNT_APPLIED_INTERN_INTL",
+    ("newgrad", "intl"): "COUNT_APPLIED_NEWGRAD_INTL",
 }
 
 INCLUDE_RE = re.compile(
@@ -563,9 +572,120 @@ def md_escape(text: str) -> str:
     return text.replace("|", "/").replace("\n", " ").strip()
 
 
-def render_table(jobs: list[dict[str, Any]]) -> str:
+def normalize_url(url: str) -> str:
+    url = (url or "").strip()
+    url = url.split("#")[0].split("?")[0]
+    return url.rstrip("/").lower()
+
+
+def url_job_token(url: str) -> str:
+    path = normalize_url(url).rsplit("/", 1)[-1]
+    return path
+
+
+def records_match(left: dict[str, Any], right: dict[str, Any]) -> bool:
+    left_url = normalize_url(left.get("url") or "")
+    right_url = normalize_url(right.get("url") or "")
+    if left_url and right_url and left_url == right_url:
+        return True
+    if left_url and right_url:
+        left_tok, right_tok = url_job_token(left_url), url_job_token(right_url)
+        if left_tok and left_tok == right_tok and len(left_tok) >= 8:
+            return True
+    left_co = (left.get("company") or "").strip().lower()
+    right_co = (right.get("company") or "").strip().lower()
+    left_title = re.sub(r"\s+", " ", (left.get("title") or "").strip().lower())
+    right_title = re.sub(r"\s+", " ", (right.get("title") or "").strip().lower())
+    return bool(left_co and left_title and left_co == right_co and left_title == right_title)
+
+
+def load_applied() -> list[dict[str, Any]]:
+    if not APPLIED_PATH.exists():
+        return []
+    data = yaml.safe_load(APPLIED_PATH.read_text(encoding="utf-8")) or {}
+    raw = data.get("applications") or data.get("urls") or []
+    apps: list[dict[str, Any]] = []
+    for item in raw:
+        if isinstance(item, str):
+            apps.append({"url": item.strip()})
+        elif isinstance(item, dict) and (item.get("url") or item.get("title")):
+            apps.append(dict(item))
+    return apps
+
+
+def save_applied(apps: list[dict[str, Any]]) -> None:
+    header = (
+        "# Jobs you have already applied to.\n"
+        "# Add a posting URL, or run:\n"
+        "#   python scripts/fetch_jobs.py --applied 'https://...'\n"
+        "# GitHub: Actions → Update job listings → Run workflow → paste the Apply URL.\n"
+        "# Applied roles move under each section's Applied table and stay there even if the posting comes down.\n\n"
+    )
+    payload = {"applications": apps}
+    APPLIED_PATH.write_text(
+        header + yaml.safe_dump(payload, sort_keys=False, allow_unicode=True),
+        encoding="utf-8",
+    )
+
+
+def add_applied_urls(urls: list[str], apps: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    today = now_utc().date().isoformat()
+    for url in urls:
+        url = url.strip()
+        if not url:
+            continue
+        if any(records_match({"url": url}, app) for app in apps):
+            log.info("Already marked applied: %s", url)
+            continue
+        apps.append({"url": url, "applied_at": today})
+        log.info("Marked applied: %s", url)
+    return apps
+
+
+def enrich_applied(apps: list[dict[str, Any]], jobs: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    today = now_utc().date().isoformat()
+    for job in jobs:
+        for app in apps:
+            if not records_match(job, app):
+                continue
+            app["url"] = job["url"]
+            app["company"] = job["company"]
+            app["title"] = job["title"]
+            app["location"] = job["location"]
+            app["category"] = job["category"]
+            app["level"] = job["level"]
+            app["geo"] = job["geo"]
+            app["careers_url"] = job["careers_url"]
+            app.setdefault("applied_at", today)
+            if job.get("age") is not None:
+                app["age"] = job["age"]
+    return apps
+
+
+def is_applied(job: dict[str, Any], apps: list[dict[str, Any]]) -> bool:
+    return any(records_match(job, app) for app in apps)
+
+
+def snapshot_to_job(app: dict[str, Any]) -> dict[str, Any] | None:
+    if not app.get("title") or not app.get("company"):
+        return None
+    return {
+        "company": app.get("company") or "Unknown",
+        "careers_url": app.get("careers_url") or app.get("url") or "#",
+        "category": app.get("category") or "other",
+        "title": app.get("title") or "",
+        "location": app.get("location") or "Not specified",
+        "url": app.get("url") or app.get("careers_url") or "#",
+        "age": app.get("age"),
+        "level": app.get("level") or "intern",
+        "geo": app.get("geo") or "usa",
+    }
+
+
+def render_table(jobs: list[dict[str, Any]], *, applied: bool = False) -> str:
+    action = "Applied" if applied else "Apply"
     lines = [
-        "| Company | Position | Location | Apply | Age |",
+        f"| Company | Position | Location | {action} | Age |",
         "|---|---|---|---|---|",
     ]
     if not jobs:
@@ -575,13 +695,18 @@ def render_table(jobs: list[dict[str, Any]]) -> str:
             f'<a href="{html.escape(job["careers_url"], quote=True)}">'
             f"<strong>{html.escape(job['company'])}</strong></a>"
         )
-        apply_html = (
-            f'<a href="{html.escape(job["url"], quote=True)}">'
-            f'<img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a>'
-        )
+        if applied:
+            action_html = (
+                f'<a href="{html.escape(job["url"], quote=True)}">✅</a>'
+            )
+        else:
+            action_html = (
+                f'<a href="{html.escape(job["url"], quote=True)}">'
+                f'<img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a>'
+            )
         age = f"{job['age']}d" if job["age"] is not None else "?"
         lines.append(
-            f"| {company_html} | {md_escape(job['title'])} | {md_escape(job['location'])} | {apply_html} | {age} |"
+            f"| {company_html} | {md_escape(job['title'])} | {md_escape(job['location'])} | {action_html} | {age} |"
         )
     return "\n".join(lines) + "\n"
 
@@ -610,32 +735,72 @@ def replace_count(text: str, key: str, value: int) -> str:
     return new
 
 
-def write_markdown(all_jobs: list[dict[str, Any]]) -> None:
-    buckets: dict[tuple[str, str], list[dict[str, Any]]] = {
-        key: [] for key in MD_FILES
-    }
-    for job in all_jobs:
-        buckets[(job["level"], job["geo"])].append(job)
+def write_markdown(
+    all_jobs: list[dict[str, Any]],
+    apps: list[dict[str, Any]],
+) -> None:
+    open_buckets: dict[tuple[str, str], list[dict[str, Any]]] = {key: [] for key in MD_FILES}
+    applied_buckets: dict[tuple[str, str], list[dict[str, Any]]] = {key: [] for key in MD_FILES}
 
-    counts = {key: len(jobs) for key, jobs in buckets.items()}
+    for job in all_jobs:
+        key = (job["level"], job["geo"])
+        if key not in open_buckets:
+            continue
+        if is_applied(job, apps):
+            applied_buckets[key].append(job)
+        else:
+            open_buckets[key].append(job)
+
+    # Keep applied snapshots even after the posting disappears from the ATS.
+    for app in apps:
+        snap = snapshot_to_job(app)
+        if not snap:
+            continue
+        key = (snap["level"], snap["geo"])
+        if key not in applied_buckets:
+            continue
+        if any(records_match(snap, job) for job in applied_buckets[key]):
+            continue
+        applied_buckets[key].append(snap)
+
+    open_counts = {key: len(jobs) for key, jobs in open_buckets.items()}
+    applied_counts = {key: len(jobs) for key, jobs in applied_buckets.items()}
     stamp = now_utc().strftime("%Y-%m-%d %H:%M UTC")
     last_updated = f"*Last updated: {stamp}*"
 
     for key, path in MD_FILES.items():
         text = path.read_text(encoding="utf-8")
-        jobs_by_cat: dict[str, list[dict[str, Any]]] = {c[0]: [] for c in CATEGORIES}
-        for job in buckets[key]:
-            cat = job["category"] if job["category"] in jobs_by_cat else "other"
-            jobs_by_cat[cat].append(job)
+        open_by_cat: dict[str, list[dict[str, Any]]] = {c[0]: [] for c in CATEGORIES}
+        applied_by_cat: dict[str, list[dict[str, Any]]] = {c[0]: [] for c in CATEGORIES}
+        for job in open_buckets[key]:
+            cat = job["category"] if job["category"] in open_by_cat else "other"
+            open_by_cat[cat].append(job)
+        for job in applied_buckets[key]:
+            cat = job["category"] if job["category"] in applied_by_cat else "other"
+            applied_by_cat[cat].append(job)
         for cat_id, _label, marker in CATEGORIES:
-            table = render_table(sort_jobs(jobs_by_cat[cat_id]))
-            text = replace_block(text, f"{marker}_START", f"{marker}_END", table)
+            text = replace_block(
+                text, f"{marker}_START", f"{marker}_END", render_table(sort_jobs(open_by_cat[cat_id]))
+            )
+            text = replace_block(
+                text,
+                f"{marker}_APPLIED_START",
+                f"{marker}_APPLIED_END",
+                render_table(sort_jobs(applied_by_cat[cat_id]), applied=True),
+            )
         for count_key, marker in COUNT_KEYS.items():
-            text = replace_count(text, marker, counts.get(count_key, 0))
+            text = replace_count(text, marker, open_counts.get(count_key, 0))
+        for count_key, marker in APPLIED_COUNT_KEYS.items():
+            text = replace_count(text, marker, applied_counts.get(count_key, 0))
         if "LAST_UPDATED_START" in text:
             text = replace_block(text, "LAST_UPDATED_START", "LAST_UPDATED_END", last_updated)
         path.write_text(text, encoding="utf-8")
-        log.info("Wrote %s (%s jobs)", path.name, counts.get(key, 0))
+        log.info(
+            "Wrote %s (%s open, %s applied)",
+            path.name,
+            open_counts.get(key, 0),
+            applied_counts.get(key, 0),
+        )
 
 
 def load_companies() -> list[dict[str, Any]]:
@@ -654,6 +819,20 @@ def load_companies() -> list[dict[str, Any]]:
 
 
 def main() -> int:
+    parser = argparse.ArgumentParser(description="Fetch ME jobs and rewrite markdown tables.")
+    parser.add_argument(
+        "--applied",
+        action="append",
+        default=[],
+        help="Mark a job posting URL as applied (repeatable). Moves it to that section's Applied table.",
+    )
+    args = parser.parse_args()
+
+    apps = load_applied()
+    if args.applied:
+        apps = add_applied_urls(args.applied, apps)
+        save_applied(apps)
+
     companies = load_companies()
     log.info("Fetching %s companies", len(companies))
     jobs: list[dict[str, Any]] = []
@@ -673,7 +852,9 @@ def main() -> int:
     log.info("Total matching roles after dedupe: %s", len(jobs))
     if failures:
         log.warning("%s companies failed", len(failures))
-    write_markdown(jobs)
+    apps = enrich_applied(apps, jobs)
+    save_applied(apps)
+    write_markdown(jobs, apps)
     return 0
 
 

@@ -7,12 +7,12 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
-- [Internships](/) - <!-- COUNT_INTERN_USA -->**112**<!-- COUNT_INTERN_USA_END --> available ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
-- [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**55**<!-- COUNT_NEWGRAD_USA_END --> available ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
+- [Internships](/) - <!-- COUNT_INTERN_USA -->**112**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
+- [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**55**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
 
 ### International Positions
-- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**38**<!-- COUNT_INTERN_INTL_END --> available ([Medical Devices](/INTERN_INTL.md#medical-devices), [Automotive & EV](/INTERN_INTL.md#automotive--ev), [Aerospace & Defense](/INTERN_INTL.md#aerospace--defense), [Energy & Industrial](/INTERN_INTL.md#energy--industrial), [Robotics & Hardware](/INTERN_INTL.md#robotics--hardware), [Other](/INTERN_INTL.md#other))
-- [New Graduate](/NEW_GRAD_INTL.md) - <!-- COUNT_NEWGRAD_INTL -->**7**<!-- COUNT_NEWGRAD_INTL_END --> available ([Medical Devices](/NEW_GRAD_INTL.md#medical-devices), [Automotive & EV](/NEW_GRAD_INTL.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_INTL.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_INTL.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_INTL.md#robotics--hardware), [Other](/NEW_GRAD_INTL.md#other))
+- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**38**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](/INTERN_INTL.md#medical-devices), [Automotive & EV](/INTERN_INTL.md#automotive--ev), [Aerospace & Defense](/INTERN_INTL.md#aerospace--defense), [Energy & Industrial](/INTERN_INTL.md#energy--industrial), [Robotics & Hardware](/INTERN_INTL.md#robotics--hardware), [Other](/INTERN_INTL.md#other))
+- [New Graduate](/NEW_GRAD_INTL.md) - <!-- COUNT_NEWGRAD_INTL -->**7**<!-- COUNT_NEWGRAD_INTL_END --> available · <!-- COUNT_APPLIED_NEWGRAD_INTL -->**0**<!-- COUNT_APPLIED_NEWGRAD_INTL_END --> applied ([Medical Devices](/NEW_GRAD_INTL.md#medical-devices), [Automotive & EV](/NEW_GRAD_INTL.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_INTL.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_INTL.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_INTL.md#robotics--hardware), [Other](/NEW_GRAD_INTL.md#other))
 
 ## 2027 USA ME New Graduate Positions
 
@@ -31,6 +31,13 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | <a href="https://www.illumina.com/company/careers.html"><strong>Illumina</strong></a> | Equipment Engineer I | US - California - San Diego | <a href="https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Equipment-Engineer-I_43293-JOB-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 26d |
 | <a href="https://jobs.thermofisher.com/"><strong>Thermo Fisher Scientific</strong></a> | Engineer I, Reliability Engineer | Fair Lawn, New Jersey, USA | <a href="https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Fair-Lawn-New-Jersey-USA/Engineer-I--Process-Engineer_R-01346350"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 30d |
 <!-- TABLE_MEDICAL_END -->
+#### Applied
+
+<!-- TABLE_MEDICAL_APPLIED_START -->
+| Company | Position | Location | Applied | Age |
+|---|---|---|---|---|
+<!-- TABLE_MEDICAL_APPLIED_END -->
+
 
 ### Automotive & EV
 
@@ -39,6 +46,13 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 |---|---|---|---|---|
 | <a href="https://www.lucidmotors.com/careers"><strong>Lucid Motors</strong></a> | Manufacturing Engineer I | Phoenix, AZ | <a href="https://job-boards.greenhouse.io/lucidmotors/jobs/5228159007"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 0d |
 <!-- TABLE_AUTOMOTIVE_END -->
+#### Applied
+
+<!-- TABLE_AUTOMOTIVE_APPLIED_START -->
+| Company | Position | Location | Applied | Age |
+|---|---|---|---|---|
+<!-- TABLE_AUTOMOTIVE_APPLIED_END -->
+
 
 ### Aerospace & Defense
 
@@ -90,6 +104,13 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Integration & Test Engineer I/II | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7767776003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 92d |
 | <a href="https://www.anduril.com/careers"><strong>Anduril</strong></a> | 2027 Early Career Manufacturing Engineer | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 119d |
 <!-- TABLE_AEROSPACE_END -->
+#### Applied
+
+<!-- TABLE_AEROSPACE_APPLIED_START -->
+| Company | Position | Location | Applied | Age |
+|---|---|---|---|---|
+<!-- TABLE_AEROSPACE_APPLIED_END -->
+
 
 ### Energy & Industrial
 
@@ -100,6 +121,13 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | <a href="https://www.appliedmaterials.com/us/en/careers.html"><strong>Applied Materials</strong></a> | Manufacturing Engineer I, New College Grad- Bachelor's (Austin, TX) | Austin,TX | <a href="https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Manufacturing-Engineer-I--New-College-Grad--Bachelor-s--Austin--TX-_R2628090"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 5d |
 | <a href="https://www.appliedmaterials.com/us/en/careers.html"><strong>Applied Materials</strong></a> | 2027 Engineer Development Rotation Program - Mechanical Engineer I New College Grad - BS or MS (Gloucester, MA) | Gloucester,MA | <a href="https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Engineer-Development-Rotation-Program---Mechanical-Engineer-I-New-College-Grad---BS-or-MS--Gloucester--MA-_R2625756-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 26d |
 <!-- TABLE_ENERGY_END -->
+#### Applied
+
+<!-- TABLE_ENERGY_APPLIED_START -->
+| Company | Position | Location | Applied | Age |
+|---|---|---|---|---|
+<!-- TABLE_ENERGY_APPLIED_END -->
+
 
 ### Robotics & Hardware
 
@@ -107,6 +135,13 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
 <!-- TABLE_ROBOTICS_END -->
+#### Applied
+
+<!-- TABLE_ROBOTICS_APPLIED_START -->
+| Company | Position | Location | Applied | Age |
+|---|---|---|---|---|
+<!-- TABLE_ROBOTICS_APPLIED_END -->
+
 
 ### Other
 
@@ -114,5 +149,12 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
 <!-- TABLE_OTHER_END -->
+#### Applied
+
+<!-- TABLE_OTHER_APPLIED_START -->
+| Company | Position | Location | Applied | Age |
+|---|---|---|---|---|
+<!-- TABLE_OTHER_APPLIED_END -->
+
 
 <a id="bottom"></a>

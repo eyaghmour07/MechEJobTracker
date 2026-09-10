@@ -7,12 +7,12 @@ Mechanical engineering internships outside the United States. Listings refresh h
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
-- [Internships](/) - <!-- COUNT_INTERN_USA -->**112**<!-- COUNT_INTERN_USA_END --> available ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
-- [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**55**<!-- COUNT_NEWGRAD_USA_END --> available ([Medical Devices](/NEW_GRAD_USA.md#medical-devices), [Automotive & EV](/NEW_GRAD_USA.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_USA.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_USA.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_USA.md#robotics--hardware), [Other](/NEW_GRAD_USA.md#other))
+- [Internships](/) - <!-- COUNT_INTERN_USA -->**112**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
+- [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**55**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](/NEW_GRAD_USA.md#medical-devices), [Automotive & EV](/NEW_GRAD_USA.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_USA.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_USA.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_USA.md#robotics--hardware), [Other](/NEW_GRAD_USA.md#other))
 
 ### International Positions
-- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**38**<!-- COUNT_INTERN_INTL_END --> available ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
-- [New Graduate](/NEW_GRAD_INTL.md) - <!-- COUNT_NEWGRAD_INTL -->**7**<!-- COUNT_NEWGRAD_INTL_END --> available ([Medical Devices](/NEW_GRAD_INTL.md#medical-devices), [Automotive & EV](/NEW_GRAD_INTL.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_INTL.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_INTL.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_INTL.md#robotics--hardware), [Other](/NEW_GRAD_INTL.md#other))
+- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**38**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
+- [New Graduate](/NEW_GRAD_INTL.md) - <!-- COUNT_NEWGRAD_INTL -->**7**<!-- COUNT_NEWGRAD_INTL_END --> available · <!-- COUNT_APPLIED_NEWGRAD_INTL -->**0**<!-- COUNT_APPLIED_NEWGRAD_INTL_END --> applied ([Medical Devices](/NEW_GRAD_INTL.md#medical-devices), [Automotive & EV](/NEW_GRAD_INTL.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_INTL.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_INTL.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_INTL.md#robotics--hardware), [Other](/NEW_GRAD_INTL.md#other))
 
 ## 2027 International ME Internships
 
@@ -34,6 +34,13 @@ Mechanical engineering internships outside the United States. Listings refresh h
 | <a href="https://www.jobs.abbott/"><strong>Abbott</strong></a> | Field Service Engineer Internship - Mechanical, Industrial, Electronics or Automation Engineer (Madrid) | Spain - Madrid | <a href="https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Spain---Madrid/Field-Service-Engineer-Internship---Core-Lab---Madrid-_31152648"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 30d |
 | <a href="https://www.careers.philips.com/"><strong>Philips</strong></a> | Manufacturing Intern ( Estagiário de Manufatura) | Barueri | <a href="https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Barueri/Indirect-Intern-or-Direct-Intern--for-manufacting-Interns-_584961"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 30d |
 <!-- TABLE_MEDICAL_END -->
+#### Applied
+
+<!-- TABLE_MEDICAL_APPLIED_START -->
+| Company | Position | Location | Applied | Age |
+|---|---|---|---|---|
+<!-- TABLE_MEDICAL_APPLIED_END -->
+
 
 ### Automotive & EV
 
@@ -42,6 +49,13 @@ Mechanical engineering internships outside the United States. Listings refresh h
 |---|---|---|---|---|
 | <a href="https://search-careers.gm.com/"><strong>General Motors</strong></a> | 2027 Winter Co-op Mechatronic Infrastructure Diagnostic Systems | Markham, Ontario, Canada | <a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Mechatronic-Infrastructure-Diagnostic-Systems_JR-202618915"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 0d |
 <!-- TABLE_AUTOMOTIVE_END -->
+#### Applied
+
+<!-- TABLE_AUTOMOTIVE_APPLIED_START -->
+| Company | Position | Location | Applied | Age |
+|---|---|---|---|---|
+<!-- TABLE_AUTOMOTIVE_APPLIED_END -->
+
 
 ### Aerospace & Defense
 
@@ -69,6 +83,13 @@ Mechanical engineering internships outside the United States. Listings refresh h
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Manufacturing Engineering Intern - Vehicle Integration | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7819745003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 38d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Neutron Mechanical Development Intern | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821122003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 38d |
 <!-- TABLE_AEROSPACE_END -->
+#### Applied
+
+<!-- TABLE_AEROSPACE_APPLIED_START -->
+| Company | Position | Location | Applied | Age |
+|---|---|---|---|---|
+<!-- TABLE_AEROSPACE_APPLIED_END -->
+
 
 ### Energy & Industrial
 
@@ -83,6 +104,13 @@ Mechanical engineering internships outside the United States. Listings refresh h
 | <a href="https://www.appliedmaterials.com/us/en/careers.html"><strong>Applied Materials</strong></a> | Process Engineer Internship: Enhancing CVD process efficiency and film quality through systematic recipe optimization | Singapore,SGP | <a href="https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/Process-Engineer-Internship--Enhancing-CVD-process-efficiency-and-film-quality-through-systematic-recipe-optimization_R2626530"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 9d |
 | <a href="https://www.appliedmaterials.com/us/en/careers.html"><strong>Applied Materials</strong></a> | Process Engineer Intern | Singapore,SGP | <a href="https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/Process-Engineer-Intern_R2626574"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 15d |
 <!-- TABLE_ENERGY_END -->
+#### Applied
+
+<!-- TABLE_ENERGY_APPLIED_START -->
+| Company | Position | Location | Applied | Age |
+|---|---|---|---|---|
+<!-- TABLE_ENERGY_APPLIED_END -->
+
 
 ### Robotics & Hardware
 
@@ -90,6 +118,13 @@ Mechanical engineering internships outside the United States. Listings refresh h
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
 <!-- TABLE_ROBOTICS_END -->
+#### Applied
+
+<!-- TABLE_ROBOTICS_APPLIED_START -->
+| Company | Position | Location | Applied | Age |
+|---|---|---|---|---|
+<!-- TABLE_ROBOTICS_APPLIED_END -->
+
 
 ### Other
 
@@ -97,5 +132,12 @@ Mechanical engineering internships outside the United States. Listings refresh h
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
 <!-- TABLE_OTHER_END -->
+#### Applied
+
+<!-- TABLE_OTHER_APPLIED_START -->
+| Company | Position | Location | Applied | Age |
+|---|---|---|---|---|
+<!-- TABLE_OTHER_APPLIED_END -->
+
 
 <a id="bottom"></a>

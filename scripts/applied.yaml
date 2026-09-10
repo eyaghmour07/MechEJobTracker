@@ -1,0 +1,7 @@
+# Jobs you have already applied to.
+# Add a posting URL, or run:
+#   python scripts/fetch_jobs.py --applied 'https://...'
+# GitHub: Actions → Update job listings → Run workflow → paste the Apply URL.
+# Applied roles move under each section's Applied table and stay there even if the posting comes down.
+
+applications: []

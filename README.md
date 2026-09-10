@@ -4,17 +4,19 @@ A living list of **mechanical engineering** internships and new-graduate roles. 
 
 **Medical Devices** is first: MechE work on implants, diagnostics, surgical robots, and other hardware (Abbott, Medtronic, Stryker, Intuitive, and peers). Software-only, clinical, and sales roles are filtered out.
 
+After you apply, mark the posting so it moves into that section's **Applied** table (checkmark, not the Apply badge). Easiest: GitHub **Actions → Update job listings → Run workflow**, paste the posting URL, and run. Or add the URL to [`scripts/applied.yaml`](/scripts/applied.yaml).
+
 <!-- LAST_UPDATED_START -->
 *Last updated: 2026-09-10 03:33 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
-- [Internships](/) - <!-- COUNT_INTERN_USA -->**112**<!-- COUNT_INTERN_USA_END --> available ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
-- [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**55**<!-- COUNT_NEWGRAD_USA_END --> available ([Medical Devices](/NEW_GRAD_USA.md#medical-devices), [Automotive & EV](/NEW_GRAD_USA.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_USA.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_USA.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_USA.md#robotics--hardware), [Other](/NEW_GRAD_USA.md#other))
+- [Internships](/) - <!-- COUNT_INTERN_USA -->**112**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
+- [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**55**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](/NEW_GRAD_USA.md#medical-devices), [Automotive & EV](/NEW_GRAD_USA.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_USA.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_USA.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_USA.md#robotics--hardware), [Other](/NEW_GRAD_USA.md#other))
 
 ### International Positions
-- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**38**<!-- COUNT_INTERN_INTL_END --> available ([Medical Devices](/INTERN_INTL.md#medical-devices), [Automotive & EV](/INTERN_INTL.md#automotive--ev), [Aerospace & Defense](/INTERN_INTL.md#aerospace--defense), [Energy & Industrial](/INTERN_INTL.md#energy--industrial), [Robotics & Hardware](/INTERN_INTL.md#robotics--hardware), [Other](/INTERN_INTL.md#other))
-- [New Graduate](/NEW_GRAD_INTL.md) - <!-- COUNT_NEWGRAD_INTL -->**7**<!-- COUNT_NEWGRAD_INTL_END --> available ([Medical Devices](/NEW_GRAD_INTL.md#medical-devices), [Automotive & EV](/NEW_GRAD_INTL.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_INTL.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_INTL.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_INTL.md#robotics--hardware), [Other](/NEW_GRAD_INTL.md#other))
+- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**38**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](/INTERN_INTL.md#medical-devices), [Automotive & EV](/INTERN_INTL.md#automotive--ev), [Aerospace & Defense](/INTERN_INTL.md#aerospace--defense), [Energy & Industrial](/INTERN_INTL.md#energy--industrial), [Robotics & Hardware](/INTERN_INTL.md#robotics--hardware), [Other](/INTERN_INTL.md#other))
+- [New Graduate](/NEW_GRAD_INTL.md) - <!-- COUNT_NEWGRAD_INTL -->**7**<!-- COUNT_NEWGRAD_INTL_END --> available · <!-- COUNT_APPLIED_NEWGRAD_INTL -->**0**<!-- COUNT_APPLIED_NEWGRAD_INTL_END --> applied ([Medical Devices](/NEW_GRAD_INTL.md#medical-devices), [Automotive & EV](/NEW_GRAD_INTL.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_INTL.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_INTL.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_INTL.md#robotics--hardware), [Other](/NEW_GRAD_INTL.md#other))
 
 Want a company added? See [CONTRIBUTING.md](/CONTRIBUTING.md).
 
@@ -66,6 +68,13 @@ Want a company added? See [CONTRIBUTING.md](/CONTRIBUTING.md).
 | <a href="https://careers.stryker.com/"><strong>Stryker</strong></a> | Biomedical/Mechanical Engineering Co-op 2027 - Cork | 8 Locations | <a href="https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/Biomedical-Mechanical-Engineering-Co-op-2027---Cork_R569396"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 15d |
 | <a href="https://www.careers.philips.com/"><strong>Philips</strong></a> | Co-op - Robotics Mechatronics, Surgical Robotics - Cambridge, MA - January 2027 | Cambridge (US), Massachusetts, United States | <a href="https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 15d |
 <!-- TABLE_MEDICAL_END -->
+#### Applied
+
+<!-- TABLE_MEDICAL_APPLIED_START -->
+| Company | Position | Location | Applied | Age |
+|---|---|---|---|---|
+<!-- TABLE_MEDICAL_APPLIED_END -->
+
 
 ### Automotive & EV
 
@@ -93,6 +102,13 @@ Want a company added? See [CONTRIBUTING.md](/CONTRIBUTING.md).
 | <a href="https://search-careers.gm.com/"><strong>General Motors</strong></a> | 2027 Co-Op – Manufacturing Controls Engineer | 7 Locations | <a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2027-Co-Op---Manufacturing-Controls-Engineer_JR-202618863"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 9d |
 | <a href="https://search-careers.gm.com/"><strong>General Motors</strong></a> | 2027 Summer Intern - Manufacturing Controls Engineer | 19 Locations | <a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Arlington-Texas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Controls-Engineer_JR-202618844"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 13d |
 <!-- TABLE_AUTOMOTIVE_END -->
+#### Applied
+
+<!-- TABLE_AUTOMOTIVE_APPLIED_START -->
+| Company | Position | Location | Applied | Age |
+|---|---|---|---|---|
+<!-- TABLE_AUTOMOTIVE_APPLIED_END -->
+
 
 ### Aerospace & Defense
 
@@ -140,6 +156,13 @@ Want a company added? See [CONTRIBUTING.md](/CONTRIBUTING.md).
 | <a href="https://www.anduril.com/careers"><strong>Anduril</strong></a> | 2027 Manufacturing Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 90d |
 | <a href="https://www.anduril.com/careers"><strong>Anduril</strong></a> | 2027 Mechanical Engineer Intern | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | <a href="https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 90d |
 <!-- TABLE_AEROSPACE_END -->
+#### Applied
+
+<!-- TABLE_AEROSPACE_APPLIED_START -->
+| Company | Position | Location | Applied | Age |
+|---|---|---|---|---|
+<!-- TABLE_AEROSPACE_APPLIED_END -->
+
 
 ### Energy & Industrial
 
@@ -159,6 +182,13 @@ Want a company added? See [CONTRIBUTING.md](/CONTRIBUTING.md).
 | <a href="https://kairospower.com/careers/"><strong>Kairos Power</strong></a> | Mechanical and Manufacturing Engineering Internship - Summer 2027 | Alameda, CA, Albuquerque, NM, or Oak Ridge, TN | <a href="https://job-boards.greenhouse.io/kairospower/jobs/6123676004"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 48d |
 | <a href="https://kairospower.com/careers/"><strong>Kairos Power</strong></a> | Chemical and Materials Engineering Internship - Summer 2027 | Alameda, CA, Albuquerque, NM or Oak Ridge, TN | <a href="https://job-boards.greenhouse.io/kairospower/jobs/6122803004"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 49d |
 <!-- TABLE_ENERGY_END -->
+#### Applied
+
+<!-- TABLE_ENERGY_APPLIED_START -->
+| Company | Position | Location | Applied | Age |
+|---|---|---|---|---|
+<!-- TABLE_ENERGY_APPLIED_END -->
+
 
 ### Robotics & Hardware
 
@@ -168,6 +198,13 @@ Want a company added? See [CONTRIBUTING.md](/CONTRIBUTING.md).
 | <a href="https://www.skydio.com/careers"><strong>Skydio</strong></a> | Product Design Engineer Intern - Summer 2027 | San Mateo, California, United States | <a href="https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 5d |
 | <a href="https://www.1x.tech/careers"><strong>1X</strong></a> | Internship - Manufacturing Engineering (Fall) | San Carlos, CA | <a href="https://jobs.ashbyhq.com/1x/7d93444c-01f5-485c-89ef-24164f30441d"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 30d |
 <!-- TABLE_ROBOTICS_END -->
+#### Applied
+
+<!-- TABLE_ROBOTICS_APPLIED_START -->
+| Company | Position | Location | Applied | Age |
+|---|---|---|---|---|
+<!-- TABLE_ROBOTICS_APPLIED_END -->
+
 
 ### Other
 
@@ -175,5 +212,12 @@ Want a company added? See [CONTRIBUTING.md](/CONTRIBUTING.md).
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
 <!-- TABLE_OTHER_END -->
+#### Applied
+
+<!-- TABLE_OTHER_APPLIED_START -->
+| Company | Position | Location | Applied | Age |
+|---|---|---|---|---|
+<!-- TABLE_OTHER_APPLIED_END -->
+
 
 <a id="bottom"></a>
