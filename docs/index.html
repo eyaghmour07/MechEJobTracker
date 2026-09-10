@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>2027 ME Internships &amp; New Grad Jobs</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="top">
+      <div class="top-inner">
+        <p class="eyebrow">Mechanical engineering · 2027</p>
+        <h1>Internships &amp; new-grad roles</h1>
+        <p class="lede">
+          Medical devices first, then auto, aero, energy, robotics, and everything else.
+          Check a box after you apply — it moves to that section’s Applied list.
+        </p>
+        <p class="meta">
+          <span id="updated">Loading listings…</span>
+          <span class="dot">·</span>
+          Checkmarks stay in this browser.
+        </p>
+        <div class="toolbar">
+          <label class="search">
+            <span class="sr-only">Search</span>
+            <input id="search" type="search" placeholder="Search company, role, or city" />
+          </label>
+          <div class="io">
+            <button type="button" id="export-btn">Export applied</button>
+            <label class="import">
+              Import
+              <input id="import-file" type="file" accept="application/json" hidden />
+            </label>
+          </div>
+        </div>
+        <nav class="tabs" aria-label="Role type">
+          <button type="button" class="tab is-active" data-level="intern" data-geo="usa">
+            USA internships <span class="tab-count" data-count="intern-usa"></span>
+          </button>
+          <button type="button" class="tab" data-level="newgrad" data-geo="usa">
+            USA new grad <span class="tab-count" data-count="newgrad-usa"></span>
+          </button>
+          <button type="button" class="tab" data-level="intern" data-geo="intl">
+            Intl internships <span class="tab-count" data-count="intern-intl"></span>
+          </button>
+          <button type="button" class="tab" data-level="newgrad" data-geo="intl">
+            Intl new grad <span class="tab-count" data-count="newgrad-intl"></span>
+          </button>
+        </nav>
+      </div>
+    </header>
+    <main id="board" class="board"></main>
+    <script src="app.js"></script>
+  </body>
+</html>

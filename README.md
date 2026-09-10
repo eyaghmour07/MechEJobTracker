@@ -4,7 +4,7 @@ A living list of **mechanical engineering** internships and new-graduate roles. 
 
 **Medical Devices** is first: MechE work on implants, diagnostics, surgical robots, and other hardware (Abbott, Medtronic, Stryker, Intuitive, and peers). Software-only, clinical, and sales roles are filtered out.
 
-After you apply, mark the posting so it moves into that section's **Applied** table (checkmark, not the Apply badge). Easiest: GitHub **Actions → Update job listings → Run workflow**, paste the posting URL, and run. Or add the URL to [`scripts/applied.yaml`](/scripts/applied.yaml).
+**Use the site:** [eyaghmour07.github.io/MechEJobTracker](https://eyaghmour07.github.io/MechEJobTracker/) — check a box after you apply and the row moves to that section’s Applied list. Checkmarks stay in your browser (Export / Import to move them). This README is the same list as a backup.
 
 <!-- LAST_UPDATED_START -->
 *Last updated: 2026-09-10 03:33 UTC*

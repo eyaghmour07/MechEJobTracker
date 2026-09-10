@@ -92,23 +92,9 @@ The script rewrites only the `<!-- TABLE_* -->` and count markers in the markdow
 
 ## Mark a job as applied
 
-Open roles live in each category table. After you apply, the posting should move into that category's **Applied** subsection (✅ instead of the Apply badge). Applied rows stay even if the company takes the posting down.
+On the [website](https://eyaghmour07.github.io/MechEJobTracker/), check the box next to a role. It moves into that section’s Applied list and stays in this browser. Use Export / Import if you want to copy the list to another device.
 
-Pick one:
-
-1. **GitHub Actions** — Actions → *Update job listings* → Run workflow → paste the posting URL into `apply_url`.
-2. **YAML** — add the URL to [`scripts/applied.yaml`](scripts/applied.yaml):
-
-```yaml
-applications:
-  - url: https://jj.wd5.myworkdayjobs.com/en-US/jj/job/...
-```
-
-3. **CLI**
-
-```bash
-python3 scripts/fetch_jobs.py --applied 'https://...'
-```
+The markdown Applied tables are optional and still work via [`scripts/applied.yaml`](scripts/applied.yaml) or `python3 scripts/fetch_jobs.py --applied 'https://...'`.
 
 ## What gets listed
 

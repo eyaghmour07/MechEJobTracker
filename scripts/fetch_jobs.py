@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import html
+import json
 import logging
 import re
 import sys
@@ -18,6 +19,7 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = Path(__file__).resolve().parent / "companies.yaml"
 APPLIED_PATH = Path(__file__).resolve().parent / "applied.yaml"
+JOBS_JSON_PATH = ROOT / "docs" / "jobs.json"
 MAX_AGE_DAYS = 120
 WORKDAY_LIMIT = 20
 WORKDAY_MAX_PAGES = 3
@@ -803,6 +805,29 @@ def write_markdown(
         )
 
 
+def write_jobs_json(all_jobs: list[dict[str, Any]], stamp: str) -> None:
+    JOBS_JSON_PATH.parent.mkdir(parents=True, exist_ok=True)
+    payload = {
+        "updated_at": stamp,
+        "jobs": [
+            {
+                "company": job["company"],
+                "title": job["title"],
+                "location": job["location"],
+                "url": job["url"],
+                "careers_url": job["careers_url"],
+                "category": job["category"],
+                "level": job["level"],
+                "geo": job["geo"],
+                "age": job["age"],
+            }
+            for job in all_jobs
+        ],
+    }
+    JOBS_JSON_PATH.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    log.info("Wrote %s (%s jobs)", JOBS_JSON_PATH.relative_to(ROOT), len(all_jobs))
+
+
 def load_companies() -> list[dict[str, Any]]:
     data = yaml.safe_load(CONFIG_PATH.read_text(encoding="utf-8"))
     companies = data.get("companies") or []
@@ -854,6 +879,8 @@ def main() -> int:
         log.warning("%s companies failed", len(failures))
     apps = enrich_applied(apps, jobs)
     save_applied(apps)
+    stamp = now_utc().strftime("%Y-%m-%d %H:%M UTC")
+    write_jobs_json(jobs, stamp)
     write_markdown(jobs, apps)
     return 0
 

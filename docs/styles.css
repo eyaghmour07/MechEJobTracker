@@ -1,0 +1,290 @@
+:root {
+  --bg: #f6f4ef;
+  --paper: #fffcf7;
+  --ink: #1c1916;
+  --muted: #6b645c;
+  --line: #e4ddd2;
+  --accent: #1f4d3a;
+  --accent-soft: #dce8e1;
+  --applied: #3d6b4f;
+  --shadow: 0 1px 0 rgba(28, 25, 22, 0.04);
+  --sans: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --ui: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+}
+
+body {
+  font-family: var(--ui);
+  line-height: 1.45;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.top {
+  background: var(--paper);
+  border-bottom: 1px solid var(--line);
+}
+
+.top-inner,
+.board {
+  width: min(1120px, calc(100% - 32px));
+  margin: 0 auto;
+}
+
+.top-inner {
+  padding: 36px 0 0;
+}
+
+.eyebrow {
+  margin: 0 0 8px;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  font-weight: 650;
+}
+
+h1 {
+  margin: 0 0 10px;
+  font-family: var(--sans);
+  font-size: clamp(28px, 4vw, 42px);
+  font-weight: 600;
+  letter-spacing: -0.03em;
+}
+
+.lede,
+.meta {
+  margin: 0 0 12px;
+  max-width: 62ch;
+  color: var(--muted);
+}
+
+.meta {
+  font-size: 13px;
+}
+
+.dot {
+  margin: 0 6px;
+}
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  justify-content: space-between;
+  margin: 22px 0 16px;
+}
+
+.search {
+  flex: 1 1 280px;
+}
+
+.search input {
+  width: 100%;
+  height: 42px;
+  padding: 0 14px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #fff;
+  font: inherit;
+}
+
+.io {
+  display: flex;
+  gap: 8px;
+}
+
+.io button,
+.import {
+  height: 42px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #fff;
+  font: inherit;
+  font-size: 13px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+}
+
+.io button:hover,
+.import:hover {
+  border-color: #c9c0b3;
+}
+
+.tabs {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  padding: 4px 0 0;
+}
+
+.tab {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  border-bottom: 2px solid transparent;
+  padding: 12px 10px 14px;
+  font: inherit;
+  font-size: 14px;
+  color: var(--muted);
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.tab.is-active {
+  color: var(--ink);
+  border-bottom-color: var(--accent);
+  font-weight: 650;
+}
+
+.tab-count {
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.board {
+  padding: 28px 0 72px;
+}
+
+.section {
+  margin: 0 0 36px;
+}
+
+.section h2 {
+  margin: 0 0 10px;
+  font-family: var(--sans);
+  font-size: 22px;
+  letter-spacing: -0.02em;
+}
+
+.section h3 {
+  margin: 18px 0 8px;
+  font-size: 13px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--applied);
+}
+
+.table-wrap {
+  overflow-x: auto;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+th,
+td {
+  padding: 11px 12px;
+  text-align: left;
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+}
+
+th {
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 650;
+}
+
+tr:last-child td {
+  border-bottom: 0;
+}
+
+.check {
+  width: 44px;
+}
+
+.check input {
+  width: 20px;
+  height: 20px;
+  margin: 2px 0 0;
+  accent-color: var(--accent);
+  cursor: pointer;
+}
+
+.company a {
+  color: inherit;
+  font-weight: 650;
+  text-decoration: none;
+}
+
+.company a:hover {
+  text-decoration: underline;
+}
+
+.title {
+  min-width: 220px;
+}
+
+.loc,
+.age {
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.apply a {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fff;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: 650;
+}
+
+.apply a:hover {
+  background: #173b2c;
+}
+
+.applied-row {
+  background: #f3f7f4;
+}
+
+.empty {
+  padding: 16px;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+@media (max-width: 720px) {
+  .loc {
+    display: none;
+  }
+
+  th:nth-child(4),
+  td:nth-child(4) {
+    display: none;
+  }
+}
