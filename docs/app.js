@@ -11,10 +11,12 @@ const CATEGORIES = [
 
 const TABS = [
   { level: "intern", geo: "usa", key: "intern-usa" },
-  { level: "newgrad", geo: "usa", key: "newgrad-usa" },
+  { level: "coop", geo: "usa", key: "coop-usa" },
   { level: "intern", geo: "intl", key: "intern-intl" },
-  { level: "newgrad", geo: "intl", key: "newgrad-intl" },
+  { level: "coop", geo: "intl", key: "coop-intl" },
 ];
+
+const SITE_LEVELS = new Set(["intern", "coop"]);
 
 const state = {
   jobs: [],
@@ -67,6 +69,13 @@ function escapeHtml(value) {
     .replace(/"/g, "&quot;");
 }
 
+function classifySiteLevel(job) {
+  const title = job.title || "";
+  if (/\bco[-\s]?op\b/i.test(title)) return "coop";
+  if (job.level === "coop" || job.level === "intern") return job.level;
+  return null;
+}
+
 function matchesQuery(job, query) {
   if (!query) return true;
   const hay = `${job.company} ${job.title} ${job.location}`.toLowerCase();
@@ -74,7 +83,7 @@ function matchesQuery(job, query) {
 }
 
 function jobsForTab(level, geo) {
-  return state.jobs.filter((job) => job.level === level && job.geo === geo);
+  return state.jobs.filter((job) => classifySiteLevel(job) === level && job.geo === geo);
 }
 
 function updateTabCounts() {
@@ -101,7 +110,7 @@ function renderTable(jobs, applied) {
         <td class="company"><a href="${escapeHtml(job.careers_url)}" target="_blank" rel="noreferrer">${escapeHtml(job.company)}</a></td>
         <td class="title">${escapeHtml(job.title)}</td>
         <td class="loc">${escapeHtml(job.location)}</td>
-        <td class="apply"><a href="${escapeHtml(job.url)}" target="_blank" rel="noreferrer">${applied ? "View" : "Apply"}</a></td>
+        <td class="posting"><a href="${escapeHtml(job.url)}" target="_blank" rel="noreferrer">${escapeHtml(job.url)}</a></td>
         <td class="age">${escapeHtml(age)}</td>
       </tr>`;
     })
@@ -113,7 +122,7 @@ function renderTable(jobs, applied) {
         <th>Company</th>
         <th>Position</th>
         <th>Location</th>
-        <th>${applied ? "Posting" : "Apply"}</th>
+        <th>Application</th>
         <th>Age</th>
       </tr>
     </thead>
@@ -194,7 +203,7 @@ async function init() {
     return;
   }
   const data = await res.json();
-  state.jobs = data.jobs || [];
+  state.jobs = (data.jobs || []).filter((job) => SITE_LEVELS.has(classifySiteLevel(job)));
   state.updatedAt = data.updated_at || "";
   document.getElementById("updated").textContent = state.updatedAt
     ? `Last updated ${state.updatedAt}`

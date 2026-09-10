@@ -112,7 +112,8 @@ HARDWARE_OVERRIDE_RE = re.compile(
     re.I,
 )
 
-INTERN_RE = re.compile(r"\b(intern|internship|interns|co-?op|co\s+op|student)\b", re.I)
+COOP_RE = re.compile(r"\bco[-\s]?op\b", re.I)
+INTERN_RE = re.compile(r"\b(intern|internship|interns|student)\b", re.I)
 NEWGRAD_RE = re.compile(
     r"""
     new\s+grad|new\s+graduate|early\s+career|university\s+grad|
@@ -452,8 +453,15 @@ def is_me_role(title: str, description: str) -> bool:
     return False
 
 
+def markdown_level(level: str) -> str:
+    """Markdown backup still groups co-ops with internships."""
+    return "intern" if level == "coop" else level
+
+
 def classify_level(title: str, description: str) -> str | None:
     blob = f"{title} {description[:2500]}"
+    if COOP_RE.search(title):
+        return "coop"
     if INTERN_RE.search(title):
         return "intern"
     if SENIOR_RE.search(title):
@@ -745,7 +753,7 @@ def write_markdown(
     applied_buckets: dict[tuple[str, str], list[dict[str, Any]]] = {key: [] for key in MD_FILES}
 
     for job in all_jobs:
-        key = (job["level"], job["geo"])
+        key = (markdown_level(job["level"]), job["geo"])
         if key not in open_buckets:
             continue
         if is_applied(job, apps):
@@ -758,7 +766,7 @@ def write_markdown(
         snap = snapshot_to_job(app)
         if not snap:
             continue
-        key = (snap["level"], snap["geo"])
+        key = (markdown_level(snap["level"]), snap["geo"])
         if key not in applied_buckets:
             continue
         if any(records_match(snap, job) for job in applied_buckets[key]):

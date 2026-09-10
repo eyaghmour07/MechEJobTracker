@@ -253,19 +253,16 @@ tr:last-child td {
   white-space: nowrap;
 }
 
-.apply a {
-  display: inline-block;
-  padding: 4px 10px;
-  border-radius: 999px;
-  background: var(--accent);
-  color: #fff;
-  text-decoration: none;
-  font-size: 12px;
-  font-weight: 650;
+.posting {
+  min-width: 220px;
+  max-width: 360px;
 }
 
-.apply a:hover {
-  background: #173b2c;
+.posting a {
+  color: var(--accent);
+  font-size: 12px;
+  line-height: 1.35;
+  word-break: break-all;
 }
 
 .applied-row {
