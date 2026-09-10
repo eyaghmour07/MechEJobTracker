@@ -89,9 +89,9 @@ companies:
 
   - name: BD
     ats: workday
-    host: bd.wd1.myworkdayjobs.com
-    tenant: bd
-    site: EXTERNAL_CAREERS
+    host: bdx.wd1.myworkdayjobs.com
+    tenant: bdx
+    site: EXTERNAL_CAREER_SITE_USA
     category: medical
     careers_url: https://jobs.bd.com/
 
@@ -99,15 +99,15 @@ companies:
     ats: workday
     host: baxter.wd1.myworkdayjobs.com
     tenant: baxter
-    site: Baxter_Careers
+    site: baxter
     category: medical
     careers_url: https://jobs.baxter.com/
 
   - name: GE HealthCare
     ats: workday
-    host: gehealthcare.wd5.myworkdayjobs.com
-    tenant: gehealthcare
-    site: GE_External_Career_Site
+    host: gehc.wd5.myworkdayjobs.com
+    tenant: gehc
+    site: GEHC_ExternalSite
     category: medical
     careers_url: https://careers.gehealthcare.com/
 
@@ -276,6 +276,12 @@ companies:
     site: ICUMedical_Careers
     category: medical
     careers_url: https://www.icumed.com/careers/
+
+  - name: Integra LifeSciences
+    ats: greenhouse
+    board: integra
+    category: medical
+    careers_url: https://www.integralife.com/careers
 
   - name: Globus Medical
     ats: greenhouse
@@ -757,7 +763,7 @@ companies:
     ats: workday
     host: gevernova.wd5.myworkdayjobs.com
     tenant: gevernova
-    site: GE_ExternalSite
+    site: Vernova_ExternalSite
     category: energy
     careers_url: https://careers.gevernova.com/
 
