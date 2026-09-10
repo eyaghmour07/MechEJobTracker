@@ -283,6 +283,18 @@ companies:
     category: medical
     careers_url: https://www.integralife.com/careers
 
+  - name: AtriCure
+    ats: greenhouse
+    board: atricure
+    category: medical
+    careers_url: https://www.atricure.com/careers
+
+  - name: Outset Medical
+    ats: greenhouse
+    board: outsetmedical
+    category: medical
+    careers_url: https://www.outsetmedical.com/careers
+
   - name: Globus Medical
     ats: greenhouse
     board: globusmedical
@@ -330,6 +342,18 @@ companies:
     board: rivian
     category: automotive
     careers_url: https://careers.rivian.com/
+
+  - name: Scout Motors
+    ats: greenhouse
+    board: scoutmotors
+    category: automotive
+    careers_url: https://www.scoutmotors.com/careers
+
+  - name: Slate
+    ats: ashby
+    board: slate
+    category: automotive
+    careers_url: https://www.slate.auto/careers
 
   - name: Lucid Motors
     ats: greenhouse
@@ -636,6 +660,18 @@ companies:
     category: aerospace
     careers_url: https://www.planet.com/careers/
 
+  - name: Spire
+    ats: greenhouse
+    board: spire
+    category: aerospace
+    careers_url: https://www.spire.com/careers
+
+  - name: Heart Aerospace
+    ats: greenhouse
+    board: heartaerospace
+    category: aerospace
+    careers_url: https://heartaerospace.com/careers
+
   - name: Redwire
     ats: greenhouse
     board: redwire
@@ -881,6 +917,30 @@ companies:
     category: energy
     careers_url: https://x-energy.com/careers
 
+  - name: Form Energy
+    ats: ashby
+    board: formenergy
+    category: energy
+    careers_url: https://formenergy.com/careers
+
+  - name: Oklo
+    ats: greenhouse
+    board: oklo
+    category: energy
+    careers_url: https://oklo.com/careers
+
+  - name: Sila
+    ats: greenhouse
+    board: silananotechnologies
+    category: energy
+    careers_url: https://www.silanano.com/careers
+
+  - name: Solid Power
+    ats: greenhouse
+    board: solidpower
+    category: energy
+    careers_url: https://www.solidpowerbattery.com/careers
+
   - name: BWX Technologies
     ats: workday
     host: bwxtech.wd1.myworkdayjobs.com
@@ -1035,6 +1095,30 @@ companies:
     site: Garmin
     category: robotics
     careers_url: https://careers.garmin.com/
+
+  - name: Formlabs
+    ats: greenhouse
+    board: formlabs
+    category: robotics
+    careers_url: https://formlabs.com/careers
+
+  - name: Carbon
+    ats: greenhouse
+    board: carbon
+    category: robotics
+    careers_url: https://www.carbon3d.com/careers
+
+  - name: Path Robotics
+    ats: greenhouse
+    board: pathrobotics
+    category: robotics
+    careers_url: https://www.path-robotics.com/careers
+
+  - name: Locus Robotics
+    ats: greenhouse
+    board: locusrobotics
+    category: robotics
+    careers_url: https://www.locusrobotics.com/careers
 
   # ---------------------------------------------------------------------------
   # Other

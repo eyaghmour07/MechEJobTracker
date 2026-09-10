@@ -54,6 +54,57 @@ body {
   padding: 36px 0 0;
 }
 
+.hero {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 28px;
+}
+
+.hero-copy {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+.missing-note {
+  flex: 0 1 320px;
+  margin: 4px 0 0;
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: #fff;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.45;
+}
+
+.missing-note p {
+  margin: 0 0 8px;
+}
+
+.missing-note p:last-child {
+  margin: 0;
+}
+
+.missing-title {
+  color: var(--ink);
+  font-size: 12px;
+  font-weight: 650;
+  letter-spacing: 0.02em;
+}
+
+@media (max-width: 860px) {
+  .hero {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .missing-note {
+    flex: 1 1 auto;
+    width: 100%;
+  }
+}
+
 .eyebrow {
   margin: 0 0 8px;
   font-size: 12px;
