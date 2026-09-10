@@ -54,28 +54,24 @@ body {
   padding: 36px 0 0;
 }
 
-.hero {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 28px;
-}
-
 .hero-copy {
-  flex: 1 1 0;
-  min-width: 0;
+  max-width: 62ch;
 }
 
 .missing-note {
-  flex: 0 1 320px;
-  margin: 4px 0 0;
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  z-index: 20;
+  width: min(300px, calc(100vw - 32px));
   padding: 14px 16px;
-  border: 1px solid var(--line);
+  border: 1px solid #c9b896;
   border-radius: 12px;
-  background: #fff;
-  color: var(--muted);
+  background: #fff8e8;
+  color: #5c5346;
   font-size: 12px;
   line-height: 1.45;
+  box-shadow: 0 8px 24px rgba(28, 25, 22, 0.12);
 }
 
 .missing-note p {
@@ -87,21 +83,16 @@ body {
 }
 
 .missing-title {
-  color: var(--ink);
-  font-size: 12px;
-  font-weight: 650;
-  letter-spacing: 0.02em;
+  color: #1c1916;
+  font-size: 13px;
+  font-weight: 700;
 }
 
-@media (max-width: 860px) {
-  .hero {
-    flex-direction: column;
-    gap: 16px;
-  }
-
+@media (max-width: 720px) {
   .missing-note {
-    flex: 1 1 auto;
-    width: 100%;
+    position: static;
+    width: auto;
+    margin: 0 16px 12px;
   }
 }
 
