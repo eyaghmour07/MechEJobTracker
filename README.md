@@ -7,15 +7,15 @@ A living list of **mechanical engineering** internships and new-graduate roles. 
 **Use the site:** [eyaghmour07.github.io/MechEJobTracker](https://eyaghmour07.github.io/MechEJobTracker/) — internships and co-ops, with the full application URL on each row. Check a box after you apply and the row moves to that section’s Applied list. Checkmarks stay in your browser (Export / Import to move them). This README is the same list as a backup.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-09-11 00:53 UTC*
+*Last updated: 2026-09-11 05:39 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
 - [Internships](/) - <!-- COUNT_INTERN_USA -->**725**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
-- [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**74**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](/NEW_GRAD_USA.md#medical-devices), [Automotive & EV](/NEW_GRAD_USA.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_USA.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_USA.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_USA.md#robotics--hardware), [Other](/NEW_GRAD_USA.md#other))
+- [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**75**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](/NEW_GRAD_USA.md#medical-devices), [Automotive & EV](/NEW_GRAD_USA.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_USA.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_USA.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_USA.md#robotics--hardware), [Other](/NEW_GRAD_USA.md#other))
 
 ### International Positions
-- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**201**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](/INTERN_INTL.md#medical-devices), [Automotive & EV](/INTERN_INTL.md#automotive--ev), [Aerospace & Defense](/INTERN_INTL.md#aerospace--defense), [Energy & Industrial](/INTERN_INTL.md#energy--industrial), [Robotics & Hardware](/INTERN_INTL.md#robotics--hardware), [Other](/INTERN_INTL.md#other))
+- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**202**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](/INTERN_INTL.md#medical-devices), [Automotive & EV](/INTERN_INTL.md#automotive--ev), [Aerospace & Defense](/INTERN_INTL.md#aerospace--defense), [Energy & Industrial](/INTERN_INTL.md#energy--industrial), [Robotics & Hardware](/INTERN_INTL.md#robotics--hardware), [Other](/INTERN_INTL.md#other))
 - [New Graduate](/NEW_GRAD_INTL.md) - <!-- COUNT_NEWGRAD_INTL -->**7**<!-- COUNT_NEWGRAD_INTL_END --> available · <!-- COUNT_APPLIED_NEWGRAD_INTL -->**0**<!-- COUNT_APPLIED_NEWGRAD_INTL_END --> applied ([Medical Devices](/NEW_GRAD_INTL.md#medical-devices), [Automotive & EV](/NEW_GRAD_INTL.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_INTL.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_INTL.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_INTL.md#robotics--hardware), [Other](/NEW_GRAD_INTL.md#other))
 
 Want a company added? See [CONTRIBUTING.md](/CONTRIBUTING.md).
