@@ -7,7 +7,7 @@ A living list of **mechanical engineering** internships and new-graduate roles. 
 **Use the site:** [eyaghmour07.github.io/MechEJobTracker](https://eyaghmour07.github.io/MechEJobTracker/) — internships and co-ops, with the full application URL on each row. Check a box after you apply and the row moves to that section’s Applied list. Checkmarks stay in your browser (Export / Import to move them). This README is the same list as a backup.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-09-12 08:24 UTC*
+*Last updated: 2026-09-12 12:39 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
