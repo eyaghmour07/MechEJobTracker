@@ -3,7 +3,7 @@
 Mechanical engineering internships outside the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-09-12 18:20 UTC*
+*Last updated: 2026-09-12 21:14 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -130,13 +130,13 @@ Mechanical engineering internships outside the United States. Listings refresh h
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | CAD Engineer Intern (Spring 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704740006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 28d |
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | CAD Engineer Intern (Summer 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704742006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 28d |
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | CAD Engineer Intern (Winter 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704748006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 28d |
-| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Electrical Reliability Intern (Fall 2026) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4681472006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 81d |
+| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Electrical Reliability Intern (Fall 2026) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4681472006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 82d |
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Engineer Intern (Spring 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704602006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 28d |
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Engineer Intern (Summer 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704601006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 28d |
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Engineer Intern (Winter 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704600006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 28d |
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Radiation Effects Engineer Intern (Fall 2026) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4694853006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 67d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Avionics Manufacturing Engineering Intern | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7819770003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 40d |
-| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Development Engineering Intern - Neutron Thrust Module | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7825563003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 31d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Development Engineering Intern - Neutron Thrust Module | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7825563003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 32d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Development Engineering Intern - Neutron Upper Module | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821126003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 40d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Facilities Maintenance Manufacturing Engineering Intern | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821146003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 10d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Ground Systems Engineering Intern | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821140003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 40d |
