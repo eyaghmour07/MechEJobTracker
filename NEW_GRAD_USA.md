@@ -3,7 +3,7 @@
 Mechanical engineering new-grad and early-career roles in the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-09-12 12:39 UTC*
+*Last updated: 2026-09-12 16:01 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -75,9 +75,9 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 <!-- TABLE_AEROSPACE_START -->
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
-| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Manufacturing (Starshield) | Hawthorne, CA | <a href="https://boards.greenhouse.io/spacex/jobs/8752547002?gh_jid=8752547002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 14d |
+| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Manufacturing (Starshield) | Hawthorne, CA | <a href="https://boards.greenhouse.io/spacex/jobs/8752547002?gh_jid=8752547002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 15d |
 | <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Manufacturing (Starship) | Starbase, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 24d |
-| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical (Cape Canaveral) | Cape Canaveral, FL | <a href="https://boards.greenhouse.io/spacex/jobs/8622574002?gh_jid=8622574002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 66d |
+| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical (Cape Canaveral) | Cape Canaveral, FL | <a href="https://boards.greenhouse.io/spacex/jobs/8622574002?gh_jid=8622574002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 67d |
 | <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical (Starship) | Starbase, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8729117002?gh_jid=8729117002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 24d |
 | <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical - '26/'27 (Starlink) | Bastrop, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8696952002?gh_jid=8696952002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 28d |
 | <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical - '26/'27 (Starlink) | Redmond, WA | <a href="https://boards.greenhouse.io/spacex/jobs/8696986002?gh_jid=8696986002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 28d |
@@ -122,7 +122,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | <a href="https://www.blueorigin.com/careers"><strong>Blue Origin</strong></a> | Thermal Engineer I - Early Career (2027 Starts) | Huntsville, AL | <a href="https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Thermal-Engineer-I---Early-Career--2027-Starts-_R71709"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 2d |
 | <a href="https://www.blueorigin.com/careers"><strong>Blue Origin</strong></a> | Thermal Engineer I - Early Career (2027 Starts) | Space Coast, FL | <a href="https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Thermal-Engineer-I---Early-Career--2027-Starts-_R71709"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 2d |
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Instrumentation and Controls Engineer I (Operations) | Stennis Space Center, Mississippi | <a href="https://boards.greenhouse.io/relativity/jobs/8606445002?gh_jid=8606445002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 79d |
-| <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Launch Fluids Engineer I | Cape Canaveral, Florida, United States | <a href="https://boards.greenhouse.io/relativity/jobs/8693679002?gh_jid=8693679002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 24d |
+| <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Launch Fluids Engineer I | Cape Canaveral, Florida, United States | <a href="https://boards.greenhouse.io/relativity/jobs/8693679002?gh_jid=8693679002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 25d |
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Manufacturing Engineer I, Paint and TPS | Long Beach, California | <a href="https://boards.greenhouse.io/relativity/jobs/8672353002?gh_jid=8672353002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 39d |
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Propulsion Engineer I, Combustion Devices | Long Beach, California | <a href="https://boards.greenhouse.io/relativity/jobs/8659588002?gh_jid=8659588002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 39d |
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Propulsion Structural Engineer I, Combustion Devices | Long Beach, California | <a href="https://boards.greenhouse.io/relativity/jobs/8622743002?gh_jid=8622743002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 63d |

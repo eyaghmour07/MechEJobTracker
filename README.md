@@ -7,7 +7,7 @@ A living list of **mechanical engineering** internships and new-graduate roles. 
 **Use the site:** [eyaghmour07.github.io/MechEJobTracker](https://eyaghmour07.github.io/MechEJobTracker/) — internships and co-ops, with the full application URL on each row. Check a box after you apply and the row moves to that section’s Applied list. Checkmarks stay in your browser (Export / Import to move them). This README is the same list as a backup.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-09-12 12:39 UTC*
+*Last updated: 2026-09-12 16:01 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -168,7 +168,7 @@ Want a company added? See [CONTRIBUTING.md](/CONTRIBUTING.md).
 | <a href="https://www.edwards.com/careers"><strong>Edwards Lifesciences</strong></a> | Engineering Internship, Summer 2027 | USA - Utah – Salt Lake City | <a href="https://edwards.wd5.myworkdayjobs.com/en-US/EdwardsCareers/job/USA-IRV-1472-AltonDBC6-7/Return-Engineering-Internship--Summer-2027_Req-49530"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 11d |
 | <a href="https://www.edwards.com/careers"><strong>Edwards Lifesciences</strong></a> | Engineering Internship, Summer 2027 | USA IRV-1472 Alton/DBC6-7 | <a href="https://edwards.wd5.myworkdayjobs.com/en-US/EdwardsCareers/job/USA-IRV-1472-AltonDBC6-7/Return-Engineering-Internship--Summer-2027_Req-49530"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 11d |
 | <a href="https://jobs.alcon.com/"><strong>Alcon</strong></a> | Spring + Summer 2027 Co-Op - Manufacturing Science & Technology | Houston, Texas | <a href="https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Houston-Texas/Fall---Spring-2026-2027-Co-Op---Manufacturing-Science---Technology_R-2026-47959"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 12d |
-| <a href="https://www.atricure.com/careers"><strong>AtriCure</strong></a> | Engineering Intern | Pleasanton, CA | <a href="https://job-boards.greenhouse.io/atricure/jobs/4339615009"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 43d |
+| <a href="https://www.atricure.com/careers"><strong>AtriCure</strong></a> | Engineering Intern | Pleasanton, CA | <a href="https://job-boards.greenhouse.io/atricure/jobs/4339615009"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 44d |
 <!-- TABLE_MEDICAL_END -->
 #### Applied
 
@@ -237,7 +237,7 @@ Want a company added? See [CONTRIBUTING.md](/CONTRIBUTING.md).
 | <a href="https://search-careers.gm.com/"><strong>General Motors</strong></a> | Packaging Engineering Intern | Burton, Michigan, United States of America | <a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Burton-Michigan-United-States-of-America/Packaging-Engineering-Intern_JR-202618311"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 5d |
 | <a href="https://zoox.com/careers/"><strong>Zoox</strong></a> | Contract Student Worker - Digital Engineer | Foster City, CA | <a href="https://jobs.lever.co/zoox/cfb9dff3-844f-443e-9be8-46133eb9e656"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 1d |
 | <a href="https://zoox.com/careers/"><strong>Zoox</strong></a> | Contract Student Worker - Forward Deployed Automation Engineer (40 hrs/wk) | Seattle, WA | <a href="https://jobs.lever.co/zoox/5fad000d-791f-4a0a-96da-65ca594160a9"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 2d |
-| <a href="https://zoox.com/careers/"><strong>Zoox</strong></a> | Contract Student Worker Automation & Behavioral Science Engineer | Foster City, CA | <a href="https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 99d |
+| <a href="https://zoox.com/careers/"><strong>Zoox</strong></a> | Contract Student Worker Automation & Behavioral Science Engineer | Foster City, CA | <a href="https://jobs.lever.co/zoox/ba1f2937-abf0-4bde-86e9-e302202a6b0e"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 100d |
 <!-- TABLE_AUTOMOTIVE_END -->
 #### Applied
 
@@ -629,7 +629,7 @@ Want a company added? See [CONTRIBUTING.md](/CONTRIBUTING.md).
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | HITL Engineering Intern Summer 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7990268003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 2d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Integration & Test Intern Spring 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7987252003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 2d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Integration & Test Intern Summer 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7987250003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 2d |
-| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Propulsion Design Intern Spring 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7987110003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 0d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Propulsion Design Intern Spring 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7987110003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 1d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Propulsion Design Intern Summer 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986816003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 1d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Propulsion Intern Spring 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986790003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 1d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Propulsion Intern Summer 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986792003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 1d |
