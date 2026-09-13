@@ -3,7 +3,7 @@
 Mechanical engineering internships outside the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-09-13 17:17 UTC*
+*Last updated: 2026-09-13 20:21 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
