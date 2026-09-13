@@ -3,7 +3,7 @@
 Mechanical engineering new-grad and early-career roles outside the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-09-13 03:11 UTC*
+*Last updated: 2026-09-13 08:54 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -23,9 +23,9 @@ Mechanical engineering new-grad and early-career roles outside the United States
 <!-- TABLE_MEDICAL_START -->
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
-| <a href="https://www.medtronic.com/en-us/our-company/careers.html"><strong>Medtronic</strong></a> | Manufacturing  Engineer I | Ho Chi Minh City, Ho Chi Minh City, Vietnam | <a href="https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Manufacturing--Engineer-I_R74465-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 2d |
+| <a href="https://www.medtronic.com/en-us/our-company/careers.html"><strong>Medtronic</strong></a> | Manufacturing  Engineer I | Ho Chi Minh City, Ho Chi Minh City, Vietnam | <a href="https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Manufacturing--Engineer-I_R74465-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 3d |
 | <a href="https://www.illumina.com/company/careers.html"><strong>Illumina</strong></a> | Equipment Engineer 1 | Singapore - Woodlands - NorthCoast | <a href="https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/Singapore---Woodlands---NorthCoast/Equipment-Engineer-1_43176-JOB-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 30d |
-| <a href="https://www.illumina.com/company/careers.html"><strong>Illumina</strong></a> | Manufacturing Equipment Engineer 1 | Singapore - Woodlands - NorthTech | <a href="https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/Singapore---Woodlands---NorthTech/Supervisor--Manufacturing-Equipment-Engineering_42577-JOB"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 0d |
+| <a href="https://www.illumina.com/company/careers.html"><strong>Illumina</strong></a> | Manufacturing Equipment Engineer 1 | Singapore - Woodlands - NorthTech | <a href="https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/Singapore---Woodlands---NorthTech/Supervisor--Manufacturing-Equipment-Engineering_42577-JOB"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 2d |
 <!-- TABLE_MEDICAL_END -->
 #### Applied
 
