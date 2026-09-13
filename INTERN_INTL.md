@@ -3,7 +3,7 @@
 Mechanical engineering internships outside the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-09-13 13:41 UTC*
+*Last updated: 2026-09-13 17:17 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -11,7 +11,7 @@ Mechanical engineering internships outside the United States. Listings refresh h
 - [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**89**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](/NEW_GRAD_USA.md#medical-devices), [Automotive & EV](/NEW_GRAD_USA.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_USA.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_USA.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_USA.md#robotics--hardware), [Other](/NEW_GRAD_USA.md#other))
 
 ### International Positions
-- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**206**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
+- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**205**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
 - [New Graduate](/NEW_GRAD_INTL.md) - <!-- COUNT_NEWGRAD_INTL -->**6**<!-- COUNT_NEWGRAD_INTL_END --> available · <!-- COUNT_APPLIED_NEWGRAD_INTL -->**0**<!-- COUNT_APPLIED_NEWGRAD_INTL_END --> applied ([Medical Devices](/NEW_GRAD_INTL.md#medical-devices), [Automotive & EV](/NEW_GRAD_INTL.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_INTL.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_INTL.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_INTL.md#robotics--hardware), [Other](/NEW_GRAD_INTL.md#other))
 
 ## 2027 International ME Internships
@@ -147,7 +147,7 @@ Mechanical engineering internships outside the United States. Listings refresh h
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Manufacturing Engineering Intern - Space Sytems | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7820012003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 39d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Manufacturing Engineering Intern - Vehicle Integration | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7819745003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 41d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Manufacturing Engineering Intern- Spacecraft Components | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7820014003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 41d |
-| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineering Intern Spring 2027 | Toronto, CAN | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986368003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 2d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineering Intern Spring 2027 | Toronto, CAN | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986368003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 3d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineering Intern Summer 2027 | Toronto, CAN | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7991769003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 2d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Neutron Mechanical Development Intern | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821193003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 41d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Supplier Quality Engineer Intern | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7819101003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 41d |
@@ -165,7 +165,6 @@ Mechanical engineering internships outside the United States. Listings refresh h
 <!-- TABLE_ENERGY_START -->
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
-| <a href="https://www.caterpillar.com/en/careers.html"><strong>Caterpillar</strong></a> | Engineering Intern | Tianjin, Tianjin | <a href="https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Tianjin-Tianjin/Engineering-Intern_R0000385248"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 2d |
 | <a href="https://www.caterpillar.com/en/careers.html"><strong>Caterpillar</strong></a> | Logistics Engineering - 12 Month Placement Student | Peterborough, United Kingdom | <a href="https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peterborough-United-Kingdom/Logistics-Engineering---12-Month-Placement-Student_R0000388675"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 0d |
 | <a href="https://www.caterpillar.com/en/careers.html"><strong>Caterpillar</strong></a> | Manufacturing Engineering College Intern | Rayong, Thailand | <a href="https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Rayong-Thailand/Manufacturing-Engineering-College-Intern_R0000392914"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 4d |
 | <a href="https://www.caterpillar.com/en/careers.html"><strong>Caterpillar</strong></a> | Quality Intern | Tianjin, Tianjin | <a href="https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Tianjin-Tianjin/Quality-Intern_R0000390103"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 10d |
