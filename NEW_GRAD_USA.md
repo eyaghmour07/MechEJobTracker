@@ -3,7 +3,7 @@
 Mechanical engineering new-grad and early-career roles in the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-09-12 23:46 UTC*
+*Last updated: 2026-09-13 03:11 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -60,7 +60,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | <a href="https://search-careers.gm.com/"><strong>General Motors</strong></a> | Entry-Level Mechanical Engineer | Romulus, Michigan, United States of America | <a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Arlington-Texas-United-States-of-America/Entry-Level-Mechanical-Engineer_JR-202620162"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 0d |
 | <a href="https://search-careers.gm.com/"><strong>General Motors</strong></a> | Entry-Level Mechanical Engineer | Wentzville, Missouri, United States of America | <a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Arlington-Texas-United-States-of-America/Entry-Level-Mechanical-Engineer_JR-202620162"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 0d |
 | <a href="https://search-careers.gm.com/"><strong>General Motors</strong></a> | Entry-Level Mechanical Engineer | Wyoming, Michigan, United States of America | <a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Arlington-Texas-United-States-of-America/Entry-Level-Mechanical-Engineer_JR-202620162"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 0d |
-| <a href="https://www.lucidmotors.com/careers"><strong>Lucid Motors</strong></a> | Manufacturing Engineer I | Newark, CA | <a href="https://job-boards.greenhouse.io/lucidmotors/jobs/5226693007"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 1d |
+| <a href="https://www.lucidmotors.com/careers"><strong>Lucid Motors</strong></a> | Manufacturing Engineer I | Newark, CA | <a href="https://job-boards.greenhouse.io/lucidmotors/jobs/5226693007"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 2d |
 <!-- TABLE_AUTOMOTIVE_END -->
 #### Applied
 
@@ -128,7 +128,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Propulsion Structural Engineer I, Combustion Devices | Long Beach, California | <a href="https://boards.greenhouse.io/relativity/jobs/8622743002?gh_jid=8622743002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 64d |
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Vehicle Structures Engineer I | Long Beach, California, United States | <a href="https://boards.greenhouse.io/relativity/jobs/8600166002?gh_jid=8600166002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 85d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Additive Manufacturing Engineer I/II | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7814229003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 51d |
-| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Integration & Test Engineer I/II | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7767776003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 94d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Integration & Test Engineer I/II | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7767776003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 95d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineer I | Silver Spring, MD | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7992604003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 1d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Test Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7985641003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 1d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Mechanical Engineer I/II | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7836127003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 33d |

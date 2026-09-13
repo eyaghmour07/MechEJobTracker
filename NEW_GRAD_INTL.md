@@ -3,7 +3,7 @@
 Mechanical engineering new-grad and early-career roles outside the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-09-12 23:46 UTC*
+*Last updated: 2026-09-13 03:11 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -54,9 +54,9 @@ Mechanical engineering new-grad and early-career roles outside the United States
 <!-- TABLE_AEROSPACE_START -->
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
-| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Associate Engineer (Spring 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704621006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 28d |
-| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Associate Engineer (Summer 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704620006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 28d |
-| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Associate Engineer (Winter 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704619006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 28d |
+| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Associate Engineer (Spring 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704621006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 29d |
+| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Associate Engineer (Summer 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704620006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 29d |
+| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Associate Engineer (Winter 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704619006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 29d |
 <!-- TABLE_AEROSPACE_END -->
 #### Applied
 

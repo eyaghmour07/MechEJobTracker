@@ -7,7 +7,7 @@ A living list of **mechanical engineering** internships and new-graduate roles. 
 **Use the site:** [eyaghmour07.github.io/MechEJobTracker](https://eyaghmour07.github.io/MechEJobTracker/) — internships and co-ops, with the full application URL on each row. Check a box after you apply and the row moves to that section’s Applied list. Checkmarks stay in your browser (Export / Import to move them). This README is the same list as a backup.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-09-12 23:46 UTC*
+*Last updated: 2026-09-13 03:11 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -740,15 +740,15 @@ Want a company added? See [CONTRIBUTING.md](/CONTRIBUTING.md).
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
 | <a href="https://formlabs.com/careers"><strong>Formlabs</strong></a> | Hardware R&D Engineering Intern (Fall 2026) | Somerville, MA | <a href="https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 44d |
-| <a href="https://formlabs.com/careers"><strong>Formlabs</strong></a> | Hardware R&D Engineering Intern (Winter/Spring 2027) | Somerville, MA | <a href="https://careers.formlabs.com/job/8172226/apply/?gh_jid=8172226"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 10d |
-| <a href="https://formlabs.com/careers"><strong>Formlabs</strong></a> | Hardware Systems Integration Intern (Winter/Spring 2027) | Somerville, MA | <a href="https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 10d |
-| <a href="https://formlabs.com/careers"><strong>Formlabs</strong></a> | Industrial Design Intern (Winter/Spring 2027) | Somerville, MA | <a href="https://careers.formlabs.com/job/8172232/apply/?gh_jid=8172232"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 10d |
+| <a href="https://formlabs.com/careers"><strong>Formlabs</strong></a> | Hardware R&D Engineering Intern (Winter/Spring 2027) | Somerville, MA | <a href="https://careers.formlabs.com/job/8172226/apply/?gh_jid=8172226"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 11d |
+| <a href="https://formlabs.com/careers"><strong>Formlabs</strong></a> | Hardware Systems Integration Intern (Winter/Spring 2027) | Somerville, MA | <a href="https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 11d |
+| <a href="https://formlabs.com/careers"><strong>Formlabs</strong></a> | Industrial Design Intern (Winter/Spring 2027) | Somerville, MA | <a href="https://careers.formlabs.com/job/8172232/apply/?gh_jid=8172232"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 11d |
 | <a href="https://formlabs.com/careers"><strong>Formlabs</strong></a> | Manufacturing Engineering Intern (Winter/Spring 2027) | Somerville, MA | <a href="https://careers.formlabs.com/job/8161817/apply/?gh_jid=8161817"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 9d |
 | <a href="https://formlabs.com/careers"><strong>Formlabs</strong></a> | Mechanical Engineering Intern (Winter/Spring 2027) | Somerville, MA | <a href="https://careers.formlabs.com/job/8130829/apply/?gh_jid=8130829"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 29d |
 | <a href="https://www.1x.tech/careers"><strong>1X</strong></a> | Internship - Manufacturing Engineering (Fall) | San Carlos, CA | <a href="https://jobs.ashbyhq.com/1x/7d93444c-01f5-485c-89ef-24164f30441d"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 33d |
 | <a href="https://www.skydio.com/careers"><strong>Skydio</strong></a> | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 | San Mateo, California, United States | <a href="https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 9d |
 | <a href="https://www.skydio.com/careers"><strong>Skydio</strong></a> | Flight Test Intern - Summer 2027 | San Mateo, California, United States | <a href="https://jobs.ashbyhq.com/skydio/3eb06d6e-b6f0-4814-a80a-f1c43075873b"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 8d |
-| <a href="https://www.skydio.com/careers"><strong>Skydio</strong></a> | Hardware Test & Reliability Intern - Fall 2026/Winter 2027 | San Mateo, California, United States | <a href="https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 38d |
+| <a href="https://www.skydio.com/careers"><strong>Skydio</strong></a> | Hardware Test & Reliability Intern - Fall 2026/Winter 2027 | San Mateo, California, United States | <a href="https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 39d |
 | <a href="https://www.skydio.com/careers"><strong>Skydio</strong></a> | Product Design Engineer Intern - Summer 2027 | San Mateo, California, United States | <a href="https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 8d |
 <!-- TABLE_ROBOTICS_END -->
 #### Applied
