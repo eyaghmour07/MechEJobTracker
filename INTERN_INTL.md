@@ -3,16 +3,16 @@
 Mechanical engineering internships outside the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-09-16 07:15 UTC*
+*Last updated: 2026-09-16 13:10 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
 - [Internships](/) - <!-- COUNT_INTERN_USA -->**751**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
-- [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**87**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](/NEW_GRAD_USA.md#medical-devices), [Automotive & EV](/NEW_GRAD_USA.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_USA.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_USA.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_USA.md#robotics--hardware), [Other](/NEW_GRAD_USA.md#other))
+- [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**88**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](/NEW_GRAD_USA.md#medical-devices), [Automotive & EV](/NEW_GRAD_USA.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_USA.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_USA.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_USA.md#robotics--hardware), [Other](/NEW_GRAD_USA.md#other))
 
 ### International Positions
 - [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**210**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
-- [New Graduate](/NEW_GRAD_INTL.md) - <!-- COUNT_NEWGRAD_INTL -->**8**<!-- COUNT_NEWGRAD_INTL_END --> available · <!-- COUNT_APPLIED_NEWGRAD_INTL -->**0**<!-- COUNT_APPLIED_NEWGRAD_INTL_END --> applied ([Medical Devices](/NEW_GRAD_INTL.md#medical-devices), [Automotive & EV](/NEW_GRAD_INTL.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_INTL.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_INTL.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_INTL.md#robotics--hardware), [Other](/NEW_GRAD_INTL.md#other))
+- [New Graduate](/NEW_GRAD_INTL.md) - <!-- COUNT_NEWGRAD_INTL -->**9**<!-- COUNT_NEWGRAD_INTL_END --> available · <!-- COUNT_APPLIED_NEWGRAD_INTL -->**0**<!-- COUNT_APPLIED_NEWGRAD_INTL_END --> applied ([Medical Devices](/NEW_GRAD_INTL.md#medical-devices), [Automotive & EV](/NEW_GRAD_INTL.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_INTL.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_INTL.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_INTL.md#robotics--hardware), [Other](/NEW_GRAD_INTL.md#other))
 
 ## 2027 International ME Internships
 
@@ -151,7 +151,7 @@ Mechanical engineering internships outside the United States. Listings refresh h
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Manufacturing Engineering Intern - Vehicle Integration | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7819745003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 44d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineering Intern Spring 2027 | Toronto, CAN | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986368003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 5d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineering Intern Summer 2027 | Toronto, CAN | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7991769003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 4d |
-| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Neutron Mechanical Development Intern | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821122003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 44d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Neutron Mechanical Development Intern | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821193003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 44d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Supplier Quality Engineer Intern | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7819101003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 44d |
 <!-- TABLE_AEROSPACE_END -->
 #### Applied
