@@ -3,11 +3,11 @@
 Mechanical engineering new-grad and early-career roles outside the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-09-17 00:07 UTC*
+*Last updated: 2026-09-17 05:46 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
-- [Internships](/) - <!-- COUNT_INTERN_USA -->**771**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
+- [Internships](/) - <!-- COUNT_INTERN_USA -->**772**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
 - [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**88**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](/NEW_GRAD_USA.md#medical-devices), [Automotive & EV](/NEW_GRAD_USA.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_USA.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_USA.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_USA.md#robotics--hardware), [Other](/NEW_GRAD_USA.md#other))
 
 ### International Positions
@@ -57,9 +57,9 @@ Mechanical engineering new-grad and early-career roles outside the United States
 <!-- TABLE_AEROSPACE_START -->
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
-| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Associate Engineer (Spring 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704621006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 32d |
-| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Associate Engineer (Summer 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704620006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 32d |
-| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Associate Engineer (Winter 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704619006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 32d |
+| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Associate Engineer (Spring 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704621006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 33d |
+| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Associate Engineer (Summer 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704620006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 33d |
+| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Associate Engineer (Winter 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704619006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 33d |
 <!-- TABLE_AEROSPACE_END -->
 #### Applied
 
