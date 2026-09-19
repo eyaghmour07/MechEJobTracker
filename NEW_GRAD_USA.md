@@ -3,7 +3,7 @@
 Mechanical engineering new-grad and early-career roles in the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-09-19 10:20 UTC*
+*Last updated: 2026-09-19 14:12 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -119,7 +119,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | <a href="https://www.blueorigin.com/careers"><strong>Blue Origin</strong></a> | Thermal Engineer I - Early Career (2027 Starts) | Huntsville, AL | <a href="https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Thermal-Engineer-I---Early-Career--2027-Starts-_R71709"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 9d |
 | <a href="https://www.blueorigin.com/careers"><strong>Blue Origin</strong></a> | Thermal Engineer I - Early Career (2027 Starts) | Space Coast, FL | <a href="https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Thermal-Engineer-I---Early-Career--2027-Starts-_R71709"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 9d |
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Instrumentation and Controls Engineer I (Operations) | Stennis Space Center, Mississippi | <a href="https://boards.greenhouse.io/relativity/jobs/8606445002?gh_jid=8606445002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 86d |
-| <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Launch Fluids Engineer I | Cape Canaveral, Florida, United States | <a href="https://boards.greenhouse.io/relativity/jobs/8693679002?gh_jid=8693679002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 31d |
+| <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Launch Fluids Engineer I | Cape Canaveral, Florida, United States | <a href="https://boards.greenhouse.io/relativity/jobs/8693679002?gh_jid=8693679002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 32d |
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Manufacturing Engineer I, Paint and TPS | Long Beach, California | <a href="https://boards.greenhouse.io/relativity/jobs/8672353002?gh_jid=8672353002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 46d |
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Propulsion Engineer I, Combustion Devices | Long Beach, California | <a href="https://boards.greenhouse.io/relativity/jobs/8659588002?gh_jid=8659588002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 46d |
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Propulsion Structural Engineer I, Combustion Devices | Long Beach, California | <a href="https://boards.greenhouse.io/relativity/jobs/8622743002?gh_jid=8622743002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 70d |
