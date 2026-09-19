@@ -3,7 +3,7 @@
 Mechanical engineering new-grad and early-career roles in the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-09-19 17:48 UTC*
+*Last updated: 2026-09-19 20:04 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -122,7 +122,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Launch Fluids Engineer I | Cape Canaveral, Florida, United States | <a href="https://boards.greenhouse.io/relativity/jobs/8693679002?gh_jid=8693679002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 32d |
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Manufacturing Engineer I, Paint and TPS | Long Beach, California | <a href="https://boards.greenhouse.io/relativity/jobs/8672353002?gh_jid=8672353002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 46d |
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Propulsion Engineer I, Combustion Devices | Long Beach, California | <a href="https://boards.greenhouse.io/relativity/jobs/8659588002?gh_jid=8659588002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 46d |
-| <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Propulsion Structural Engineer I, Combustion Devices | Long Beach, California | <a href="https://boards.greenhouse.io/relativity/jobs/8622743002?gh_jid=8622743002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 70d |
+| <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Propulsion Structural Engineer I, Combustion Devices | Long Beach, California | <a href="https://boards.greenhouse.io/relativity/jobs/8622743002?gh_jid=8622743002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 71d |
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Vehicle Structures Engineer I - 2026 Graduate | Long Beach, California, United States | <a href="https://boards.greenhouse.io/relativity/jobs/8600166002?gh_jid=8600166002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 92d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Integration & Test Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7767776003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 101d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineer I | Silver Spring, MD | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7992604003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 7d |
