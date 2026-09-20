@@ -3,7 +3,7 @@
 Mechanical engineering new-grad and early-career roles in the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-09-20 14:31 UTC*
+*Last updated: 2026-09-20 17:59 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -74,13 +74,13 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 <!-- TABLE_AEROSPACE_START -->
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
-| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Manufacturing (Starshield) | Hawthorne, CA | <a href="https://boards.greenhouse.io/spacex/jobs/8752547002?gh_jid=8752547002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 22d |
+| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Manufacturing (Starshield) | Hawthorne, CA | <a href="https://boards.greenhouse.io/spacex/jobs/8752547002?gh_jid=8752547002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 23d |
 | <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Manufacturing (Starship) | Starbase, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 32d |
-| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical (Cape Canaveral) | Cape Canaveral, FL | <a href="https://boards.greenhouse.io/spacex/jobs/8622574002?gh_jid=8622574002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 74d |
+| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical (Cape Canaveral) | Cape Canaveral, FL | <a href="https://boards.greenhouse.io/spacex/jobs/8622574002?gh_jid=8622574002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 75d |
 | <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical (Starship) | Starbase, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8729117002?gh_jid=8729117002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 32d |
-| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical - '26/'27 (Starlink) | Bastrop, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8696952002?gh_jid=8696952002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 36d |
-| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical - '26/'27 (Starlink) | Redmond, WA | <a href="https://boards.greenhouse.io/spacex/jobs/8696986002?gh_jid=8696986002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 36d |
-| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical Design (Starshield) | Hawthorne, CA | <a href="https://boards.greenhouse.io/spacex/jobs/8766964002?gh_jid=8766964002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 9d |
+| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical - '26/'27 (Starlink) | Bastrop, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8696952002?gh_jid=8696952002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 37d |
+| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical - '26/'27 (Starlink) | Redmond, WA | <a href="https://boards.greenhouse.io/spacex/jobs/8696986002?gh_jid=8696986002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 37d |
+| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical Design (Starshield) | Hawthorne, CA | <a href="https://boards.greenhouse.io/spacex/jobs/8766964002?gh_jid=8766964002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 10d |
 | <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8729085002?gh_jid=8729085002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 32d |
 | <a href="https://jobs.boeing.com/"><strong>Boeing</strong></a> | Spacecraft Thermal Engineer (Early Career) - Millennium Space Systems | USA - El Segundo, CA | <a href="https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Thermal-Engineer--Early-Career----Millennium-Space-Systems_JR2026503921-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 3d |
 | <a href="https://www.blueorigin.com/careers"><strong>Blue Origin</strong></a> | Aerospace Systems Engineer I – Early Career & New Graduate Rotation (2027 Starts) | Denver, CO | <a href="https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Aerospace-Systems-Engineer-I---Early-Career--2027-Starts-_R71322"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 10d |

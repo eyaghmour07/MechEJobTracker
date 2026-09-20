@@ -3,7 +3,7 @@
 Mechanical engineering internships outside the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-09-20 14:31 UTC*
+*Last updated: 2026-09-20 17:59 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -143,7 +143,7 @@ Mechanical engineering internships outside the United States. Listings refresh h
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Ground Systems Mechanical Engineering Intern - Neutron | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821138003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 48d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Manufacturing Engineering Intern - Composites | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7882562003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 18d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Manufacturing Engineering Intern - Space Sytems | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7820012003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 46d |
-| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineering Intern Spring 2027 | Toronto, CAN | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986368003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 9d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineering Intern Spring 2027 | Toronto, CAN | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986368003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 10d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineering Intern Summer 2027 | Toronto, CAN | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7991769003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 9d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Neutron Mechanical Development Intern | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821122003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 48d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Supplier Quality Engineer Intern | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7819101003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 48d |
