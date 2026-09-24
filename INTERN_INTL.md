@@ -3,7 +3,7 @@
 Mechanical engineering internships outside the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-09-24 07:13 UTC*
+*Last updated: 2026-09-24 13:14 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -11,7 +11,7 @@ Mechanical engineering internships outside the United States. Listings refresh h
 - [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**89**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](/NEW_GRAD_USA.md#medical-devices), [Automotive & EV](/NEW_GRAD_USA.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_USA.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_USA.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_USA.md#robotics--hardware), [Other](/NEW_GRAD_USA.md#other))
 
 ### International Positions
-- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**210**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
+- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**211**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
 - [New Graduate](/NEW_GRAD_INTL.md) - <!-- COUNT_NEWGRAD_INTL -->**9**<!-- COUNT_NEWGRAD_INTL_END --> available · <!-- COUNT_APPLIED_NEWGRAD_INTL -->**0**<!-- COUNT_APPLIED_NEWGRAD_INTL_END --> applied ([Medical Devices](/NEW_GRAD_INTL.md#medical-devices), [Automotive & EV](/NEW_GRAD_INTL.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_INTL.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_INTL.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_INTL.md#robotics--hardware), [Other](/NEW_GRAD_INTL.md#other))
 
 ## 2027 International ME Internships
@@ -23,6 +23,7 @@ Mechanical engineering internships outside the United States. Listings refresh h
 <!-- TABLE_MEDICAL_START -->
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
+| <a href="https://www.careers.jnj.com/"><strong>Johnson &amp; Johnson</strong></a> | Engineering Student Industrial Placement 2027 | Leeds, West Yorkshire, United Kingdom | <a href="https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Leeds-West-Yorkshire-United-Kingdom/Engineering-Student-Industrial-Placement-2027_R-098301-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 0d |
 | <a href="https://www.medtronic.com/en-us/our-company/careers.html"><strong>Medtronic</strong></a> | R&D Intern: Tech | Shanghai, Shanghai, China | <a href="https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/R-D-Intern--Tech_R70374-2"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 30d |
 | <a href="https://www.jobs.abbott/"><strong>Abbott</strong></a> | Engineering Internship | Costa Rica - Alajuela | <a href="https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Costa-Rica---Alajuela/Engineering-Internship_31145402"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 30d |
 | <a href="https://www.jobs.abbott/"><strong>Abbott</strong></a> | Engineering Internship II | Costa Rica - Alajuela | <a href="https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Costa-Rica---Alajuela/Engineering-Internship-II_31154412"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 17d |
