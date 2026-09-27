@@ -3,7 +3,7 @@
 Mechanical engineering new-grad and early-career roles outside the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-09-27 06:14 UTC*
+*Last updated: 2026-09-27 12:46 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -23,10 +23,10 @@ Mechanical engineering new-grad and early-career roles outside the United States
 <!-- TABLE_MEDICAL_START -->
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
-| <a href="https://www.medtronic.com/en-us/our-company/careers.html"><strong>Medtronic</strong></a> | Manufacturing  Engineer I | Ho Chi Minh City, Ho Chi Minh City, Vietnam | <a href="https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Manufacturing--Engineer-I_R74465-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 16d |
-| <a href="https://careers.stryker.com/"><strong>Stryker</strong></a> | GQO Manufacturing Operations Graduate Program - September 2027 | Cork, Ireland | <a href="https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/GQO-Manufacturing-Operations-Graduate-Program---September-2027_R574279"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 3d |
-| <a href="https://careers.stryker.com/"><strong>Stryker</strong></a> | R&D Biomedical/Mechanical Engineering Graduate Program - September 2027 | Cork, Ireland | <a href="https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/R-D-Biomedical-Mechanical-Engineering-Graduate-Program---September-2027_R573066"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 3d |
-| <a href="https://jobs.thermofisher.com/"><strong>Thermo Fisher Scientific</strong></a> | Engineer I, Mechanical | Hyderabad, India | <a href="https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Hyderabad-India/Engineer-I--Mechanical_R-01367584"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 10d |
+| <a href="https://www.medtronic.com/en-us/our-company/careers.html"><strong>Medtronic</strong></a> | Manufacturing  Engineer I | Ho Chi Minh City, Ho Chi Minh City, Vietnam | <a href="https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Manufacturing--Engineer-I_R74465-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 17d |
+| <a href="https://careers.stryker.com/"><strong>Stryker</strong></a> | GQO Manufacturing Operations Graduate Program - September 2027 | Cork, Ireland | <a href="https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/GQO-Manufacturing-Operations-Graduate-Program---September-2027_R574279"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 4d |
+| <a href="https://careers.stryker.com/"><strong>Stryker</strong></a> | R&D Biomedical/Mechanical Engineering Graduate Program - September 2027 | Cork, Ireland | <a href="https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/R-D-Biomedical-Mechanical-Engineering-Graduate-Program---September-2027_R573066"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 4d |
+| <a href="https://jobs.thermofisher.com/"><strong>Thermo Fisher Scientific</strong></a> | Engineer I, Mechanical | Hyderabad, India | <a href="https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Hyderabad-India/Engineer-I--Mechanical_R-01367584"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 11d |
 | <a href="https://www.illumina.com/company/careers.html"><strong>Illumina</strong></a> | Equipment Engineer 1 | Singapore - Woodlands - NorthCoast | <a href="https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/Singapore---Woodlands---NorthCoast/Equipment-Engineer-1_43176-JOB-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 30d |
 | <a href="https://www.illumina.com/company/careers.html"><strong>Illumina</strong></a> | Manufacturing Equipment Engineer 1 | Singapore - Woodlands - NorthTech | <a href="https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/Singapore---Woodlands---NorthTech/Manufacturing-Equipment-Engineer-1_43371-JOB"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 30d |
 <!-- TABLE_MEDICAL_END -->
