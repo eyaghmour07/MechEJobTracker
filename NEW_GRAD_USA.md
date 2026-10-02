@@ -3,11 +3,11 @@
 Mechanical engineering new-grad and early-career roles in the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-10-01 23:02 UTC*
+*Last updated: 2026-10-02 02:09 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
-- [Internships](/) - <!-- COUNT_INTERN_USA -->**744**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
+- [Internships](/) - <!-- COUNT_INTERN_USA -->**745**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
 - [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**78**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
 
 ### International Positions
@@ -116,7 +116,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Manufacturing Engineer I, Structures | Long Beach, California, United States | <a href="https://boards.greenhouse.io/relativity/jobs/8860290002?gh_jid=8860290002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 0d |
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Vehicle Structures Engineer I - 2026 Graduate | Long Beach, California, United States | <a href="https://boards.greenhouse.io/relativity/jobs/8600166002?gh_jid=8600166002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 104d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Avionics Test Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8007235003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 3d |
-| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Integration & Test Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7767776003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 113d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Integration & Test Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7767776003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 114d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineer I | Silver Spring, MD | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7992604003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 20d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineer I (Future Grad 2027) | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7784476003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 7d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Test Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7985641003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 20d |
