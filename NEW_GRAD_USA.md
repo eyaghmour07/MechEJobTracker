@@ -3,7 +3,7 @@
 Mechanical engineering new-grad and early-career roles in the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-10-04 22:46 UTC*
+*Last updated: 2026-10-05 01:38 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -119,7 +119,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Manufacturing Engineer I, Structures | Long Beach, California, United States | <a href="https://boards.greenhouse.io/relativity/jobs/8860290002?gh_jid=8860290002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 3d |
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Vehicle Structures Engineer I - 2026 Graduate | Long Beach, California, United States | <a href="https://boards.greenhouse.io/relativity/jobs/8600166002?gh_jid=8600166002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 107d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Avionics Test Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8007235003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 6d |
-| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Integration & Test Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7767776003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 116d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Integration & Test Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7767776003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 117d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Development & Test Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7985641003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 23d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineer I | Silver Spring, MD | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7992604003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 23d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineer I (Future Grad 2027) | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7784476003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 10d |
@@ -127,7 +127,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Propulsion Components Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8001348003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 13d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Propulsion Systems Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7993156003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 23d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Structural Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7784244003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 6d |
-| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Thermal Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8008852003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 4d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Thermal Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8008852003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 5d |
 | <a href="https://www.vastspace.com/careers"><strong>Vast</strong></a> | Tooling Engineer I | Long Beach, California, United States | <a href="https://boards.greenhouse.io/vast/jobs/4692866006?gh_jid=4692866006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 74d |
 <!-- TABLE_AEROSPACE_END -->
 #### Applied
