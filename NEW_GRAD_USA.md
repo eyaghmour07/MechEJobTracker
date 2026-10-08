@@ -3,15 +3,15 @@
 Mechanical engineering new-grad and early-career roles in the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-10-07 22:45 UTC*
+*Last updated: 2026-10-08 02:33 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
 - [Internships](/) - <!-- COUNT_INTERN_USA -->**779**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
-- [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**80**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
+- [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**82**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
 
 ### International Positions
-- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**219**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](/INTERN_INTL.md#medical-devices), [Automotive & EV](/INTERN_INTL.md#automotive--ev), [Aerospace & Defense](/INTERN_INTL.md#aerospace--defense), [Energy & Industrial](/INTERN_INTL.md#energy--industrial), [Robotics & Hardware](/INTERN_INTL.md#robotics--hardware), [Other](/INTERN_INTL.md#other))
+- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**220**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](/INTERN_INTL.md#medical-devices), [Automotive & EV](/INTERN_INTL.md#automotive--ev), [Aerospace & Defense](/INTERN_INTL.md#aerospace--defense), [Energy & Industrial](/INTERN_INTL.md#energy--industrial), [Robotics & Hardware](/INTERN_INTL.md#robotics--hardware), [Other](/INTERN_INTL.md#other))
 - [New Graduate](/NEW_GRAD_INTL.md) - <!-- COUNT_NEWGRAD_INTL -->**12**<!-- COUNT_NEWGRAD_INTL_END --> available · <!-- COUNT_APPLIED_NEWGRAD_INTL -->**0**<!-- COUNT_APPLIED_NEWGRAD_INTL_END --> applied ([Medical Devices](/NEW_GRAD_INTL.md#medical-devices), [Automotive & EV](/NEW_GRAD_INTL.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_INTL.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_INTL.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_INTL.md#robotics--hardware), [Other](/NEW_GRAD_INTL.md#other))
 
 ## 2027 USA ME New Graduate Positions
@@ -25,6 +25,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 |---|---|---|---|---|
 | <a href="https://www.medtronic.com/en-us/our-company/careers.html"><strong>Medtronic</strong></a> | Process Engineer I - North Haven, CT | North Haven, Connecticut, United States of America | <a href="https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/North-Haven-Connecticut-United-States-of-America/Process-Engineer-I---North-Haven--CT_R78242-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 6d |
 | <a href="https://www.medtronic.com/en-us/our-company/careers.html"><strong>Medtronic</strong></a> | Test Engineer I - On-site | Jacksonville, Florida, United States of America | <a href="https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Jacksonville-Florida-United-States-of-America/Test-Engineer-I---On-site_R78933-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 0d |
+| <a href="https://www.jobs.abbott/"><strong>Abbott</strong></a> | Engineer I, Manufacturing | United States - California - Pleasanton | <a href="https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---Pleasanton/Engineer-I--Manufacturing_31163527-2"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 0d |
 | <a href="https://www.jobs.abbott/"><strong>Abbott</strong></a> | Manufacturing Engineer I | United States - Minnesota - New Brighton | <a href="https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---New-Brighton/Manufacturing-Engineer-I_31162512-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 8d |
 | <a href="https://careers.stryker.com/"><strong>Stryker</strong></a> | Quality Engineering Graduate Program - September 2027 | Not specified | <a href="https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Quality-Engineering-Graduate-Program---September-2027_R574282"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 8d |
 | <a href="https://careers.gehealthcare.com/"><strong>GE HealthCare</strong></a> | Process Engineer 1 | State College | <a href="https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/State-College/Process-Engineer-1_R4045660-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 6d |
@@ -47,6 +48,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 <!-- TABLE_AUTOMOTIVE_START -->
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
+| <a href="https://search-careers.gm.com/"><strong>General Motors</strong></a> | Entry Level Manufacturing Group Leader - Production - Bedford | Bedford, Indiana, United States of America | <a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Bedford-Indiana-United-States-of-America/Entry-Level-Manufacturing-Group-Leader---Production---Bedford_JR-202619522"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 30d |
 | <a href="https://search-careers.gm.com/"><strong>General Motors</strong></a> | Entry Level Manufacturing Group Leader - Tool and Die - Bedford | Bedford, Indiana, United States of America | <a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Bedford-Indiana-United-States-of-America/Entry-Level-Manufacturing-Group-Leader---Tool-and-Die---Bedford_JR-202619646"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 30d |
 <!-- TABLE_AUTOMOTIVE_END -->
 #### Applied
@@ -126,7 +128,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Propulsion Components Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8001348003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 16d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Propulsion Systems Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7993156003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 26d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Structural Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7784244003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 9d |
-| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Thermal Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8008852003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 7d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Thermal Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8008852003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 8d |
 | <a href="https://www.vastspace.com/careers"><strong>Vast</strong></a> | Tooling Engineer I | Long Beach, California, United States | <a href="https://boards.greenhouse.io/vast/jobs/4692866006?gh_jid=4692866006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 77d |
 <!-- TABLE_AEROSPACE_END -->
 #### Applied
