@@ -3,11 +3,11 @@
 Mechanical engineering new-grad and early-career roles outside the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-10-11 04:01 UTC*
+*Last updated: 2026-10-11 10:47 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
-- [Internships](/) - <!-- COUNT_INTERN_USA -->**756**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
+- [Internships](/) - <!-- COUNT_INTERN_USA -->**755**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
 - [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**78**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](/NEW_GRAD_USA.md#medical-devices), [Automotive & EV](/NEW_GRAD_USA.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_USA.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_USA.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_USA.md#robotics--hardware), [Other](/NEW_GRAD_USA.md#other))
 
 ### International Positions
@@ -23,12 +23,12 @@ Mechanical engineering new-grad and early-career roles outside the United States
 <!-- TABLE_MEDICAL_START -->
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
-| <a href="https://www.medtronic.com/en-us/our-company/careers.html"><strong>Medtronic</strong></a> | Quality Engineer 1 - Sterilization Validation | Galway, County Galway, Ireland | <a href="https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Galway-County-Galway-Ireland/Quality-Engineer-1---Sterilization-Validation_R78273-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 5d |
-| <a href="https://www.medtronic.com/en-us/our-company/careers.html"><strong>Medtronic</strong></a> | Quality Engineer I | Galway, County Galway, Ireland | <a href="https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Galway-County-Galway-Ireland/Quality-Engineer-I_R77077-2"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 8d |
-| <a href="https://www.medtronic.com/en-us/our-company/careers.html"><strong>Medtronic</strong></a> | R&D Engineer I | Geleen, Limburg, Netherlands | <a href="https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Geleen-Limburg-Netherlands/R-D-Engineer-I_R77874-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 9d |
-| <a href="https://careers.stryker.com/"><strong>Stryker</strong></a> | GQO Manufacturing Operations Graduate Program - September 2027 | Cork, Ireland | <a href="https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/GQO-Manufacturing-Operations-Graduate-Program---September-2027_R574279"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 17d |
-| <a href="https://careers.stryker.com/"><strong>Stryker</strong></a> | R&D Biomedical/Mechanical Engineering Graduate Program - September 2027 | Cork, Ireland | <a href="https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/R-D-Biomedical-Mechanical-Engineering-Graduate-Program---September-2027_R573066"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 17d |
-| <a href="https://www.edwards.com/careers"><strong>Edwards Lifesciences</strong></a> | Engineer I, Manufacturing | Singapore | <a href="https://edwards.wd5.myworkdayjobs.com/en-US/EdwardsCareers/job/Singapore/Engineer-II--Manufacturing_Req-49504"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 4d |
+| <a href="https://www.medtronic.com/en-us/our-company/careers.html"><strong>Medtronic</strong></a> | Quality Engineer 1 - Sterilization Validation | Galway, County Galway, Ireland | <a href="https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Galway-County-Galway-Ireland/Quality-Engineer-1---Sterilization-Validation_R78273-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 6d |
+| <a href="https://www.medtronic.com/en-us/our-company/careers.html"><strong>Medtronic</strong></a> | Quality Engineer I | Galway, County Galway, Ireland | <a href="https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Galway-County-Galway-Ireland/Quality-Engineer-I_R77077-2"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 9d |
+| <a href="https://www.medtronic.com/en-us/our-company/careers.html"><strong>Medtronic</strong></a> | R&D Engineer I | Geleen, Limburg, Netherlands | <a href="https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Geleen-Limburg-Netherlands/R-D-Engineer-I_R77874-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 10d |
+| <a href="https://careers.stryker.com/"><strong>Stryker</strong></a> | GQO Manufacturing Operations Graduate Program - September 2027 | Cork, Ireland | <a href="https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/GQO-Manufacturing-Operations-Graduate-Program---September-2027_R574279"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 18d |
+| <a href="https://careers.stryker.com/"><strong>Stryker</strong></a> | R&D Biomedical/Mechanical Engineering Graduate Program - September 2027 | Cork, Ireland | <a href="https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/R-D-Biomedical-Mechanical-Engineering-Graduate-Program---September-2027_R573066"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 18d |
+| <a href="https://www.edwards.com/careers"><strong>Edwards Lifesciences</strong></a> | Engineer I, Manufacturing | Singapore | <a href="https://edwards.wd5.myworkdayjobs.com/en-US/EdwardsCareers/job/Singapore/Engineer-II--Manufacturing_Req-49504"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 5d |
 | <a href="https://www.illumina.com/company/careers.html"><strong>Illumina</strong></a> | Equipment Engineer 1 | Singapore - Woodlands - NorthCoast | <a href="https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/Singapore---Woodlands---NorthCoast/Equipment-Engineer-1_43176-JOB-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 30d |
 | <a href="https://www.illumina.com/company/careers.html"><strong>Illumina</strong></a> | Manufacturing Equipment Engineer 1 | Singapore - Woodlands - NorthTech | <a href="https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/Singapore---Woodlands---NorthTech/Manufacturing-Equipment-Engineer-1_43371-JOB"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 30d |
 <!-- TABLE_MEDICAL_END -->
@@ -45,7 +45,7 @@ Mechanical engineering new-grad and early-career roles outside the United States
 <!-- TABLE_AUTOMOTIVE_START -->
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
-| <a href="https://search-careers.gm.com/"><strong>General Motors</strong></a> | Early Career Software Test Developer - Propulsion Thermal Management | Markham, Ontario, Canada | <a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Test-Developer---Propulsion-Thermal-Management_JR-202621250"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 3d |
+| <a href="https://search-careers.gm.com/"><strong>General Motors</strong></a> | Early Career Software Test Developer - Propulsion Thermal Management | Markham, Ontario, Canada | <a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Test-Developer---Propulsion-Thermal-Management_JR-202621250"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 4d |
 <!-- TABLE_AUTOMOTIVE_END -->
 #### Applied
 
@@ -77,7 +77,7 @@ Mechanical engineering new-grad and early-career roles outside the United States
 <!-- TABLE_ENERGY_START -->
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
-| <a href="https://www.appliedmaterials.com/us/en/careers.html"><strong>Applied Materials</strong></a> | Manufacturing Engineer (Entry-level) | Singapore,SGP | <a href="https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/Manufacturing-Engineer--Entry-level-_R2517264-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 9d |
+| <a href="https://www.appliedmaterials.com/us/en/careers.html"><strong>Applied Materials</strong></a> | Manufacturing Engineer (Entry-level) | Singapore,SGP | <a href="https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/Manufacturing-Engineer--Entry-level-_R2517264-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 10d |
 <!-- TABLE_ENERGY_END -->
 #### Applied
 
