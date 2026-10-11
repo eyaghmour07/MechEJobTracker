@@ -3,7 +3,7 @@
 Mechanical engineering internships outside the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-10-11 10:47 UTC*
+*Last updated: 2026-10-11 16:35 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -12,7 +12,7 @@ Mechanical engineering internships outside the United States. Listings refresh h
 
 ### International Positions
 - [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**198**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
-- [New Graduate](/NEW_GRAD_INTL.md) - <!-- COUNT_NEWGRAD_INTL -->**13**<!-- COUNT_NEWGRAD_INTL_END --> available · <!-- COUNT_APPLIED_NEWGRAD_INTL -->**0**<!-- COUNT_APPLIED_NEWGRAD_INTL_END --> applied ([Medical Devices](/NEW_GRAD_INTL.md#medical-devices), [Automotive & EV](/NEW_GRAD_INTL.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_INTL.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_INTL.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_INTL.md#robotics--hardware), [Other](/NEW_GRAD_INTL.md#other))
+- [New Graduate](/NEW_GRAD_INTL.md) - <!-- COUNT_NEWGRAD_INTL -->**15**<!-- COUNT_NEWGRAD_INTL_END --> available · <!-- COUNT_APPLIED_NEWGRAD_INTL -->**0**<!-- COUNT_APPLIED_NEWGRAD_INTL_END --> applied ([Medical Devices](/NEW_GRAD_INTL.md#medical-devices), [Automotive & EV](/NEW_GRAD_INTL.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_INTL.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_INTL.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_INTL.md#robotics--hardware), [Other](/NEW_GRAD_INTL.md#other))
 
 ## 2027 International ME Internships
 
@@ -132,7 +132,7 @@ Mechanical engineering internships outside the United States. Listings refresh h
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Thermal Intern (Winter 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704818006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 16d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Facilities Maintenance Manufacturing Engineering Intern | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821146003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 39d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Ground Systems Engineering Intern | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821140003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 69d |
-| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineering Intern Summer 2027 | Toronto, CAN | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7991769003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 29d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineering Intern Summer 2027 | Toronto, CAN | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7991769003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 30d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Neutron Mechanical Development Intern | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821193003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 69d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Supplier Quality Engineer Intern | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7819101003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 69d |
 <!-- TABLE_AEROSPACE_END -->
