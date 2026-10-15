@@ -3,11 +3,11 @@
 Mechanical engineering new-grad and early-career roles in the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-10-14 23:43 UTC*
+*Last updated: 2026-10-15 03:14 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
-- [Internships](/) - <!-- COUNT_INTERN_USA -->**842**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
+- [Internships](/) - <!-- COUNT_INTERN_USA -->**843**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
 - [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**79**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
 
 ### International Positions
@@ -119,7 +119,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Integration & Test Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8015847003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 0d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Development & Test Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7985641003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 33d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7814616003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 83d |
-| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Mechanical Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7836127003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 65d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Mechanical Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7814138003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 83d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Propulsion Components Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8001348003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 23d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Propulsion Systems Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7993156003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 33d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Structural Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7784244003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 16d |
