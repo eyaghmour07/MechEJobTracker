@@ -3,12 +3,12 @@
 Mechanical engineering new-grad and early-career roles in the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-10-16 10:44 UTC*
+*Last updated: 2026-10-16 15:15 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
 - [Internships](/) - <!-- COUNT_INTERN_USA -->**821**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
-- [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**77**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
+- [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**79**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
 
 ### International Positions
 - [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**197**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](/INTERN_INTL.md#medical-devices), [Automotive & EV](/INTERN_INTL.md#automotive--ev), [Aerospace & Defense](/INTERN_INTL.md#aerospace--defense), [Energy & Industrial](/INTERN_INTL.md#energy--industrial), [Robotics & Hardware](/INTERN_INTL.md#robotics--hardware), [Other](/INTERN_INTL.md#other))
@@ -30,6 +30,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | <a href="https://jobs.baxter.com/"><strong>Baxter</strong></a> | Controls Engineer I | Marion, North Carolina | <a href="https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Marion-North-Carolina/Controls-Engineer-I_JR-210746-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 14d |
 | <a href="https://jobs.baxter.com/"><strong>Baxter</strong></a> | Controls Engineer I (Nights) | Marion, North Carolina | <a href="https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Marion-North-Carolina/Controls-Engineer-I--Nights-_JR-210157-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 14d |
 | <a href="https://jobs.bd.com/"><strong>BD</strong></a> | Quality Engineer I | USA UT - Salt Lake City BAS | <a href="https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Salt-Lake-City-BAS/Quality-Engineer-I_R-553793-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 15d |
+| <a href="https://www.careers.philips.com/"><strong>Philips</strong></a> | Quality Engineer 1 | Colorado Springs, Colorado, United States | <a href="https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Colorado-Springs-Colorado-United-States/Process-Quality-Engineer_589515"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 0d |
 <!-- TABLE_MEDICAL_END -->
 #### Applied
 
@@ -113,6 +114,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Manufacturing Engineer I, Structures | Long Beach, California, United States | <a href="https://boards.greenhouse.io/relativity/jobs/8860290002?gh_jid=8860290002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 14d |
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Manufacturing Engineer I, Turbomachinery | Long Beach, California, United States | <a href="https://boards.greenhouse.io/relativity/jobs/8892844002?gh_jid=8892844002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 0d |
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Vehicle Structures Engineer I - 2026 Graduate | Long Beach, California, United States | <a href="https://boards.greenhouse.io/relativity/jobs/8600166002?gh_jid=8600166002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 119d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Avionics Test Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8007235003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 17d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Integration & Test Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8015847003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 1d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Development & Test Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7985641003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 34d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Mechanical Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7836127003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 66d |
@@ -138,7 +140,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 <!-- TABLE_ENERGY_START -->
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
-| <a href="https://formenergy.com/careers"><strong>Form Energy</strong></a> | Mechanical Engineer I, R&D | Somerville, MA | <a href="https://jobs.ashbyhq.com/formenergy/79ca409a-8a10-425a-bace-325a01d6bc02"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 0d |
+| <a href="https://formenergy.com/careers"><strong>Form Energy</strong></a> | Mechanical Engineer I, R&D | Somerville, MA | <a href="https://jobs.ashbyhq.com/formenergy/79ca409a-8a10-425a-bace-325a01d6bc02"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 1d |
 | <a href="https://www.appliedmaterials.com/us/en/careers.html"><strong>Applied Materials</strong></a> | 2027 Engineer Development Rotation Program - Mechanical Engineer I New College Grad - BS or MS (Gloucester, MA) | Gloucester,MA | <a href="https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Engineer-Development-Rotation-Program---Mechanical-Engineer-I-New-College-Grad---BS-or-MS--Gloucester--MA-_R2625756-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 30d |
 | <a href="https://www.appliedmaterials.com/us/en/careers.html"><strong>Applied Materials</strong></a> | Manufacturing Engineer I, New College Grad- Bachelor's (Austin, TX) | Austin,TX | <a href="https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Manufacturing-Engineer-I--New-College-Grad--Bachelor-s--Austin--TX-_R2628090"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 30d |
 <!-- TABLE_ENERGY_END -->
