@@ -3,7 +3,7 @@
 Mechanical engineering new-grad and early-career roles in the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-10-17 11:24 UTC*
+*Last updated: 2026-10-17 14:59 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -142,7 +142,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 <!-- TABLE_ENERGY_START -->
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
-| <a href="https://formenergy.com/careers"><strong>Form Energy</strong></a> | Mechanical Engineer I, R&D | Somerville, MA | <a href="https://jobs.ashbyhq.com/formenergy/79ca409a-8a10-425a-bace-325a01d6bc02"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 1d |
+| <a href="https://formenergy.com/careers"><strong>Form Energy</strong></a> | Mechanical Engineer I, R&D | Somerville, MA | <a href="https://jobs.ashbyhq.com/formenergy/79ca409a-8a10-425a-bace-325a01d6bc02"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 2d |
 | <a href="https://www.appliedmaterials.com/us/en/careers.html"><strong>Applied Materials</strong></a> | 2027 Engineer Development Rotation Program - Mechanical Engineer I New College Grad - BS or MS (Gloucester, MA) | Gloucester,MA | <a href="https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Engineer-Development-Rotation-Program---Mechanical-Engineer-I-New-College-Grad---BS-or-MS--Gloucester--MA-_R2625756-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 30d |
 <!-- TABLE_ENERGY_END -->
 #### Applied
