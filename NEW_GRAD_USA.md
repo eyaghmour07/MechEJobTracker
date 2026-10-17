@@ -3,7 +3,7 @@
 Mechanical engineering new-grad and early-career roles in the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-10-16 22:34 UTC*
+*Last updated: 2026-10-17 01:05 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -123,7 +123,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Propulsion Components Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8001348003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 25d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Propulsion Systems Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7993156003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 35d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Structural Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7784244003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 18d |
-| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Thermal Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8008852003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 16d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Thermal Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8008852003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 17d |
 | <a href="https://www.vastspace.com/careers"><strong>Vast</strong></a> | Mechanical Engineering, Avionics (New Grad) | Long Beach, California, United States | <a href="https://boards.greenhouse.io/vast/jobs/4718300006?gh_jid=4718300006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 4d |
 | <a href="https://www.vastspace.com/careers"><strong>Vast</strong></a> | Mechanical Engineering, Structures (New Grad) | Long Beach, California, United States | <a href="https://boards.greenhouse.io/vast/jobs/4718301006?gh_jid=4718301006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 4d |
 | <a href="https://www.vastspace.com/careers"><strong>Vast</strong></a> | Mechanical Engineering, Thermal Control Systems (New Grad) | Long Beach, California, United States | <a href="https://boards.greenhouse.io/vast/jobs/4718302006?gh_jid=4718302006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 4d |
