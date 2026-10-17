@@ -3,11 +3,11 @@
 Mechanical engineering internships outside the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-10-17 17:50 UTC*
+*Last updated: 2026-10-17 20:09 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
-- [Internships](/) - <!-- COUNT_INTERN_USA -->**822**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
+- [Internships](/) - <!-- COUNT_INTERN_USA -->**823**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
 - [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**80**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](/NEW_GRAD_USA.md#medical-devices), [Automotive & EV](/NEW_GRAD_USA.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_USA.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_USA.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_USA.md#robotics--hardware), [Other](/NEW_GRAD_USA.md#other))
 
 ### International Positions
@@ -120,8 +120,8 @@ Mechanical engineering internships outside the United States. Listings refresh h
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Engineer Intern (Winter 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704600006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 63d |
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Production Quality Intern (Summer 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4705675006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 28d |
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Production Quality Intern (Winter 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4705677006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 28d |
-| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Propulsion Engineer Intern (Summer 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4713184006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 23d |
-| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Propulsion Engineer Intern (Winter 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4713183006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 23d |
+| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Propulsion Engineer Intern (Summer 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4713184006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 24d |
+| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Propulsion Engineer Intern (Winter 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4713183006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 24d |
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Propulsion Test Intern (Summer 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4705640006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 24d |
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Radiation Effects Engineer Intern (Winter 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704335006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 16d |
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | RF Hardware Intern (Summer 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4708436006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 16d |
