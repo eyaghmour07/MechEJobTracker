@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-18 05:27 UTC",
+  "updated_at": "2026-10-18 10:26 UTC",
   "jobs": [
+    {
+      "company": "Baxter",
+      "title": "Controls Engineer I (Nights)",
+      "location": "Marion, North Carolina",
+      "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Marion-North-Carolina/Controls-Engineer-I--Nights-_JR-210157-1",
+      "careers_url": "https://jobs.baxter.com/",
+      "category": "medical",
+      "level": "newgrad",
+      "geo": "usa",
+      "age": 16,
+      "priority": 8
+    },
+    {
+      "company": "Baxter",
+      "title": "Controls Engineer I",
+      "location": "Marion, North Carolina",
+      "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Marion-North-Carolina/Controls-Engineer-I_JR-210746-1",
+      "careers_url": "https://jobs.baxter.com/",
+      "category": "medical",
+      "level": "newgrad",
+      "geo": "usa",
+      "age": 16,
+      "priority": 8
+    },
     {
       "company": "Edwards Lifesciences",
       "title": "Engineering Internship, Summer 2027",
@@ -26,30 +50,6 @@
       "priority": 11
     },
     {
-      "company": "Baxter",
-      "title": "Controls Engineer I (Nights)",
-      "location": "Marion, North Carolina",
-      "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Marion-North-Carolina/Controls-Engineer-I--Nights-_JR-210157-1",
-      "careers_url": "https://jobs.baxter.com/",
-      "category": "medical",
-      "level": "newgrad",
-      "geo": "usa",
-      "age": 15,
-      "priority": 8
-    },
-    {
-      "company": "Baxter",
-      "title": "Controls Engineer I",
-      "location": "Marion, North Carolina",
-      "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Marion-North-Carolina/Controls-Engineer-I_JR-210746-1",
-      "careers_url": "https://jobs.baxter.com/",
-      "category": "medical",
-      "level": "newgrad",
-      "geo": "usa",
-      "age": 15,
-      "priority": 8
-    },
-    {
       "company": "GE HealthCare",
       "title": "Engineering Co-op/Intern - Spring 2026",
       "location": "Florence SC USA",
@@ -58,7 +58,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "usa",
-      "age": 2,
+      "age": 3,
       "priority": 6
     },
     {
@@ -70,7 +70,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "usa",
-      "age": 24,
+      "age": 25,
       "priority": 6
     },
     {
@@ -142,7 +142,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "intl",
-      "age": 0,
+      "age": 2,
       "priority": 7
     },
     {
@@ -154,7 +154,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "intl",
-      "age": 24,
+      "age": 25,
       "priority": 7
     },
     {
@@ -166,7 +166,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "intl",
-      "age": 26,
+      "age": 27,
       "priority": 7
     },
     {
@@ -178,7 +178,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "intl",
-      "age": 29,
+      "age": 30,
       "priority": 7
     },
     {
@@ -226,7 +226,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "intl",
-      "age": 15,
+      "age": 16,
       "priority": 7
     },
     {
@@ -238,7 +238,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "intl",
-      "age": 25,
+      "age": 26,
       "priority": 7
     },
     {
@@ -250,7 +250,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "intl",
-      "age": 29,
+      "age": 30,
       "priority": 7
     },
     {
@@ -298,7 +298,7 @@
       "category": "medical",
       "level": "newgrad",
       "geo": "usa",
-      "age": 2,
+      "age": 3,
       "priority": 7
     },
     {
@@ -335,6 +335,30 @@
       "level": "newgrad",
       "geo": "intl",
       "age": 30,
+      "priority": 50
+    },
+    {
+      "company": "AtriCure",
+      "title": "Engineering Intern",
+      "location": "Pleasanton, CA",
+      "url": "https://job-boards.greenhouse.io/atricure/jobs/4339615009",
+      "careers_url": "https://www.atricure.com/careers",
+      "category": "medical",
+      "level": "intern",
+      "geo": "usa",
+      "age": 79,
+      "priority": 50
+    },
+    {
+      "company": "AtriCure",
+      "title": "Engineering Services Co-op",
+      "location": "Mason, OH",
+      "url": "https://job-boards.greenhouse.io/atricure/jobs/4404783009",
+      "careers_url": "https://www.atricure.com/careers",
+      "category": "medical",
+      "level": "coop",
+      "geo": "usa",
+      "age": 33,
       "priority": 50
     },
     {
@@ -382,7 +406,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "intl",
-      "age": 0,
+      "age": 2,
       "priority": 2
     },
     {
@@ -394,7 +418,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "usa",
-      "age": 12,
+      "age": 13,
       "priority": 2
     },
     {
@@ -406,7 +430,7 @@
       "category": "medical",
       "level": "newgrad",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 2
     },
     {
@@ -418,7 +442,7 @@
       "category": "medical",
       "level": "newgrad",
       "geo": "usa",
-      "age": 18,
+      "age": 19,
       "priority": 2
     },
     {
@@ -430,7 +454,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "intl",
-      "age": 0,
+      "age": 2,
       "priority": 2
     },
     {
@@ -494,30 +518,6 @@
       "priority": 2
     },
     {
-      "company": "AtriCure",
-      "title": "Engineering Intern",
-      "location": "Pleasanton, CA",
-      "url": "https://job-boards.greenhouse.io/atricure/jobs/4339615009",
-      "careers_url": "https://www.atricure.com/careers",
-      "category": "medical",
-      "level": "intern",
-      "geo": "usa",
-      "age": 79,
-      "priority": 50
-    },
-    {
-      "company": "AtriCure",
-      "title": "Engineering Services Co-op",
-      "location": "Mason, OH",
-      "url": "https://job-boards.greenhouse.io/atricure/jobs/4404783009",
-      "careers_url": "https://www.atricure.com/careers",
-      "category": "medical",
-      "level": "coop",
-      "geo": "usa",
-      "age": 33,
-      "priority": 50
-    },
-    {
       "company": "Zoox",
       "title": "Contract Student Worker - Digital Engineer",
       "location": "Foster City, CA",
@@ -551,114 +551,6 @@
       "level": "intern",
       "geo": "usa",
       "age": 4,
-      "priority": 50
-    },
-    {
-      "company": "Waymo",
-      "title": "2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern",
-      "location": "Mountain View, CA, USA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8248060",
-      "careers_url": "https://waymo.com/careers/",
-      "category": "automotive",
-      "level": "intern",
-      "geo": "usa",
-      "age": 16,
-      "priority": 50
-    },
-    {
-      "company": "Waymo",
-      "title": "2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics",
-      "location": "Mountain View, CA, USA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8231711",
-      "careers_url": "https://waymo.com/careers/",
-      "category": "automotive",
-      "level": "intern",
-      "geo": "usa",
-      "age": 22,
-      "priority": 50
-    },
-    {
-      "company": "Waymo",
-      "title": "2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
-      "location": "San Francisco, California",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
-      "careers_url": "https://waymo.com/careers/",
-      "category": "automotive",
-      "level": "intern",
-      "geo": "usa",
-      "age": 19,
-      "priority": 50
-    },
-    {
-      "company": "BD",
-      "title": "Engineering Intern",
-      "location": "USA UT - Sandy",
-      "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Engineering-Intern_R-553921-1",
-      "careers_url": "https://jobs.bd.com/",
-      "category": "medical",
-      "level": "intern",
-      "geo": "usa",
-      "age": 9,
-      "priority": 9
-    },
-    {
-      "company": "BD",
-      "title": "Quality Engineer I",
-      "location": "USA UT - Salt Lake City BAS",
-      "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Salt-Lake-City-BAS/Quality-Engineer-I_R-553793-1",
-      "careers_url": "https://jobs.bd.com/",
-      "category": "medical",
-      "level": "newgrad",
-      "geo": "usa",
-      "age": 16,
-      "priority": 9
-    },
-    {
-      "company": "ResMed",
-      "title": "Intern - Product Development",
-      "location": "Dublin, Ireland",
-      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Dublin-Ireland/Intern---Product-Development_JR_054458",
-      "careers_url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers",
-      "category": "medical",
-      "level": "intern",
-      "geo": "intl",
-      "age": 11,
-      "priority": 50
-    },
-    {
-      "company": "ResMed",
-      "title": "Student Electronics Engineer",
-      "location": "Sydney, NSW, Australia",
-      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Student-Electronics-Engineer_JR_054282-1",
-      "careers_url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers",
-      "category": "medical",
-      "level": "intern",
-      "geo": "intl",
-      "age": 10,
-      "priority": 50
-    },
-    {
-      "company": "ResMed",
-      "title": "Student Mechanical Engineer",
-      "location": "Sydney, NSW, Australia",
-      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Student-Mechanical-Engineer_JR_054381",
-      "careers_url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers",
-      "category": "medical",
-      "level": "intern",
-      "geo": "intl",
-      "age": 3,
-      "priority": 50
-    },
-    {
-      "company": "ResMed",
-      "title": "Student V&V Engineer",
-      "location": "Sydney, NSW, Australia",
-      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Student-V-V-Engineer_JR_054412-1",
-      "careers_url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers",
-      "category": "medical",
-      "level": "intern",
-      "geo": "intl",
-      "age": 10,
       "priority": 50
     },
     {
@@ -838,7 +730,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 25,
+      "age": 26,
       "priority": 3
     },
     {
@@ -970,7 +862,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 19,
+      "age": 20,
       "priority": 3
     },
     {
@@ -982,7 +874,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 19,
+      "age": 20,
       "priority": 3
     },
     {
@@ -1090,7 +982,7 @@
       "category": "medical",
       "level": "newgrad",
       "geo": "intl",
-      "age": 24,
+      "age": 25,
       "priority": 3
     },
     {
@@ -1102,7 +994,7 @@
       "category": "medical",
       "level": "newgrad",
       "geo": "intl",
-      "age": 24,
+      "age": 25,
       "priority": 3
     },
     {
@@ -1114,7 +1006,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "intl",
-      "age": 12,
+      "age": 13,
       "priority": 3
     },
     {
@@ -1150,7 +1042,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "intl",
-      "age": 18,
+      "age": 19,
       "priority": 3
     },
     {
@@ -1162,7 +1054,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "intl",
-      "age": 18,
+      "age": 19,
       "priority": 3
     },
     {
@@ -1174,8 +1066,92 @@
       "category": "medical",
       "level": "newgrad",
       "geo": "usa",
-      "age": 18,
+      "age": 19,
       "priority": 3
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern",
+      "location": "Mountain View, CA, USA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8248060",
+      "careers_url": "https://waymo.com/careers/",
+      "category": "automotive",
+      "level": "intern",
+      "geo": "usa",
+      "age": 16,
+      "priority": 50
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics",
+      "location": "Mountain View, CA, USA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8231711",
+      "careers_url": "https://waymo.com/careers/",
+      "category": "automotive",
+      "level": "intern",
+      "geo": "usa",
+      "age": 22,
+      "priority": 50
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
+      "location": "San Francisco, California",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
+      "careers_url": "https://waymo.com/careers/",
+      "category": "automotive",
+      "level": "intern",
+      "geo": "usa",
+      "age": 19,
+      "priority": 50
+    },
+    {
+      "company": "ResMed",
+      "title": "Intern - Product Development",
+      "location": "Dublin, Ireland",
+      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Dublin-Ireland/Intern---Product-Development_JR_054458",
+      "careers_url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers",
+      "category": "medical",
+      "level": "intern",
+      "geo": "intl",
+      "age": 12,
+      "priority": 50
+    },
+    {
+      "company": "ResMed",
+      "title": "Student Electronics Engineer",
+      "location": "Sydney, NSW, Australia",
+      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Student-Electronics-Engineer_JR_054282-1",
+      "careers_url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers",
+      "category": "medical",
+      "level": "intern",
+      "geo": "intl",
+      "age": 11,
+      "priority": 50
+    },
+    {
+      "company": "ResMed",
+      "title": "Student Mechanical Engineer",
+      "location": "Sydney, NSW, Australia",
+      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Student-Mechanical-Engineer_JR_054381",
+      "careers_url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers",
+      "category": "medical",
+      "level": "intern",
+      "geo": "intl",
+      "age": 4,
+      "priority": 50
+    },
+    {
+      "company": "ResMed",
+      "title": "Student V&V Engineer",
+      "location": "Sydney, NSW, Australia",
+      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Sydney-NSW-Australia/Student-V-V-Engineer_JR_054412-1",
+      "careers_url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers",
+      "category": "medical",
+      "level": "intern",
+      "geo": "intl",
+      "age": 11,
+      "priority": 50
     },
     {
       "company": "SpaceX",
@@ -1486,7 +1462,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1498,7 +1474,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1510,7 +1486,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1522,7 +1498,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1534,7 +1510,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1546,7 +1522,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1558,7 +1534,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1570,7 +1546,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1582,7 +1558,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1594,7 +1570,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1606,7 +1582,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1618,7 +1594,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1630,7 +1606,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1642,7 +1618,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1654,7 +1630,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1666,7 +1642,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1678,7 +1654,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1690,7 +1666,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1702,7 +1678,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1714,7 +1690,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1726,7 +1702,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 1
     },
     {
@@ -1918,7 +1894,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "intl",
-      "age": 2,
+      "age": 3,
       "priority": 1
     },
     {
@@ -1942,7 +1918,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "intl",
-      "age": 22,
+      "age": 23,
       "priority": 1
     },
     {
@@ -1954,7 +1930,7 @@
       "category": "medical",
       "level": "newgrad",
       "geo": "intl",
-      "age": 16,
+      "age": 17,
       "priority": 1
     },
     {
@@ -2698,139 +2674,7 @@
       "category": "aerospace",
       "level": "newgrad",
       "geo": "usa",
-      "age": 87,
-      "priority": 50
-    },
-    {
-      "company": "Varda",
-      "title": "Aerodynamics & Analysis Engineering Internship - Summer 2027",
-      "location": "El Segundo, California, United States",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010632003",
-      "careers_url": "https://www.varda.com/careers",
-      "category": "aerospace",
-      "level": "intern",
-      "geo": "usa",
-      "age": 16,
-      "priority": 50
-    },
-    {
-      "company": "Varda",
-      "title": "Manufacturing Engineering Internship - Spring 2027",
-      "location": "El Segundo, California, United States",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824767003",
-      "careers_url": "https://www.varda.com/careers",
-      "category": "aerospace",
-      "level": "intern",
-      "geo": "usa",
-      "age": 71,
-      "priority": 50
-    },
-    {
-      "company": "Varda",
-      "title": "Manufacturing Engineering Internship - Summer 2027",
-      "location": "El Segundo, California, United States",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010166003",
-      "careers_url": "https://www.varda.com/careers",
-      "category": "aerospace",
-      "level": "intern",
-      "geo": "usa",
-      "age": 16,
-      "priority": 50
-    },
-    {
-      "company": "Varda",
-      "title": "Propulsion Engineering Internship - Spring 2027",
-      "location": "El Segundo, California, United States",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824765003",
-      "careers_url": "https://www.varda.com/careers",
-      "category": "aerospace",
-      "level": "intern",
-      "geo": "usa",
-      "age": 71,
-      "priority": 50
-    },
-    {
-      "company": "Varda",
-      "title": "Propulsion Engineering Internship - Summer 2027",
-      "location": "El Segundo, California, United States",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010169003",
-      "careers_url": "https://www.varda.com/careers",
-      "category": "aerospace",
-      "level": "intern",
-      "geo": "usa",
-      "age": 16,
-      "priority": 50
-    },
-    {
-      "company": "Varda",
-      "title": "Site Reliability Internship - Spring 2027",
-      "location": "El Segundo, California, United States",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824814003",
-      "careers_url": "https://www.varda.com/careers",
-      "category": "aerospace",
-      "level": "intern",
-      "geo": "usa",
-      "age": 71,
-      "priority": 50
-    },
-    {
-      "company": "Varda",
-      "title": "Structures Engineering Internship - Spring 2027",
-      "location": "El Segundo, California, United States",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824817003",
-      "careers_url": "https://www.varda.com/careers",
-      "category": "aerospace",
-      "level": "intern",
-      "geo": "usa",
-      "age": 71,
-      "priority": 50
-    },
-    {
-      "company": "Varda",
-      "title": "Structures Engineering Internship - Summer 2027",
-      "location": "El Segundo, California, United States",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010167003",
-      "careers_url": "https://www.varda.com/careers",
-      "category": "aerospace",
-      "level": "intern",
-      "geo": "usa",
-      "age": 16,
-      "priority": 50
-    },
-    {
-      "company": "Varda",
-      "title": "Thermal Engineering Internship - Summer 2027",
-      "location": "El Segundo, California, United States",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010172003",
-      "careers_url": "https://www.varda.com/careers",
-      "category": "aerospace",
-      "level": "intern",
-      "geo": "usa",
-      "age": 16,
-      "priority": 50
-    },
-    {
-      "company": "Varda",
-      "title": "Vehicle Integration & Test Internship - Spring 2027",
-      "location": "El Segundo, California, United States",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824772003",
-      "careers_url": "https://www.varda.com/careers",
-      "category": "aerospace",
-      "level": "intern",
-      "geo": "usa",
-      "age": 71,
-      "priority": 50
-    },
-    {
-      "company": "Varda",
-      "title": "Vehicle Integration & Test Internship - Summer 2027",
-      "location": "El Segundo, California, United States",
-      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010170003",
-      "careers_url": "https://www.varda.com/careers",
-      "category": "aerospace",
-      "level": "intern",
-      "geo": "usa",
-      "age": 16,
+      "age": 88,
       "priority": 50
     },
     {
@@ -3242,6 +3086,138 @@
       "priority": 50
     },
     {
+      "company": "Varda",
+      "title": "Aerodynamics & Analysis Engineering Internship - Summer 2027",
+      "location": "El Segundo, California, United States",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010632003",
+      "careers_url": "https://www.varda.com/careers",
+      "category": "aerospace",
+      "level": "intern",
+      "geo": "usa",
+      "age": 16,
+      "priority": 50
+    },
+    {
+      "company": "Varda",
+      "title": "Manufacturing Engineering Internship - Spring 2027",
+      "location": "El Segundo, California, United States",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824767003",
+      "careers_url": "https://www.varda.com/careers",
+      "category": "aerospace",
+      "level": "intern",
+      "geo": "usa",
+      "age": 71,
+      "priority": 50
+    },
+    {
+      "company": "Varda",
+      "title": "Manufacturing Engineering Internship - Summer 2027",
+      "location": "El Segundo, California, United States",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010166003",
+      "careers_url": "https://www.varda.com/careers",
+      "category": "aerospace",
+      "level": "intern",
+      "geo": "usa",
+      "age": 17,
+      "priority": 50
+    },
+    {
+      "company": "Varda",
+      "title": "Propulsion Engineering Internship - Spring 2027",
+      "location": "El Segundo, California, United States",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824765003",
+      "careers_url": "https://www.varda.com/careers",
+      "category": "aerospace",
+      "level": "intern",
+      "geo": "usa",
+      "age": 71,
+      "priority": 50
+    },
+    {
+      "company": "Varda",
+      "title": "Propulsion Engineering Internship - Summer 2027",
+      "location": "El Segundo, California, United States",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010169003",
+      "careers_url": "https://www.varda.com/careers",
+      "category": "aerospace",
+      "level": "intern",
+      "geo": "usa",
+      "age": 17,
+      "priority": 50
+    },
+    {
+      "company": "Varda",
+      "title": "Site Reliability Internship - Spring 2027",
+      "location": "El Segundo, California, United States",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824814003",
+      "careers_url": "https://www.varda.com/careers",
+      "category": "aerospace",
+      "level": "intern",
+      "geo": "usa",
+      "age": 71,
+      "priority": 50
+    },
+    {
+      "company": "Varda",
+      "title": "Structures Engineering Internship - Spring 2027",
+      "location": "El Segundo, California, United States",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824817003",
+      "careers_url": "https://www.varda.com/careers",
+      "category": "aerospace",
+      "level": "intern",
+      "geo": "usa",
+      "age": 71,
+      "priority": 50
+    },
+    {
+      "company": "Varda",
+      "title": "Structures Engineering Internship - Summer 2027",
+      "location": "El Segundo, California, United States",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010167003",
+      "careers_url": "https://www.varda.com/careers",
+      "category": "aerospace",
+      "level": "intern",
+      "geo": "usa",
+      "age": 17,
+      "priority": 50
+    },
+    {
+      "company": "Varda",
+      "title": "Thermal Engineering Internship - Summer 2027",
+      "location": "El Segundo, California, United States",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010172003",
+      "careers_url": "https://www.varda.com/careers",
+      "category": "aerospace",
+      "level": "intern",
+      "geo": "usa",
+      "age": 17,
+      "priority": 50
+    },
+    {
+      "company": "Varda",
+      "title": "Vehicle Integration & Test Internship - Spring 2027",
+      "location": "El Segundo, California, United States",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824772003",
+      "careers_url": "https://www.varda.com/careers",
+      "category": "aerospace",
+      "level": "intern",
+      "geo": "usa",
+      "age": 71,
+      "priority": 50
+    },
+    {
+      "company": "Varda",
+      "title": "Vehicle Integration & Test Internship - Summer 2027",
+      "location": "El Segundo, California, United States",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010170003",
+      "careers_url": "https://www.varda.com/careers",
+      "category": "aerospace",
+      "level": "intern",
+      "geo": "usa",
+      "age": 17,
+      "priority": 50
+    },
+    {
       "company": "Johnson & Johnson",
       "title": "Spring 2027 Hip/Knee R&D Co-op",
       "location": "Warsaw, Indiana, United States of America",
@@ -3250,7 +3226,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "usa",
-      "age": 2,
+      "age": 3,
       "priority": 0
     },
     {
@@ -3262,7 +3238,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "usa",
-      "age": 2,
+      "age": 3,
       "priority": 0
     },
     {
@@ -3274,7 +3250,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 2,
+      "age": 3,
       "priority": 0
     },
     {
@@ -3286,7 +3262,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 2,
+      "age": 3,
       "priority": 0
     },
     {
@@ -3298,7 +3274,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "usa",
-      "age": 2,
+      "age": 3,
       "priority": 0
     },
     {
@@ -3310,7 +3286,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 0
     },
     {
@@ -3322,7 +3298,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "usa",
-      "age": 11,
+      "age": 12,
       "priority": 0
     },
     {
@@ -3334,7 +3310,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "intl",
-      "age": 23,
+      "age": 24,
       "priority": 0
     },
     {
@@ -3346,7 +3322,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "usa",
-      "age": 24,
+      "age": 25,
       "priority": 0
     },
     {
@@ -3358,7 +3334,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 8,
+      "age": 9,
       "priority": 0
     },
     {
@@ -3370,7 +3346,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 15,
+      "age": 16,
       "priority": 0
     },
     {
@@ -3382,7 +3358,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 0
     },
     {
@@ -3398,6 +3374,30 @@
       "priority": 0
     },
     {
+      "company": "BD",
+      "title": "Engineering Intern",
+      "location": "USA UT - Sandy",
+      "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Engineering-Intern_R-553921-1",
+      "careers_url": "https://jobs.bd.com/",
+      "category": "medical",
+      "level": "intern",
+      "geo": "usa",
+      "age": 10,
+      "priority": 9
+    },
+    {
+      "company": "BD",
+      "title": "Quality Engineer I",
+      "location": "USA UT - Salt Lake City BAS",
+      "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Salt-Lake-City-BAS/Quality-Engineer-I_R-553793-1",
+      "careers_url": "https://jobs.bd.com/",
+      "category": "medical",
+      "level": "newgrad",
+      "geo": "usa",
+      "age": 17,
+      "priority": 9
+    },
+    {
       "company": "Alcon",
       "title": "2027 Spring/Summer LS Engineering Co-op",
       "location": "Johns Creek, Georgia",
@@ -3406,7 +3406,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 13
     },
     {
@@ -3418,7 +3418,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "usa",
-      "age": 9,
+      "age": 10,
       "priority": 13
     },
     {
@@ -3550,7 +3550,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "intl",
-      "age": 2,
+      "age": 3,
       "priority": 10
     },
     {
@@ -3562,7 +3562,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "intl",
-      "age": 12,
+      "age": 13,
       "priority": 10
     },
     {
@@ -3586,7 +3586,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 10
     },
     {
@@ -3598,7 +3598,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "intl",
-      "age": 25,
+      "age": 26,
       "priority": 10
     },
     {
@@ -3622,7 +3622,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 23,
+      "age": 24,
       "priority": 10
     },
     {
@@ -3634,7 +3634,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 10
     },
     {
@@ -3646,7 +3646,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "usa",
-      "age": 29,
+      "age": 30,
       "priority": 10
     },
     {
@@ -3658,7 +3658,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 10
     },
     {
@@ -3670,7 +3670,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "intl",
-      "age": 0,
+      "age": 2,
       "priority": 10
     },
     {
@@ -3682,7 +3682,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "intl",
-      "age": 9,
+      "age": 10,
       "priority": 10
     },
     {
@@ -3706,7 +3706,7 @@
       "category": "medical",
       "level": "coop",
       "geo": "usa",
-      "age": 24,
+      "age": 25,
       "priority": 10
     },
     {
@@ -3718,7 +3718,7 @@
       "category": "medical",
       "level": "newgrad",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 10
     },
     {
@@ -3730,7 +3730,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "intl",
-      "age": 15,
+      "age": 16,
       "priority": 10
     },
     {
@@ -3742,7 +3742,7 @@
       "category": "medical",
       "level": "intern",
       "geo": "intl",
-      "age": 15,
+      "age": 16,
       "priority": 10
     },
     {
@@ -3874,7 +3874,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "intl",
-      "age": 4,
+      "age": 5,
       "priority": 30
     },
     {
@@ -3886,7 +3886,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 30
     },
     {
@@ -3898,7 +3898,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 30
     },
     {
@@ -3910,7 +3910,7 @@
       "category": "aerospace",
       "level": "newgrad",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -3922,7 +3922,7 @@
       "category": "aerospace",
       "level": "newgrad",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -3934,7 +3934,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -3946,7 +3946,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -3958,7 +3958,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -3970,7 +3970,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -3982,7 +3982,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -3994,7 +3994,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4006,7 +4006,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4018,7 +4018,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4030,7 +4030,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4042,7 +4042,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4054,7 +4054,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4066,7 +4066,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4078,7 +4078,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4090,7 +4090,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4102,7 +4102,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4114,7 +4114,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4126,7 +4126,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4138,7 +4138,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4150,7 +4150,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4162,7 +4162,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4174,7 +4174,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4186,7 +4186,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4198,7 +4198,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4210,7 +4210,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4222,7 +4222,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4234,7 +4234,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4246,7 +4246,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4258,7 +4258,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4270,7 +4270,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4282,7 +4282,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4294,7 +4294,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4306,7 +4306,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4318,7 +4318,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4330,7 +4330,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4342,7 +4342,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4354,7 +4354,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4366,7 +4366,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4378,7 +4378,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4390,7 +4390,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4402,7 +4402,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4414,7 +4414,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4426,7 +4426,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4438,7 +4438,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4450,7 +4450,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4462,7 +4462,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4474,7 +4474,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4486,7 +4486,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4498,7 +4498,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4510,7 +4510,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4522,7 +4522,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4534,7 +4534,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4546,7 +4546,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4558,7 +4558,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4570,7 +4570,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4582,7 +4582,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4594,7 +4594,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4606,7 +4606,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4618,7 +4618,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4630,7 +4630,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "intl",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4642,7 +4642,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "intl",
-      "age": 8,
+      "age": 9,
       "priority": 30
     },
     {
@@ -4654,7 +4654,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 30
     },
     {
@@ -4666,7 +4666,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4678,7 +4678,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4690,7 +4690,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4702,7 +4702,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4714,7 +4714,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4726,7 +4726,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4738,7 +4738,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4750,7 +4750,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4762,7 +4762,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4774,7 +4774,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4786,7 +4786,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4798,7 +4798,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4810,7 +4810,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4822,7 +4822,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4834,7 +4834,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4846,7 +4846,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4858,7 +4858,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4870,7 +4870,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4882,7 +4882,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4894,7 +4894,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4906,7 +4906,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4918,7 +4918,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4930,7 +4930,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4942,7 +4942,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4954,7 +4954,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4966,7 +4966,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4978,7 +4978,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -4990,7 +4990,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -5002,7 +5002,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -5014,7 +5014,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -5026,7 +5026,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -5038,7 +5038,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -5050,7 +5050,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -5062,7 +5062,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -5074,7 +5074,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -5086,7 +5086,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -5098,7 +5098,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -5110,7 +5110,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -5122,7 +5122,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -5134,7 +5134,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -5146,7 +5146,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -5158,7 +5158,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -5170,7 +5170,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -5182,7 +5182,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -5194,7 +5194,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -5206,7 +5206,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 30
     },
     {
@@ -5218,7 +5218,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "intl",
-      "age": 9,
+      "age": 10,
       "priority": 30
     },
     {
@@ -5230,7 +5230,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 24,
+      "age": 25,
       "priority": 30
     },
     {
@@ -6898,7 +6898,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 11,
+      "age": 12,
       "priority": 30
     },
     {
@@ -6910,7 +6910,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 11,
+      "age": 12,
       "priority": 30
     },
     {
@@ -6922,7 +6922,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 11,
+      "age": 12,
       "priority": 30
     },
     {
@@ -6934,7 +6934,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 24,
+      "age": 25,
       "priority": 30
     },
     {
@@ -6946,7 +6946,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 24,
+      "age": 25,
       "priority": 30
     },
     {
@@ -6958,272 +6958,8 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 25,
-      "priority": 30
-    },
-    {
-      "company": "3M",
-      "title": "Internship - 2027 Undergraduate 3M Industrial Design Intern - Safety & Industrial Business Group (SIBG)",
-      "location": "US, Minnesota, Maplewood",
-      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Industrial-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172241",
-      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 5,
-      "priority": 35
-    },
-    {
-      "company": "3M",
-      "title": "Internship - 2027 Undergraduate 3M Industrial Design Intern - Safety & Industrial Business Group (SIBG)",
-      "location": "US, Texas, Austin",
-      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Industrial-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172241",
-      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 5,
-      "priority": 35
-    },
-    {
-      "company": "3M",
-      "title": "Internship - 2027 Undergraduate 3M Brand Design Intern - Safety & Industrial Business Group (SIBG)",
-      "location": "US, Minnesota, Maplewood",
-      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Brand-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172458",
-      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 5,
-      "priority": 35
-    },
-    {
-      "company": "3M",
-      "title": "Internship - 2027 Undergraduate 3M Brand Design Intern - Safety & Industrial Business Group (SIBG)",
-      "location": "US, Texas, Austin",
-      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Brand-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172458",
-      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 5,
-      "priority": 35
-    },
-    {
-      "company": "3M",
-      "title": "Internship - 2027 Undergraduate 3M UX/UI Design Intern - Safety & Industrial Business Group (SIBG)",
-      "location": "US, Minnesota, Maplewood",
-      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-UX-UI-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172459",
-      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 5,
-      "priority": 35
-    },
-    {
-      "company": "3M",
-      "title": "Internship - 2027 Undergraduate 3M UX/UI Design Intern - Safety & Industrial Business Group (SIBG)",
-      "location": "US, Texas, Austin",
-      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-UX-UI-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172459",
-      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 5,
-      "priority": 35
-    },
-    {
-      "company": "3M",
-      "title": "Internship - Spring 2027 / Fall 2027 Packaging Solutions Co-op",
-      "location": "US, Minnesota, Maplewood",
-      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---Spring-2027---Fall-2027-Packaging-Solutions-Co-op_R01171453",
-      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
-      "category": "energy",
-      "level": "coop",
-      "geo": "usa",
       "age": 26,
-      "priority": 35
-    },
-    {
-      "company": "3M",
-      "title": "Internship – 2027 Undergraduate Sales Enablement, Analytics & Operations Intern – Transportation & Electronics Business Group (TEBG)",
-      "location": "US, Minnesota, Maplewood",
-      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Sales-Enablement--Analytics---Operations-Intern---Transportation---Electronics-Business-Group--TEBG-_R01171717",
-      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 22,
-      "priority": 35
-    },
-    {
-      "company": "3M",
-      "title": "Internship – 2027 Undergraduate Sales Enablement, Analytics & Operations Intern – Transportation & Electronics Business Group (TEBG)",
-      "location": "USA, KY, Louisville",
-      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Sales-Enablement--Analytics---Operations-Intern---Transportation---Electronics-Business-Group--TEBG-_R01171717",
-      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 22,
-      "priority": 35
-    },
-    {
-      "company": "3M",
-      "title": "Internship – 2027 Undergraduate Sales Enablement, Analytics & Operations Intern – Transportation & Electronics Business Group (TEBG)",
-      "location": "US, TX, Dallas, Virtual",
-      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Sales-Enablement--Analytics---Operations-Intern---Transportation---Electronics-Business-Group--TEBG-_R01171717",
-      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 22,
-      "priority": 35
-    },
-    {
-      "company": "3M",
-      "title": "Internship – 2027 Undergraduate Sales Enablement, Operations & Analytics Intern - Safety & Industrial Business Group (SIBG)",
-      "location": "US, Minnesota, Maplewood",
-      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Sales-Enablement--Operations---Analytics-Intern---Safety---Industrial-Business-Group--SIBG-_R01171043",
-      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 35
-    },
-    {
-      "company": "3M",
-      "title": "Internship – 2027 Undergraduate Sales Enablement, Operations & Analytics Intern - Safety & Industrial Business Group (SIBG)",
-      "location": "US, Texas, Austin",
-      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Sales-Enablement--Operations---Analytics-Intern---Safety---Industrial-Business-Group--SIBG-_R01171043",
-      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 35
-    },
-    {
-      "company": "Formlabs",
-      "title": "Global Operations Intern (Winter/Spring 2027)",
-      "location": "Somerville, MA",
-      "url": "https://careers.formlabs.com/job/8263054/apply/?gh_jid=8263054",
-      "careers_url": "https://formlabs.com/careers",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "usa",
-      "age": 10,
-      "priority": 46
-    },
-    {
-      "company": "Formlabs",
-      "title": "Hardware R&D Engineering Intern (Winter/Spring 2027)",
-      "location": "Somerville, MA",
-      "url": "https://careers.formlabs.com/job/8172226/apply/?gh_jid=8172226",
-      "careers_url": "https://formlabs.com/careers",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "usa",
-      "age": 46,
-      "priority": 46
-    },
-    {
-      "company": "Formlabs",
-      "title": "Hardware Systems Integration Intern (Summer 2027)",
-      "location": "Somerville, MA",
-      "url": "https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683",
-      "careers_url": "https://formlabs.com/careers",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "usa",
-      "age": 3,
-      "priority": 46
-    },
-    {
-      "company": "Formlabs",
-      "title": "Hardware Systems Integration Intern (Winter/Spring 2027)",
-      "location": "Somerville, MA",
-      "url": "https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004",
-      "careers_url": "https://formlabs.com/careers",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "usa",
-      "age": 46,
-      "priority": 46
-    },
-    {
-      "company": "Formlabs",
-      "title": "Hardware Test Engineering Intern (Winter/Spring 2027)",
-      "location": "Somerville, MA",
-      "url": "https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515",
-      "careers_url": "https://formlabs.com/careers",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "usa",
-      "age": 29,
-      "priority": 46
-    },
-    {
-      "company": "Formlabs",
-      "title": "Industrial Design Intern (Winter/Spring 2027)",
-      "location": "Somerville, MA",
-      "url": "https://careers.formlabs.com/job/8172232/apply/?gh_jid=8172232",
-      "careers_url": "https://formlabs.com/careers",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "usa",
-      "age": 46,
-      "priority": 46
-    },
-    {
-      "company": "Formlabs",
-      "title": "Manufacturing Engineering Intern (Winter/Spring 2027)",
-      "location": "Somerville, MA",
-      "url": "https://careers.formlabs.com/job/8161817/apply/?gh_jid=8161817",
-      "careers_url": "https://formlabs.com/careers",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "usa",
-      "age": 44,
-      "priority": 46
-    },
-    {
-      "company": "Formlabs",
-      "title": "Materials Intern (Winter/Spring 2027)",
-      "location": "Somerville, MA",
-      "url": "https://careers.formlabs.com/job/8199092/apply/?gh_jid=8199092",
-      "careers_url": "https://formlabs.com/careers",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "usa",
-      "age": 34,
-      "priority": 46
-    },
-    {
-      "company": "Formlabs",
-      "title": "Mechanical Engineering Intern (Winter/Spring 2027)",
-      "location": "Somerville, MA",
-      "url": "https://careers.formlabs.com/job/8130829/apply/?gh_jid=8130829",
-      "careers_url": "https://formlabs.com/careers",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "usa",
-      "age": 64,
-      "priority": 46
-    },
-    {
-      "company": "Formlabs",
-      "title": "Print Process Intern (Winter/Spring 2027)",
-      "location": "Somerville, MA",
-      "url": "https://careers.formlabs.com/job/8199269/apply/?gh_jid=8199269",
-      "careers_url": "https://formlabs.com/careers",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "usa",
-      "age": 34,
-      "priority": 46
+      "priority": 30
     },
     {
       "company": "Boeing",
@@ -8086,7 +7822,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "intl",
-      "age": 8,
+      "age": 9,
       "priority": 28
     },
     {
@@ -8098,7 +7834,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "intl",
-      "age": 25,
+      "age": 26,
       "priority": 28
     },
     {
@@ -8110,7 +7846,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 9,
+      "age": 10,
       "priority": 28
     },
     {
@@ -8122,7 +7858,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 9,
+      "age": 10,
       "priority": 28
     },
     {
@@ -8134,7 +7870,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 9,
+      "age": 10,
       "priority": 28
     },
     {
@@ -8146,7 +7882,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 9,
+      "age": 10,
       "priority": 28
     },
     {
@@ -8158,19 +7894,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 9,
-      "priority": 28
-    },
-    {
-      "company": "Boeing",
-      "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Applied Mathematician Intern",
-      "location": "USA - North Charleston, SC",
-      "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Applied-Mathematician-Intern_JR2026523704",
-      "careers_url": "https://jobs.boeing.com/",
-      "category": "aerospace",
-      "level": "intern",
-      "geo": "usa",
-      "age": 9,
+      "age": 10,
       "priority": 28
     },
     {
@@ -8307,6 +8031,18 @@
     },
     {
       "company": "Boeing",
+      "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Applied Mathematician Intern",
+      "location": "USA - North Charleston, SC",
+      "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Applied-Mathematician-Intern_JR2026523704",
+      "careers_url": "https://jobs.boeing.com/",
+      "category": "aerospace",
+      "level": "intern",
+      "geo": "usa",
+      "age": 10,
+      "priority": 28
+    },
+    {
+      "company": "Boeing",
       "title": "Boeing Summer 2027 Internship Program (Paid) - Methods Process Analyst",
       "location": "USA - Seattle, WA",
       "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Methods-Process-Analyst_JR2026519532-1",
@@ -8350,7 +8086,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "intl",
-      "age": 2,
+      "age": 3,
       "priority": 28
     },
     {
@@ -8362,8 +8098,272 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "intl",
-      "age": 2,
+      "age": 3,
       "priority": 28
+    },
+    {
+      "company": "3M",
+      "title": "Internship - 2027 Undergraduate 3M Industrial Design Intern - Safety & Industrial Business Group (SIBG)",
+      "location": "US, Minnesota, Maplewood",
+      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Industrial-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172241",
+      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 6,
+      "priority": 35
+    },
+    {
+      "company": "3M",
+      "title": "Internship - 2027 Undergraduate 3M Industrial Design Intern - Safety & Industrial Business Group (SIBG)",
+      "location": "US, Texas, Austin",
+      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Industrial-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172241",
+      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 6,
+      "priority": 35
+    },
+    {
+      "company": "3M",
+      "title": "Internship - 2027 Undergraduate 3M Brand Design Intern - Safety & Industrial Business Group (SIBG)",
+      "location": "US, Minnesota, Maplewood",
+      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Brand-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172458",
+      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 6,
+      "priority": 35
+    },
+    {
+      "company": "3M",
+      "title": "Internship - 2027 Undergraduate 3M Brand Design Intern - Safety & Industrial Business Group (SIBG)",
+      "location": "US, Texas, Austin",
+      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Brand-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172458",
+      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 6,
+      "priority": 35
+    },
+    {
+      "company": "3M",
+      "title": "Internship - 2027 Undergraduate 3M UX/UI Design Intern - Safety & Industrial Business Group (SIBG)",
+      "location": "US, Minnesota, Maplewood",
+      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-UX-UI-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172459",
+      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 6,
+      "priority": 35
+    },
+    {
+      "company": "3M",
+      "title": "Internship - 2027 Undergraduate 3M UX/UI Design Intern - Safety & Industrial Business Group (SIBG)",
+      "location": "US, Texas, Austin",
+      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-UX-UI-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172459",
+      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 6,
+      "priority": 35
+    },
+    {
+      "company": "3M",
+      "title": "Internship - Spring 2027 / Fall 2027 Packaging Solutions Co-op",
+      "location": "US, Minnesota, Maplewood",
+      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---Spring-2027---Fall-2027-Packaging-Solutions-Co-op_R01171453",
+      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
+      "category": "energy",
+      "level": "coop",
+      "geo": "usa",
+      "age": 27,
+      "priority": 35
+    },
+    {
+      "company": "3M",
+      "title": "Internship – 2027 Undergraduate Sales Enablement, Analytics & Operations Intern – Transportation & Electronics Business Group (TEBG)",
+      "location": "US, Minnesota, Maplewood",
+      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Sales-Enablement--Analytics---Operations-Intern---Transportation---Electronics-Business-Group--TEBG-_R01171717",
+      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 23,
+      "priority": 35
+    },
+    {
+      "company": "3M",
+      "title": "Internship – 2027 Undergraduate Sales Enablement, Analytics & Operations Intern – Transportation & Electronics Business Group (TEBG)",
+      "location": "USA, KY, Louisville",
+      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Sales-Enablement--Analytics---Operations-Intern---Transportation---Electronics-Business-Group--TEBG-_R01171717",
+      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 23,
+      "priority": 35
+    },
+    {
+      "company": "3M",
+      "title": "Internship – 2027 Undergraduate Sales Enablement, Analytics & Operations Intern – Transportation & Electronics Business Group (TEBG)",
+      "location": "US, TX, Dallas, Virtual",
+      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Sales-Enablement--Analytics---Operations-Intern---Transportation---Electronics-Business-Group--TEBG-_R01171717",
+      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 23,
+      "priority": 35
+    },
+    {
+      "company": "3M",
+      "title": "Internship – 2027 Undergraduate Sales Enablement, Operations & Analytics Intern - Safety & Industrial Business Group (SIBG)",
+      "location": "US, Minnesota, Maplewood",
+      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Sales-Enablement--Operations---Analytics-Intern---Safety---Industrial-Business-Group--SIBG-_R01171043",
+      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 35
+    },
+    {
+      "company": "3M",
+      "title": "Internship – 2027 Undergraduate Sales Enablement, Operations & Analytics Intern - Safety & Industrial Business Group (SIBG)",
+      "location": "US, Texas, Austin",
+      "url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-Sales-Enablement--Operations---Analytics-Intern---Safety---Industrial-Business-Group--SIBG-_R01171043",
+      "careers_url": "https://www.3m.com/3M/en_US/careers-us/",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 35
+    },
+    {
+      "company": "Formlabs",
+      "title": "Global Operations Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8263054/apply/?gh_jid=8263054",
+      "careers_url": "https://formlabs.com/careers",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "usa",
+      "age": 10,
+      "priority": 46
+    },
+    {
+      "company": "Formlabs",
+      "title": "Hardware R&D Engineering Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8172226/apply/?gh_jid=8172226",
+      "careers_url": "https://formlabs.com/careers",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "usa",
+      "age": 46,
+      "priority": 46
+    },
+    {
+      "company": "Formlabs",
+      "title": "Hardware Systems Integration Intern (Summer 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683",
+      "careers_url": "https://formlabs.com/careers",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "usa",
+      "age": 3,
+      "priority": 46
+    },
+    {
+      "company": "Formlabs",
+      "title": "Hardware Systems Integration Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004",
+      "careers_url": "https://formlabs.com/careers",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "usa",
+      "age": 46,
+      "priority": 46
+    },
+    {
+      "company": "Formlabs",
+      "title": "Hardware Test Engineering Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515",
+      "careers_url": "https://formlabs.com/careers",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "usa",
+      "age": 29,
+      "priority": 46
+    },
+    {
+      "company": "Formlabs",
+      "title": "Industrial Design Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8172232/apply/?gh_jid=8172232",
+      "careers_url": "https://formlabs.com/careers",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "usa",
+      "age": 46,
+      "priority": 46
+    },
+    {
+      "company": "Formlabs",
+      "title": "Manufacturing Engineering Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8161817/apply/?gh_jid=8161817",
+      "careers_url": "https://formlabs.com/careers",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "usa",
+      "age": 44,
+      "priority": 46
+    },
+    {
+      "company": "Formlabs",
+      "title": "Materials Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8199092/apply/?gh_jid=8199092",
+      "careers_url": "https://formlabs.com/careers",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "usa",
+      "age": 34,
+      "priority": 46
+    },
+    {
+      "company": "Formlabs",
+      "title": "Mechanical Engineering Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8130829/apply/?gh_jid=8130829",
+      "careers_url": "https://formlabs.com/careers",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "usa",
+      "age": 64,
+      "priority": 46
+    },
+    {
+      "company": "Formlabs",
+      "title": "Print Process Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8199269/apply/?gh_jid=8199269",
+      "careers_url": "https://formlabs.com/careers",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "usa",
+      "age": 34,
+      "priority": 46
     },
     {
       "company": "Baker Hughes",
@@ -8386,7 +8386,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "intl",
-      "age": 0,
+      "age": 2,
       "priority": 50
     },
     {
@@ -8398,7 +8398,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "intl",
-      "age": 16,
+      "age": 17,
       "priority": 50
     },
     {
@@ -8422,7 +8422,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 50
     },
     {
@@ -8434,7 +8434,7 @@
       "category": "energy",
       "level": "coop",
       "geo": "usa",
-      "age": 23,
+      "age": 24,
       "priority": 50
     },
     {
@@ -8446,7 +8446,7 @@
       "category": "energy",
       "level": "coop",
       "geo": "usa",
-      "age": 23,
+      "age": 24,
       "priority": 50
     },
     {
@@ -8458,7 +8458,7 @@
       "category": "energy",
       "level": "coop",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 50
     },
     {
@@ -8470,7 +8470,7 @@
       "category": "energy",
       "level": "coop",
       "geo": "usa",
-      "age": 23,
+      "age": 24,
       "priority": 50
     },
     {
@@ -8482,7 +8482,7 @@
       "category": "energy",
       "level": "coop",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 50
     },
     {
@@ -8494,7 +8494,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "intl",
-      "age": 8,
+      "age": 9,
       "priority": 50
     },
     {
@@ -8506,7 +8506,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "intl",
-      "age": 10,
+      "age": 11,
       "priority": 50
     },
     {
@@ -8518,7 +8518,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 50
     },
     {
@@ -8530,7 +8530,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 19,
+      "age": 20,
       "priority": 50
     },
     {
@@ -8542,7 +8542,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "intl",
-      "age": 14,
+      "age": 15,
       "priority": 50
     },
     {
@@ -8566,7 +8566,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "intl",
-      "age": 12,
+      "age": 13,
       "priority": 50
     },
     {
@@ -8578,7 +8578,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "intl",
-      "age": 0,
+      "age": 2,
       "priority": 50
     },
     {
@@ -8590,7 +8590,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 50
     },
     {
@@ -8614,7 +8614,7 @@
       "category": "energy",
       "level": "coop",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 50
     },
     {
@@ -8626,7 +8626,7 @@
       "category": "energy",
       "level": "coop",
       "geo": "intl",
-      "age": 23,
+      "age": 24,
       "priority": 50
     },
     {
@@ -8638,7 +8638,7 @@
       "category": "energy",
       "level": "coop",
       "geo": "usa",
-      "age": 23,
+      "age": 24,
       "priority": 50
     },
     {
@@ -8650,7 +8650,7 @@
       "category": "energy",
       "level": "coop",
       "geo": "usa",
-      "age": 19,
+      "age": 20,
       "priority": 50
     },
     {
@@ -8662,7 +8662,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 19,
+      "age": 20,
       "priority": 50
     },
     {
@@ -8674,7 +8674,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "intl",
-      "age": 4,
+      "age": 5,
       "priority": 50
     },
     {
@@ -8698,7 +8698,7 @@
       "category": "energy",
       "level": "coop",
       "geo": "usa",
-      "age": 16,
+      "age": 17,
       "priority": 50
     },
     {
@@ -8710,7 +8710,7 @@
       "category": "energy",
       "level": "coop",
       "geo": "usa",
-      "age": 23,
+      "age": 24,
       "priority": 50
     },
     {
@@ -8722,7 +8722,7 @@
       "category": "energy",
       "level": "coop",
       "geo": "usa",
-      "age": 23,
+      "age": 24,
       "priority": 50
     },
     {
@@ -8734,7 +8734,7 @@
       "category": "energy",
       "level": "coop",
       "geo": "usa",
-      "age": 23,
+      "age": 24,
       "priority": 50
     },
     {
@@ -8746,8 +8746,176 @@
       "category": "energy",
       "level": "newgrad",
       "geo": "intl",
-      "age": 4,
+      "age": 5,
       "priority": 50
+    },
+    {
+      "company": "Caterpillar",
+      "title": "Manufacturing Engineering College Intern",
+      "location": "Rayong, Thailand",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Rayong-Thailand/Manufacturing-Engineering-College-Intern_R0000392914",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "intl",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Engineering Corporate Internship Program Welding",
+      "location": "Mossville, Illinois",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Part-Time Intern - Engineering",
+      "location": "Pontiac, Illinois",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Pontiac-Illinois/XMLNAME-2027-Part-Time-Intern---Engineering_R0000399906",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 6,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern – Product Support Engineering",
+      "location": "Peoria, Illinois",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern – Product Support Engineering",
+      "location": "Tucson, Arizona",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern – Product Support Engineering",
+      "location": "Houston, Texas",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern – Product Support Engineering",
+      "location": "Irving, Texas",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern – Product Support Engineering",
+      "location": "Cary, North Carolina",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern – Product Support Engineering",
+      "location": "Seguin, Texas",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
+      "location": "Mossville, Illinois",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
+      "location": "Pittsburgh, Pennsylvania",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
+      "location": "Peoria, Illinois",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
+      "location": "Irving, Texas",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
+      "location": "San Francisco, California",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
     },
     {
       "company": "Blue Origin",
@@ -8758,7 +8926,7 @@
       "category": "aerospace",
       "level": "newgrad",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 29
     },
     {
@@ -8770,7 +8938,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -8782,7 +8950,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -8794,7 +8962,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -8806,7 +8974,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -8818,7 +8986,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -8830,7 +8998,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -8842,7 +9010,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -8854,7 +9022,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -8866,7 +9034,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -8878,7 +9046,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -8890,7 +9058,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -8902,7 +9070,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -8914,7 +9082,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -8926,7 +9094,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -8938,7 +9106,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -8950,7 +9118,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -8962,7 +9130,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -8974,7 +9142,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -8986,7 +9154,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -8998,7 +9166,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9010,7 +9178,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9022,7 +9190,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9034,7 +9202,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9046,7 +9214,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9058,7 +9226,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9070,7 +9238,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9082,7 +9250,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9094,7 +9262,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9106,7 +9274,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9118,7 +9286,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9130,7 +9298,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9142,7 +9310,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9154,7 +9322,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9166,7 +9334,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9178,7 +9346,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9190,7 +9358,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9202,7 +9370,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9214,7 +9382,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9226,7 +9394,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9238,7 +9406,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9250,7 +9418,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9262,7 +9430,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9274,7 +9442,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9286,7 +9454,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9298,7 +9466,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9310,7 +9478,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9322,7 +9490,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9334,7 +9502,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9346,7 +9514,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9358,7 +9526,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9370,7 +9538,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9382,7 +9550,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9394,7 +9562,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9406,7 +9574,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 4,
+      "age": 5,
       "priority": 29
     },
     {
@@ -9418,7 +9586,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -9430,7 +9598,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -9442,7 +9610,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -9454,7 +9622,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -9466,7 +9634,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -9478,7 +9646,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 29
     },
     {
@@ -9490,7 +9658,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 19,
+      "age": 20,
       "priority": 29
     },
     {
@@ -9502,7 +9670,7 @@
       "category": "aerospace",
       "level": "newgrad",
       "geo": "usa",
-      "age": 24,
+      "age": 25,
       "priority": 29
     },
     {
@@ -9514,7 +9682,7 @@
       "category": "aerospace",
       "level": "newgrad",
       "geo": "usa",
-      "age": 24,
+      "age": 25,
       "priority": 29
     },
     {
@@ -9526,7 +9694,7 @@
       "category": "aerospace",
       "level": "newgrad",
       "geo": "usa",
-      "age": 24,
+      "age": 25,
       "priority": 29
     },
     {
@@ -9538,7 +9706,7 @@
       "category": "aerospace",
       "level": "coop",
       "geo": "usa",
-      "age": 25,
+      "age": 26,
       "priority": 29
     },
     {
@@ -10054,7 +10222,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 36
     },
     {
@@ -10066,7 +10234,7 @@
       "category": "energy",
       "level": "coop",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 36
     },
     {
@@ -10078,7 +10246,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 36
     },
     {
@@ -10090,7 +10258,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "intl",
-      "age": 0,
+      "age": 2,
       "priority": 36
     },
     {
@@ -10102,7 +10270,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "intl",
-      "age": 0,
+      "age": 2,
       "priority": 36
     },
     {
@@ -10114,7 +10282,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "intl",
-      "age": 0,
+      "age": 2,
       "priority": 36
     },
     {
@@ -10126,7 +10294,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 36
     },
     {
@@ -10138,7 +10306,7 @@
       "category": "energy",
       "level": "newgrad",
       "geo": "intl",
-      "age": 6,
+      "age": 7,
       "priority": 36
     },
     {
@@ -10150,7 +10318,7 @@
       "category": "energy",
       "level": "newgrad",
       "geo": "intl",
-      "age": 6,
+      "age": 7,
       "priority": 36
     },
     {
@@ -10162,7 +10330,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 8,
+      "age": 9,
       "priority": 36
     },
     {
@@ -10174,7 +10342,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 36
     },
     {
@@ -10186,7 +10354,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 36
     },
     {
@@ -10198,7 +10366,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 11,
+      "age": 12,
       "priority": 36
     },
     {
@@ -10210,7 +10378,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "intl",
-      "age": 11,
+      "age": 12,
       "priority": 36
     },
     {
@@ -10222,7 +10390,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "intl",
-      "age": 11,
+      "age": 12,
       "priority": 36
     },
     {
@@ -10234,7 +10402,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "intl",
-      "age": 12,
+      "age": 13,
       "priority": 36
     },
     {
@@ -10246,7 +10414,7 @@
       "category": "energy",
       "level": "coop",
       "geo": "usa",
-      "age": 15,
+      "age": 16,
       "priority": 36
     },
     {
@@ -10258,7 +10426,7 @@
       "category": "energy",
       "level": "coop",
       "geo": "usa",
-      "age": 15,
+      "age": 16,
       "priority": 36
     },
     {
@@ -10270,7 +10438,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 16,
+      "age": 17,
       "priority": 36
     },
     {
@@ -10282,7 +10450,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 36
     },
     {
@@ -10294,7 +10462,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 18,
+      "age": 19,
       "priority": 36
     },
     {
@@ -10306,7 +10474,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 25,
+      "age": 26,
       "priority": 36
     },
     {
@@ -10318,7 +10486,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 28,
+      "age": 29,
       "priority": 36
     },
     {
@@ -10570,7 +10738,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 8,
+      "age": 9,
       "priority": 42
     },
     {
@@ -10630,7 +10798,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 8,
+      "age": 9,
       "priority": 42
     },
     {
@@ -10642,7 +10810,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 8,
+      "age": 9,
       "priority": 42
     },
     {
@@ -10654,7 +10822,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 8,
+      "age": 9,
       "priority": 42
     },
     {
@@ -10678,7 +10846,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "intl",
-      "age": 13,
+      "age": 14,
       "priority": 42
     },
     {
@@ -10762,7 +10930,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "intl",
-      "age": 4,
+      "age": 5,
       "priority": 42
     },
     {
@@ -10822,7 +10990,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "intl",
-      "age": 10,
+      "age": 11,
       "priority": 42
     },
     {
@@ -10846,7 +11014,7 @@
       "category": "energy",
       "level": "newgrad",
       "geo": "intl",
-      "age": 16,
+      "age": 17,
       "priority": 42
     },
     {
@@ -10882,7 +11050,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 42
     },
     {
@@ -10894,7 +11062,7 @@
       "category": "energy",
       "level": "intern",
       "geo": "usa",
-      "age": 0,
+      "age": 2,
       "priority": 42
     },
     {
@@ -10906,7 +11074,7 @@
       "category": "energy",
       "level": "coop",
       "geo": "usa",
-      "age": 11,
+      "age": 12,
       "priority": 42
     },
     {
@@ -10918,7 +11086,7 @@
       "category": "energy",
       "level": "coop",
       "geo": "usa",
-      "age": 11,
+      "age": 12,
       "priority": 42
     },
     {
@@ -10934,174 +11102,6 @@
       "priority": 42
     },
     {
-      "company": "Caterpillar",
-      "title": "Manufacturing Engineering College Intern",
-      "location": "Rayong, Thailand",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Rayong-Thailand/Manufacturing-Engineering-College-Intern_R0000392914",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "intl",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Engineering Corporate Internship Program Welding",
-      "location": "Mossville, Illinois",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Part-Time Intern - Engineering",
-      "location": "Pontiac, Illinois",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Pontiac-Illinois/XMLNAME-2027-Part-Time-Intern---Engineering_R0000399906",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 5,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern – Product Support Engineering",
-      "location": "Peoria, Illinois",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern – Product Support Engineering",
-      "location": "Tucson, Arizona",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern – Product Support Engineering",
-      "location": "Houston, Texas",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern – Product Support Engineering",
-      "location": "Irving, Texas",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern – Product Support Engineering",
-      "location": "Cary, North Carolina",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern – Product Support Engineering",
-      "location": "Seguin, Texas",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
-      "location": "Mossville, Illinois",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
-      "location": "Pittsburgh, Pennsylvania",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
-      "location": "Peoria, Illinois",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
-      "location": "Irving, Texas",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
-      "location": "San Francisco, California",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
       "company": "General Motors",
       "title": "2027 Co-Op Student – Manufacturing Quality Engineer",
       "location": "Bay City, Michigan, United States of America",
@@ -11110,7 +11110,7 @@
       "category": "automotive",
       "level": "coop",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 17
     },
     {
@@ -11122,7 +11122,7 @@
       "category": "automotive",
       "level": "coop",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 17
     },
     {
@@ -11134,7 +11134,7 @@
       "category": "automotive",
       "level": "coop",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 17
     },
     {
@@ -11146,7 +11146,7 @@
       "category": "automotive",
       "level": "coop",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 17
     },
     {
@@ -11158,7 +11158,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 2,
+      "age": 3,
       "priority": 17
     },
     {
@@ -11170,7 +11170,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 2,
+      "age": 3,
       "priority": 17
     },
     {
@@ -11182,7 +11182,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 12,
+      "age": 13,
       "priority": 17
     },
     {
@@ -11194,7 +11194,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 2,
+      "age": 3,
       "priority": 17
     },
     {
@@ -11206,7 +11206,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 24,
+      "age": 25,
       "priority": 17
     },
     {
@@ -11218,7 +11218,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 24,
+      "age": 25,
       "priority": 17
     },
     {
@@ -11230,7 +11230,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 24,
+      "age": 25,
       "priority": 17
     },
     {
@@ -11242,7 +11242,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 24,
+      "age": 25,
       "priority": 17
     },
     {
@@ -11254,7 +11254,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 12,
+      "age": 13,
       "priority": 17
     },
     {
@@ -11266,7 +11266,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 12,
+      "age": 13,
       "priority": 17
     },
     {
@@ -11278,7 +11278,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 12,
+      "age": 13,
       "priority": 17
     },
     {
@@ -11290,7 +11290,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 17
     },
     {
@@ -11302,7 +11302,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 17
     },
     {
@@ -11314,7 +11314,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 17
     },
     {
@@ -11326,7 +11326,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 17
     },
     {
@@ -11338,7 +11338,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 17
     },
     {
@@ -11350,7 +11350,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 17
     },
     {
@@ -11362,7 +11362,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 17
     },
     {
@@ -11374,7 +11374,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 5,
+      "age": 6,
       "priority": 17
     },
     {
@@ -11434,7 +11434,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 7,
+      "age": 8,
       "priority": 17
     },
     {
@@ -11446,7 +11446,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 7,
+      "age": 8,
       "priority": 17
     },
     {
@@ -11458,7 +11458,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 7,
+      "age": 8,
       "priority": 17
     },
     {
@@ -11470,7 +11470,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 7,
+      "age": 8,
       "priority": 17
     },
     {
@@ -11482,7 +11482,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 7,
+      "age": 8,
       "priority": 17
     },
     {
@@ -11494,7 +11494,7 @@
       "category": "automotive",
       "level": "coop",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 17
     },
     {
@@ -11506,7 +11506,7 @@
       "category": "automotive",
       "level": "coop",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 17
     },
     {
@@ -11518,7 +11518,7 @@
       "category": "automotive",
       "level": "coop",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 17
     },
     {
@@ -11530,7 +11530,7 @@
       "category": "automotive",
       "level": "coop",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 17
     },
     {
@@ -11542,7 +11542,7 @@
       "category": "automotive",
       "level": "coop",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 17
     },
     {
@@ -11554,7 +11554,7 @@
       "category": "automotive",
       "level": "coop",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 17
     },
     {
@@ -11566,7 +11566,7 @@
       "category": "automotive",
       "level": "coop",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 17
     },
     {
@@ -11578,7 +11578,7 @@
       "category": "automotive",
       "level": "coop",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 17
     },
     {
@@ -11590,7 +11590,7 @@
       "category": "automotive",
       "level": "coop",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 17
     },
     {
@@ -11602,260 +11602,8 @@
       "category": "automotive",
       "level": "newgrad",
       "geo": "intl",
-      "age": 10,
+      "age": 11,
       "priority": 17
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Developer Technology Engineering Intern - 2027",
-      "location": "China, Beijing",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "intl",
-      "age": 30,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Developer Technology Engineering Intern - 2027",
-      "location": "China, Shanghai",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "intl",
-      "age": 30,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Circuit Validation Engineer Intern - 2027",
-      "location": "China, Shanghai",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Circuit-Validation-Engineer-Intern---2027_JR2024949",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "intl",
-      "age": 30,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Developer Technology Engineering Intern, AI - 2027",
-      "location": "China, Beijing",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "intl",
-      "age": 30,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Developer Technology Engineering Intern, AI - 2027",
-      "location": "China, Shanghai",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "intl",
-      "age": 30,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "AI Developer Technology Engineering Intern - 2027",
-      "location": "China, Beijing",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "intl",
-      "age": 30,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "AI Developer Technology Engineering Intern - 2027",
-      "location": "China, Shanghai",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "intl",
-      "age": 30,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "AI Developer Technology Engineering Intern - 2027",
-      "location": "China, Shenzhen",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "intl",
-      "age": 30,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Architecture Energy Modeling Engineering Intern - 2027",
-      "location": "China, Shanghai",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Architecture-Energy-Modeling-Engineering-Intern---2027_JR2025424",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "intl",
-      "age": 30,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "AI Developer Technology Engineer Intern, AI - 2027",
-      "location": "China, Beijing",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "intl",
-      "age": 30,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "AI Developer Technology Engineer Intern, AI - 2027",
-      "location": "China, Shanghai",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "intl",
-      "age": 30,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "ASIC Engineering Intern, Networking Chip Design - 2027",
-      "location": "China, Shanghai",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Engineering-Intern--Networking-Chip-Design---2027_JR2023920-1",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "intl",
-      "age": 30,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Developer Technology Engineering Intern, HPC and AI - 2027",
-      "location": "Taiwan, Taipei",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "intl",
-      "age": 30,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Enterprise Platform Technical Marketing Engineer Intern - Summer 2027",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-Platform-Technical-Marketing-Engineer-Intern---Summer-2027_JR2025907",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "usa",
-      "age": 4,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Physical Design Engineer (RDSS Intern)",
-      "location": "Taiwan, Hsinchu",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Physical-Design-Engineer--RDSS-Intern-_JR2025027",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "intl",
-      "age": 30,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Silicon Validation Engineer (RDSS Intern)",
-      "location": "Taiwan, Taipei",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Validation-Engineer--RDSS-Intern-_JR2026767",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "intl",
-      "age": 9,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "ASIC Physical Design Engineer (RDSS Intern)",
-      "location": "Taiwan, Hsinchu",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Engineer--RDSS-Intern-_JR2024046",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "intl",
-      "age": 30,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "AI Agent Development Engineer (RDSS Intern)",
-      "location": "Taiwan, Taipei",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "intl",
-      "age": 12,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "AI Agent Development Engineer (RDSS Intern)",
-      "location": "Taiwan, Hsinchu",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "intl",
-      "age": 12,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Silicon Co-design Intern - 2027",
-      "location": "China, Shanghai",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Silicon-Co-design-Intern---2027_JR2025055-1",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "intl",
-      "age": 30,
-      "priority": 47
-    },
-    {
-      "company": "NVIDIA",
-      "title": "PhD Research Intern, AI-Aided Engineering – 2027",
-      "location": "US, CA, Santa Clara",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940",
-      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-      "category": "robotics",
-      "level": "intern",
-      "geo": "usa",
-      "age": 5,
-      "priority": 47
     },
     {
       "company": "Procter & Gamble",
@@ -11866,7 +11614,7 @@
       "category": "other",
       "level": "intern",
       "geo": "intl",
-      "age": 24,
+      "age": 25,
       "priority": 48
     },
     {
@@ -11902,7 +11650,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 11,
+      "age": 12,
       "priority": 48
     },
     {
@@ -11914,7 +11662,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 11,
+      "age": 12,
       "priority": 48
     },
     {
@@ -11926,7 +11674,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 11,
+      "age": 12,
       "priority": 48
     },
     {
@@ -11938,7 +11686,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 11,
+      "age": 12,
       "priority": 48
     },
     {
@@ -11950,7 +11698,7 @@
       "category": "other",
       "level": "intern",
       "geo": "intl",
-      "age": 2,
+      "age": 3,
       "priority": 48
     },
     {
@@ -11962,7 +11710,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -11974,7 +11722,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -11986,7 +11734,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -11998,7 +11746,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12010,7 +11758,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12022,7 +11770,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12034,7 +11782,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12046,7 +11794,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12058,7 +11806,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12070,7 +11818,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12082,7 +11830,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12094,7 +11842,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12106,7 +11854,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12118,7 +11866,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12130,7 +11878,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12142,7 +11890,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12154,7 +11902,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12166,7 +11914,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12178,7 +11926,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12190,7 +11938,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12202,7 +11950,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12214,7 +11962,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12226,7 +11974,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12238,7 +11986,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12250,7 +11998,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12262,7 +12010,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12274,7 +12022,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12286,7 +12034,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12298,7 +12046,7 @@
       "category": "other",
       "level": "intern",
       "geo": "intl",
-      "age": 16,
+      "age": 17,
       "priority": 48
     },
     {
@@ -12346,7 +12094,7 @@
       "category": "other",
       "level": "intern",
       "geo": "intl",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12370,7 +12118,7 @@
       "category": "other",
       "level": "intern",
       "geo": "intl",
-      "age": 16,
+      "age": 17,
       "priority": 48
     },
     {
@@ -12382,7 +12130,7 @@
       "category": "other",
       "level": "intern",
       "geo": "intl",
-      "age": 12,
+      "age": 13,
       "priority": 48
     },
     {
@@ -12406,7 +12154,7 @@
       "category": "other",
       "level": "intern",
       "geo": "intl",
-      "age": 11,
+      "age": 12,
       "priority": 48
     },
     {
@@ -12442,7 +12190,7 @@
       "category": "other",
       "level": "intern",
       "geo": "intl",
-      "age": 11,
+      "age": 12,
       "priority": 48
     },
     {
@@ -12454,7 +12202,7 @@
       "category": "other",
       "level": "intern",
       "geo": "intl",
-      "age": 11,
+      "age": 12,
       "priority": 48
     },
     {
@@ -12622,7 +12370,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 18,
+      "age": 19,
       "priority": 48
     },
     {
@@ -12634,7 +12382,7 @@
       "category": "other",
       "level": "intern",
       "geo": "intl",
-      "age": 19,
+      "age": 20,
       "priority": 48
     },
     {
@@ -12646,7 +12394,7 @@
       "category": "other",
       "level": "intern",
       "geo": "intl",
-      "age": 19,
+      "age": 20,
       "priority": 48
     },
     {
@@ -12658,7 +12406,7 @@
       "category": "other",
       "level": "intern",
       "geo": "intl",
-      "age": 19,
+      "age": 20,
       "priority": 48
     },
     {
@@ -12682,7 +12430,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 48
     },
     {
@@ -12694,7 +12442,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 48
     },
     {
@@ -12706,7 +12454,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 18,
+      "age": 19,
       "priority": 48
     },
     {
@@ -12742,7 +12490,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 18,
+      "age": 19,
       "priority": 48
     },
     {
@@ -12754,7 +12502,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 18,
+      "age": 19,
       "priority": 48
     },
     {
@@ -12766,7 +12514,7 @@
       "category": "other",
       "level": "intern",
       "geo": "intl",
-      "age": 15,
+      "age": 16,
       "priority": 48
     },
     {
@@ -12802,7 +12550,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12814,7 +12562,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12826,7 +12574,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12838,7 +12586,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12850,7 +12598,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12862,7 +12610,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12874,7 +12622,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12886,7 +12634,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12898,7 +12646,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12910,7 +12658,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12922,7 +12670,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12934,7 +12682,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12946,7 +12694,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12958,7 +12706,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12970,7 +12718,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12982,7 +12730,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -12994,7 +12742,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -13006,7 +12754,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -13018,7 +12766,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -13030,7 +12778,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -13042,7 +12790,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -13054,7 +12802,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -13066,7 +12814,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -13078,7 +12826,7 @@
       "category": "other",
       "level": "intern",
       "geo": "intl",
-      "age": 12,
+      "age": 13,
       "priority": 48
     },
     {
@@ -13102,7 +12850,7 @@
       "category": "other",
       "level": "coop",
       "geo": "usa",
-      "age": 18,
+      "age": 19,
       "priority": 48
     },
     {
@@ -13114,7 +12862,7 @@
       "category": "other",
       "level": "coop",
       "geo": "usa",
-      "age": 18,
+      "age": 19,
       "priority": 48
     },
     {
@@ -13126,7 +12874,7 @@
       "category": "other",
       "level": "coop",
       "geo": "usa",
-      "age": 18,
+      "age": 19,
       "priority": 48
     },
     {
@@ -13186,7 +12934,7 @@
       "category": "other",
       "level": "intern",
       "geo": "intl",
-      "age": 16,
+      "age": 17,
       "priority": 48
     },
     {
@@ -13198,7 +12946,7 @@
       "category": "other",
       "level": "intern",
       "geo": "intl",
-      "age": 0,
+      "age": 2,
       "priority": 48
     },
     {
@@ -13210,7 +12958,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -13222,7 +12970,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -13234,7 +12982,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -13246,7 +12994,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -13258,7 +13006,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -13270,7 +13018,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -13282,7 +13030,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -13294,7 +13042,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -13306,7 +13054,7 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 17,
+      "age": 18,
       "priority": 48
     },
     {
@@ -13318,8 +13066,260 @@
       "category": "other",
       "level": "intern",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 48
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Developer Technology Engineering Intern - 2027",
+      "location": "China, Beijing",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "intl",
+      "age": 30,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Developer Technology Engineering Intern - 2027",
+      "location": "China, Shanghai",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "intl",
+      "age": 30,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Circuit Validation Engineer Intern - 2027",
+      "location": "China, Shanghai",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Circuit-Validation-Engineer-Intern---2027_JR2024949",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "intl",
+      "age": 30,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Developer Technology Engineering Intern, AI - 2027",
+      "location": "China, Beijing",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "intl",
+      "age": 30,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Developer Technology Engineering Intern, AI - 2027",
+      "location": "China, Shanghai",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "intl",
+      "age": 30,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "AI Developer Technology Engineering Intern - 2027",
+      "location": "China, Beijing",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "intl",
+      "age": 30,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "AI Developer Technology Engineering Intern - 2027",
+      "location": "China, Shanghai",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "intl",
+      "age": 30,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "AI Developer Technology Engineering Intern - 2027",
+      "location": "China, Shenzhen",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "intl",
+      "age": 30,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Architecture Energy Modeling Engineering Intern - 2027",
+      "location": "China, Shanghai",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Architecture-Energy-Modeling-Engineering-Intern---2027_JR2025424",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "intl",
+      "age": 30,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "AI Developer Technology Engineer Intern, AI - 2027",
+      "location": "China, Beijing",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "intl",
+      "age": 30,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "AI Developer Technology Engineer Intern, AI - 2027",
+      "location": "China, Shanghai",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "intl",
+      "age": 30,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "ASIC Engineering Intern, Networking Chip Design - 2027",
+      "location": "China, Shanghai",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Engineering-Intern--Networking-Chip-Design---2027_JR2023920-1",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "intl",
+      "age": 30,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Developer Technology Engineering Intern, HPC and AI - 2027",
+      "location": "Taiwan, Taipei",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "intl",
+      "age": 30,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Enterprise Platform Technical Marketing Engineer Intern - Summer 2027",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-Platform-Technical-Marketing-Engineer-Intern---Summer-2027_JR2025907",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "usa",
+      "age": 5,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Physical Design Engineer (RDSS Intern)",
+      "location": "Taiwan, Hsinchu",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Physical-Design-Engineer--RDSS-Intern-_JR2025027",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "intl",
+      "age": 30,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Silicon Validation Engineer (RDSS Intern)",
+      "location": "Taiwan, Taipei",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Validation-Engineer--RDSS-Intern-_JR2026767",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "intl",
+      "age": 10,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "ASIC Physical Design Engineer (RDSS Intern)",
+      "location": "Taiwan, Hsinchu",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Engineer--RDSS-Intern-_JR2024046",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "intl",
+      "age": 30,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "AI Agent Development Engineer (RDSS Intern)",
+      "location": "Taiwan, Taipei",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "intl",
+      "age": 13,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "AI Agent Development Engineer (RDSS Intern)",
+      "location": "Taiwan, Hsinchu",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "intl",
+      "age": 13,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Silicon Co-design Intern - 2027",
+      "location": "China, Shanghai",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Silicon-Co-design-Intern---2027_JR2025055-1",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "intl",
+      "age": 30,
+      "priority": 47
+    },
+    {
+      "company": "NVIDIA",
+      "title": "PhD Research Intern, AI-Aided Engineering – 2027",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940",
+      "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+      "category": "robotics",
+      "level": "intern",
+      "geo": "usa",
+      "age": 6,
+      "priority": 47
     }
   ]
 }
