@@ -3,7 +3,7 @@
 Mechanical engineering internships outside the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-10-20 13:22 UTC*
+*Last updated: 2026-10-20 18:23 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -128,11 +128,11 @@ Mechanical engineering internships outside the United States. Listings refresh h
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | RF Hardware Intern (Winter 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4708417006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 19d |
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | RF Validation Intern (Summer 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4716499006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 25d |
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | RF Validation Intern (Winter 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4716184006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 25d |
-| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Supplier Quality Engineer Intern (Winter 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4715989006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 25d |
+| <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Supplier Quality Engineer Intern (Winter 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4715989006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 26d |
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Thermal Intern (Summer 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704820006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 25d |
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Thermal Intern (Winter 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704818006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 25d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Ground Systems Engineering Intern | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821140003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 78d |
-| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineering Intern Summer 2027 | Toronto, CAN | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7991769003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 38d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineering Intern Summer 2027 | Toronto, CAN | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7991769003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 39d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Neutron Mechanical Development Intern | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821193003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 78d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Supplier Quality Engineer Intern | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7819101003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 78d |
 <!-- TABLE_AEROSPACE_END -->
