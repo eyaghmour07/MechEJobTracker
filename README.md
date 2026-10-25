@@ -7,7 +7,7 @@ A living list of **mechanical engineering** internships and new-graduate roles. 
 **Use the site:** [eyaghmour07.github.io/MechEJobTracker](https://eyaghmour07.github.io/MechEJobTracker/) — internships and co-ops, with the full application URL on each row. Check a box after you apply and the row moves to that section’s Applied list. Checkmarks stay in your browser (Export / Import to move them). This README is the same list as a backup.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-10-25 10:45 UTC*
+*Last updated: 2026-10-25 14:50 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -15,7 +15,7 @@ A living list of **mechanical engineering** internships and new-graduate roles. 
 - [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**79**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](/NEW_GRAD_USA.md#medical-devices), [Automotive & EV](/NEW_GRAD_USA.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_USA.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_USA.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_USA.md#robotics--hardware), [Other](/NEW_GRAD_USA.md#other))
 
 ### International Positions
-- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**191**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](/INTERN_INTL.md#medical-devices), [Automotive & EV](/INTERN_INTL.md#automotive--ev), [Aerospace & Defense](/INTERN_INTL.md#aerospace--defense), [Energy & Industrial](/INTERN_INTL.md#energy--industrial), [Robotics & Hardware](/INTERN_INTL.md#robotics--hardware), [Other](/INTERN_INTL.md#other))
+- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**188**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](/INTERN_INTL.md#medical-devices), [Automotive & EV](/INTERN_INTL.md#automotive--ev), [Aerospace & Defense](/INTERN_INTL.md#aerospace--defense), [Energy & Industrial](/INTERN_INTL.md#energy--industrial), [Robotics & Hardware](/INTERN_INTL.md#robotics--hardware), [Other](/INTERN_INTL.md#other))
 - [New Graduate](/NEW_GRAD_INTL.md) - <!-- COUNT_NEWGRAD_INTL -->**12**<!-- COUNT_NEWGRAD_INTL_END --> available · <!-- COUNT_APPLIED_NEWGRAD_INTL -->**0**<!-- COUNT_APPLIED_NEWGRAD_INTL_END --> applied ([Medical Devices](/NEW_GRAD_INTL.md#medical-devices), [Automotive & EV](/NEW_GRAD_INTL.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_INTL.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_INTL.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_INTL.md#robotics--hardware), [Other](/NEW_GRAD_INTL.md#other))
 
 Want a company added? See [CONTRIBUTING.md](/CONTRIBUTING.md).
@@ -544,7 +544,7 @@ Want a company added? See [CONTRIBUTING.md](/CONTRIBUTING.md).
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Optical Engineering Intern Summer 2027 | Tucson, AZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7992102003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 37d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Propulsion Analyst Intern Spring 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986824003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 38d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Propulsion Analyst Intern Summer 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986820003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 38d |
-| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Propulsion Design Intern Spring 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7987110003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 43d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Propulsion Design Intern Spring 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7987110003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 44d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Propulsion Design Intern Summer 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986816003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 44d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | R&D Engineering Intern Spring 2027 | Albuquerque, NM | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7996578003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 37d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | R&D Engineering Intern Summer 2027 | Albuquerque, NM | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7996576003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 37d |

@@ -3,7 +3,7 @@
 Mechanical engineering new-grad and early-career roles in the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-10-25 10:45 UTC*
+*Last updated: 2026-10-25 14:50 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -11,7 +11,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 - [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**79**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
 
 ### International Positions
-- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**191**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](/INTERN_INTL.md#medical-devices), [Automotive & EV](/INTERN_INTL.md#automotive--ev), [Aerospace & Defense](/INTERN_INTL.md#aerospace--defense), [Energy & Industrial](/INTERN_INTL.md#energy--industrial), [Robotics & Hardware](/INTERN_INTL.md#robotics--hardware), [Other](/INTERN_INTL.md#other))
+- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**188**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](/INTERN_INTL.md#medical-devices), [Automotive & EV](/INTERN_INTL.md#automotive--ev), [Aerospace & Defense](/INTERN_INTL.md#aerospace--defense), [Energy & Industrial](/INTERN_INTL.md#energy--industrial), [Robotics & Hardware](/INTERN_INTL.md#robotics--hardware), [Other](/INTERN_INTL.md#other))
 - [New Graduate](/NEW_GRAD_INTL.md) - <!-- COUNT_NEWGRAD_INTL -->**12**<!-- COUNT_NEWGRAD_INTL_END --> available · <!-- COUNT_APPLIED_NEWGRAD_INTL -->**0**<!-- COUNT_APPLIED_NEWGRAD_INTL_END --> applied ([Medical Devices](/NEW_GRAD_INTL.md#medical-devices), [Automotive & EV](/NEW_GRAD_INTL.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_INTL.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_INTL.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_INTL.md#robotics--hardware), [Other](/NEW_GRAD_INTL.md#other))
 
 ## 2027 USA ME New Graduate Positions
@@ -139,7 +139,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 <!-- TABLE_ENERGY_START -->
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
-| <a href="https://formenergy.com/careers"><strong>Form Energy</strong></a> | Mechanical Engineer I, R&D | Somerville, MA | <a href="https://jobs.ashbyhq.com/formenergy/79ca409a-8a10-425a-bace-325a01d6bc02"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 9d |
+| <a href="https://formenergy.com/careers"><strong>Form Energy</strong></a> | Mechanical Engineer I, R&D | Somerville, MA | <a href="https://jobs.ashbyhq.com/formenergy/79ca409a-8a10-425a-bace-325a01d6bc02"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 10d |
 | <a href="https://www.appliedmaterials.com/us/en/careers.html"><strong>Applied Materials</strong></a> | 2027 Engineer Development Rotation Program - Mechanical Engineer I New College Grad - BS or MS (Gloucester, MA) | Gloucester,MA | <a href="https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Engineer-Development-Rotation-Program---Mechanical-Engineer-I-New-College-Grad---BS-or-MS--Gloucester--MA-_R2625756-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 30d |
 | <a href="https://www.appliedmaterials.com/us/en/careers.html"><strong>Applied Materials</strong></a> | Process Engineer I, New College Grad - Bachelors (Billerica, MA) | Billerica,MA | <a href="https://amat.wd1.myworkdayjobs.com/en-US/External/job/BillericaMA/Process-Engineer-I--New-College-Grad---Bachelors--Billerica--MA-_R2632042"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 3d |
 | <a href="https://careers.bakerhughes.com/"><strong>Baker Hughes</strong></a> | Engineer 1, Mechanical, Product Design and Engineering | US-TX-HOUSTON - 6760 Concord Park | <a href="https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/US-TX-HOUSTON---6760-Concord-Park/Engineer-1--Mechanical--Product-Design-and-Engineering_R170024"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 6d |
