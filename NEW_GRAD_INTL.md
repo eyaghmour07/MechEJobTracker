@@ -3,7 +3,7 @@
 Mechanical engineering new-grad and early-career roles outside the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-10-25 00:51 UTC*
+*Last updated: 2026-10-25 05:43 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -59,7 +59,7 @@ Mechanical engineering new-grad and early-career roles outside the United States
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Associate Engineer (Spring 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704621006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 71d |
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Associate Engineer (Summer 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704620006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 71d |
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Associate Engineer (Winter 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704619006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 71d |
-| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Junior Manufacturing Engineer | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8032172003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 10d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Junior Manufacturing Engineer | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8032172003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 11d |
 <!-- TABLE_AEROSPACE_END -->
 #### Applied
 

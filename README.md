@@ -7,7 +7,7 @@ A living list of **mechanical engineering** internships and new-graduate roles. 
 **Use the site:** [eyaghmour07.github.io/MechEJobTracker](https://eyaghmour07.github.io/MechEJobTracker/) — internships and co-ops, with the full application URL on each row. Check a box after you apply and the row moves to that section’s Applied list. Checkmarks stay in your browser (Export / Import to move them). This README is the same list as a backup.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-10-25 00:51 UTC*
+*Last updated: 2026-10-25 05:43 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -538,9 +538,9 @@ Want a company added? See [CONTRIBUTING.md](/CONTRIBUTING.md).
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7984564003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 38d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Manufacturing Engineering Intern Summer 2027 | Middle River, MD | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7988835003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 38d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineering Intern Spring 2027 | Silver Spring, MD | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7989995003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 38d |
-| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineering Intern Spring 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7985634003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 40d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineering Intern Spring 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7985634003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 41d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineering Intern Summer 2027 | Silver Spring, MD | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7989904003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 38d |
-| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineering Intern Summer 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7991448003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 40d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Mechanical Engineering Intern Summer 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7991448003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 41d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Optical Engineering Intern Summer 2027 | Tucson, AZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7992102003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 37d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Propulsion Analyst Intern Spring 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986824003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 38d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Propulsion Analyst Intern Summer 2027 | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986820003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 38d |
