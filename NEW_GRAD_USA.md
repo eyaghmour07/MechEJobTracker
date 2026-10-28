@@ -3,12 +3,12 @@
 Mechanical engineering new-grad and early-career roles in the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-10-27 23:31 UTC*
+*Last updated: 2026-10-28 04:02 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
 - [Internships](/) - <!-- COUNT_INTERN_USA -->**621**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
-- [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**84**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
+- [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**83**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
 
 ### International Positions
 - [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**182**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](/INTERN_INTL.md#medical-devices), [Automotive & EV](/INTERN_INTL.md#automotive--ev), [Aerospace & Defense](/INTERN_INTL.md#aerospace--defense), [Energy & Industrial](/INTERN_INTL.md#energy--industrial), [Robotics & Hardware](/INTERN_INTL.md#robotics--hardware), [Other](/INTERN_INTL.md#other))
@@ -66,7 +66,6 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 |---|---|---|---|---|
 | <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Manufacturing (Starshield) | Hawthorne, CA | <a href="https://boards.greenhouse.io/spacex/jobs/8752547002?gh_jid=8752547002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 60d |
 | <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Manufacturing (Starship) | Starbase, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 69d |
-| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Manufacturing - '26/'27 (Starlink) | Bastrop, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8877857002?gh_jid=8877857002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 18d |
 | <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical (Cape Canaveral) | Cape Canaveral, FL | <a href="https://boards.greenhouse.io/spacex/jobs/8622574002?gh_jid=8622574002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 112d |
 | <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical (Starship) | Starbase, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8729117002?gh_jid=8729117002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 69d |
 | <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical - '26/'27 (Starlink) | Bastrop, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8696952002?gh_jid=8696952002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 74d |
