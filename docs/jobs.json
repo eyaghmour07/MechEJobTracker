@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-07 11:32 UTC",
+  "updated_at": "2026-11-07 17:27 UTC",
   "jobs": [
+    {
+      "company": "Baxter",
+      "title": "Controls Engineer I (Nights)",
+      "location": "Marion, North Carolina",
+      "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Marion-North-Carolina/Controls-Engineer-I--Nights-_JR-210157-1",
+      "careers_url": "https://jobs.baxter.com/",
+      "category": "medical",
+      "level": "newgrad",
+      "geo": "usa",
+      "age": 30,
+      "priority": 8
+    },
+    {
+      "company": "Baxter",
+      "title": "Quality Engineer I",
+      "location": "Cleveland, Mississippi",
+      "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Cleveland-Mississippi/Quality-Engineer-I_JR-207462-1",
+      "careers_url": "https://jobs.baxter.com/",
+      "category": "medical",
+      "level": "newgrad",
+      "geo": "usa",
+      "age": 4,
+      "priority": 8
+    },
     {
       "company": "Edwards Lifesciences",
       "title": "Quality Engineer I",
@@ -38,30 +62,6 @@
       "priority": 11
     },
     {
-      "company": "Baxter",
-      "title": "Controls Engineer I (Nights)",
-      "location": "Marion, North Carolina",
-      "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Marion-North-Carolina/Controls-Engineer-I--Nights-_JR-210157-1",
-      "careers_url": "https://jobs.baxter.com/",
-      "category": "medical",
-      "level": "newgrad",
-      "geo": "usa",
-      "age": 30,
-      "priority": 8
-    },
-    {
-      "company": "Baxter",
-      "title": "Quality Engineer I",
-      "location": "Cleveland, Mississippi",
-      "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Cleveland-Mississippi/Quality-Engineer-I_JR-207462-1",
-      "careers_url": "https://jobs.baxter.com/",
-      "category": "medical",
-      "level": "newgrad",
-      "geo": "usa",
-      "age": 4,
-      "priority": 8
-    },
-    {
       "company": "GE HealthCare",
       "title": "GoldSeal Operations Intern",
       "location": "Barueri",
@@ -83,6 +83,198 @@
       "level": "newgrad",
       "geo": "intl",
       "age": 0,
+      "priority": 50
+    },
+    {
+      "company": "Abbott",
+      "title": "Internship - Engineering",
+      "location": "Ireland - Clonmel",
+      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Ireland---Clonmel/Internship---Engineering_31155780",
+      "careers_url": "https://www.jobs.abbott/",
+      "category": "medical",
+      "level": "intern",
+      "geo": "intl",
+      "age": 8,
+      "priority": 2
+    },
+    {
+      "company": "Abbott",
+      "title": "Internship - Engineering",
+      "location": "Ireland - Donegal Town",
+      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Ireland---Clonmel/Internship---Engineering_31155780",
+      "careers_url": "https://www.jobs.abbott/",
+      "category": "medical",
+      "level": "intern",
+      "geo": "intl",
+      "age": 8,
+      "priority": 2
+    },
+    {
+      "company": "Abbott",
+      "title": "Internship - Engineering",
+      "location": "Ireland - Longford",
+      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Ireland---Clonmel/Internship---Engineering_31155780",
+      "careers_url": "https://www.jobs.abbott/",
+      "category": "medical",
+      "level": "intern",
+      "geo": "intl",
+      "age": 8,
+      "priority": 2
+    },
+    {
+      "company": "Abbott",
+      "title": "Digital Process Improvement & Automation (QA) Intern",
+      "location": "Netherlands - Weesp",
+      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Netherlands---Weesp/Internship--QA-Supplier-to-Customer-at-Abbott-Olst_31164975",
+      "careers_url": "https://www.jobs.abbott/",
+      "category": "medical",
+      "level": "intern",
+      "geo": "intl",
+      "age": 17,
+      "priority": 2
+    },
+    {
+      "company": "Abbott",
+      "title": "Qualification and Validation Internship: Simplifying Packaging Materials",
+      "location": "Netherlands - Zwolle",
+      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Netherlands---Zwolle/Qualification-and-Validation-Internship--Simplifying-Packaging-Materials_31164501",
+      "careers_url": "https://www.jobs.abbott/",
+      "category": "medical",
+      "level": "intern",
+      "geo": "intl",
+      "age": 22,
+      "priority": 2
+    },
+    {
+      "company": "Abbott",
+      "title": "Engineer I, Manufacturing",
+      "location": "United States - California - Pleasanton",
+      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---Pleasanton/Engineer-I--Manufacturing_31163527-2",
+      "careers_url": "https://www.jobs.abbott/",
+      "category": "medical",
+      "level": "newgrad",
+      "geo": "usa",
+      "age": 30,
+      "priority": 2
+    },
+    {
+      "company": "Abbott",
+      "title": "Mechanical Engineer I",
+      "location": "United States - California - Sylmar",
+      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---Sylmar/Mechanical-Engineer-II_31157272-1",
+      "careers_url": "https://www.jobs.abbott/",
+      "category": "medical",
+      "level": "newgrad",
+      "geo": "usa",
+      "age": 16,
+      "priority": 2
+    },
+    {
+      "company": "Abbott",
+      "title": "Manufacturing Process Engineer I",
+      "location": "United States - Maine - Scarborough",
+      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Maine---Scarborough/Manufacturing-Process-Engineer-I_31163047",
+      "careers_url": "https://www.jobs.abbott/",
+      "category": "medical",
+      "level": "newgrad",
+      "geo": "usa",
+      "age": 9,
+      "priority": 2
+    },
+    {
+      "company": "Abbott",
+      "title": "Manufacturing Automation Engineer I",
+      "location": "United States - Maine - Scarborough",
+      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Maine---Scarborough/Manufacturing-Automation-Engineer-I_31163050",
+      "careers_url": "https://www.jobs.abbott/",
+      "category": "medical",
+      "level": "newgrad",
+      "geo": "usa",
+      "age": 9,
+      "priority": 2
+    },
+    {
+      "company": "Abbott",
+      "title": "2027 Winter Engineering Co-Op",
+      "location": "United States - Minnesota - St. Paul",
+      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-Engineering-Co-Op_31161074",
+      "careers_url": "https://www.jobs.abbott/",
+      "category": "medical",
+      "level": "coop",
+      "geo": "usa",
+      "age": 30,
+      "priority": 2
+    },
+    {
+      "company": "Abbott",
+      "title": "2027 Winter Engineering Co-Op",
+      "location": "United States - California - Sylmar",
+      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-Engineering-Co-Op_31161074",
+      "careers_url": "https://www.jobs.abbott/",
+      "category": "medical",
+      "level": "coop",
+      "geo": "usa",
+      "age": 30,
+      "priority": 2
+    },
+    {
+      "company": "Abbott",
+      "title": "2027 Winter Engineering Co-Op",
+      "location": "United States - Texas - Irving",
+      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-Engineering-Co-Op_31161074",
+      "careers_url": "https://www.jobs.abbott/",
+      "category": "medical",
+      "level": "coop",
+      "geo": "usa",
+      "age": 30,
+      "priority": 2
+    },
+    {
+      "company": "Abbott",
+      "title": "2027 Winter Engineering Co-Op",
+      "location": "United States - California - Pleasanton",
+      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-Engineering-Co-Op_31161074",
+      "careers_url": "https://www.jobs.abbott/",
+      "category": "medical",
+      "level": "coop",
+      "geo": "usa",
+      "age": 30,
+      "priority": 2
+    },
+    {
+      "company": "Abbott",
+      "title": "2027 Winter Engineering Co-Op",
+      "location": "United States - Minnesota - Plymouth",
+      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-Engineering-Co-Op_31161074",
+      "careers_url": "https://www.jobs.abbott/",
+      "category": "medical",
+      "level": "coop",
+      "geo": "usa",
+      "age": 30,
+      "priority": 2
+    },
+    {
+      "company": "Dexcom",
+      "title": "Process Engineer Intern",
+      "location": "Penang, Malaysia",
+      "url": "https://dexcom.wd1.myworkdayjobs.com/en-US/Dexcom/job/Penang-Malaysia/Process-Engineer-Intern_JR121889",
+      "careers_url": "https://careers.dexcom.com/",
+      "category": "medical",
+      "level": "intern",
+      "geo": "intl",
+      "age": 0,
+      "priority": 14
+    },
+    {
+      "company": "AtriCure",
+      "title": "Engineering Intern",
+      "location": "Pleasanton, CA",
+      "url": "https://job-boards.greenhouse.io/atricure/jobs/4339615009",
+      "careers_url": "https://www.atricure.com/careers",
+      "category": "medical",
+      "level": "intern",
+      "geo": "usa",
+      "age": 100,
       "priority": 50
     },
     {
@@ -314,198 +506,6 @@
       "priority": 7
     },
     {
-      "company": "Dexcom",
-      "title": "Process Engineer Intern",
-      "location": "Penang, Malaysia",
-      "url": "https://dexcom.wd1.myworkdayjobs.com/en-US/Dexcom/job/Penang-Malaysia/Process-Engineer-Intern_JR121889",
-      "careers_url": "https://careers.dexcom.com/",
-      "category": "medical",
-      "level": "intern",
-      "geo": "intl",
-      "age": 0,
-      "priority": 14
-    },
-    {
-      "company": "AtriCure",
-      "title": "Engineering Intern",
-      "location": "Pleasanton, CA",
-      "url": "https://job-boards.greenhouse.io/atricure/jobs/4339615009",
-      "careers_url": "https://www.atricure.com/careers",
-      "category": "medical",
-      "level": "intern",
-      "geo": "usa",
-      "age": 99,
-      "priority": 50
-    },
-    {
-      "company": "Abbott",
-      "title": "Internship - Engineering",
-      "location": "Ireland - Clonmel",
-      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Ireland---Clonmel/Internship---Engineering_31155780",
-      "careers_url": "https://www.jobs.abbott/",
-      "category": "medical",
-      "level": "intern",
-      "geo": "intl",
-      "age": 8,
-      "priority": 2
-    },
-    {
-      "company": "Abbott",
-      "title": "Internship - Engineering",
-      "location": "Ireland - Donegal Town",
-      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Ireland---Clonmel/Internship---Engineering_31155780",
-      "careers_url": "https://www.jobs.abbott/",
-      "category": "medical",
-      "level": "intern",
-      "geo": "intl",
-      "age": 8,
-      "priority": 2
-    },
-    {
-      "company": "Abbott",
-      "title": "Internship - Engineering",
-      "location": "Ireland - Longford",
-      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Ireland---Clonmel/Internship---Engineering_31155780",
-      "careers_url": "https://www.jobs.abbott/",
-      "category": "medical",
-      "level": "intern",
-      "geo": "intl",
-      "age": 8,
-      "priority": 2
-    },
-    {
-      "company": "Abbott",
-      "title": "Digital Process Improvement & Automation (QA) Intern",
-      "location": "Netherlands - Weesp",
-      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Netherlands---Weesp/Internship--QA-Supplier-to-Customer-at-Abbott-Olst_31164975",
-      "careers_url": "https://www.jobs.abbott/",
-      "category": "medical",
-      "level": "intern",
-      "geo": "intl",
-      "age": 17,
-      "priority": 2
-    },
-    {
-      "company": "Abbott",
-      "title": "Qualification and Validation Internship: Simplifying Packaging Materials",
-      "location": "Netherlands - Zwolle",
-      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Netherlands---Zwolle/Qualification-and-Validation-Internship--Simplifying-Packaging-Materials_31164501",
-      "careers_url": "https://www.jobs.abbott/",
-      "category": "medical",
-      "level": "intern",
-      "geo": "intl",
-      "age": 22,
-      "priority": 2
-    },
-    {
-      "company": "Abbott",
-      "title": "Engineer I, Manufacturing",
-      "location": "United States - California - Pleasanton",
-      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---Pleasanton/Engineer-I--Manufacturing_31163527-2",
-      "careers_url": "https://www.jobs.abbott/",
-      "category": "medical",
-      "level": "newgrad",
-      "geo": "usa",
-      "age": 30,
-      "priority": 2
-    },
-    {
-      "company": "Abbott",
-      "title": "Mechanical Engineer I",
-      "location": "United States - California - Sylmar",
-      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---Sylmar/Mechanical-Engineer-II_31157272-1",
-      "careers_url": "https://www.jobs.abbott/",
-      "category": "medical",
-      "level": "newgrad",
-      "geo": "usa",
-      "age": 16,
-      "priority": 2
-    },
-    {
-      "company": "Abbott",
-      "title": "Manufacturing Process Engineer I",
-      "location": "United States - Maine - Scarborough",
-      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Maine---Scarborough/Manufacturing-Process-Engineer-I_31163047",
-      "careers_url": "https://www.jobs.abbott/",
-      "category": "medical",
-      "level": "newgrad",
-      "geo": "usa",
-      "age": 9,
-      "priority": 2
-    },
-    {
-      "company": "Abbott",
-      "title": "Manufacturing Automation Engineer I",
-      "location": "United States - Maine - Scarborough",
-      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Maine---Scarborough/Manufacturing-Automation-Engineer-I_31163050",
-      "careers_url": "https://www.jobs.abbott/",
-      "category": "medical",
-      "level": "newgrad",
-      "geo": "usa",
-      "age": 9,
-      "priority": 2
-    },
-    {
-      "company": "Abbott",
-      "title": "2027 Winter Engineering Co-Op",
-      "location": "United States - Minnesota - St. Paul",
-      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-Engineering-Co-Op_31161074",
-      "careers_url": "https://www.jobs.abbott/",
-      "category": "medical",
-      "level": "coop",
-      "geo": "usa",
-      "age": 30,
-      "priority": 2
-    },
-    {
-      "company": "Abbott",
-      "title": "2027 Winter Engineering Co-Op",
-      "location": "United States - California - Sylmar",
-      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-Engineering-Co-Op_31161074",
-      "careers_url": "https://www.jobs.abbott/",
-      "category": "medical",
-      "level": "coop",
-      "geo": "usa",
-      "age": 30,
-      "priority": 2
-    },
-    {
-      "company": "Abbott",
-      "title": "2027 Winter Engineering Co-Op",
-      "location": "United States - Texas - Irving",
-      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-Engineering-Co-Op_31161074",
-      "careers_url": "https://www.jobs.abbott/",
-      "category": "medical",
-      "level": "coop",
-      "geo": "usa",
-      "age": 30,
-      "priority": 2
-    },
-    {
-      "company": "Abbott",
-      "title": "2027 Winter Engineering Co-Op",
-      "location": "United States - California - Pleasanton",
-      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-Engineering-Co-Op_31161074",
-      "careers_url": "https://www.jobs.abbott/",
-      "category": "medical",
-      "level": "coop",
-      "geo": "usa",
-      "age": 30,
-      "priority": 2
-    },
-    {
-      "company": "Abbott",
-      "title": "2027 Winter Engineering Co-Op",
-      "location": "United States - Minnesota - Plymouth",
-      "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-Engineering-Co-Op_31161074",
-      "careers_url": "https://www.jobs.abbott/",
-      "category": "medical",
-      "level": "coop",
-      "geo": "usa",
-      "age": 30,
-      "priority": 2
-    },
-    {
       "company": "Zoox",
       "title": "Contract Student Worker - Digital Engineer",
       "location": "Foster City, CA",
@@ -514,7 +514,7 @@
       "category": "automotive",
       "level": "intern",
       "geo": "usa",
-      "age": 57,
+      "age": 58,
       "priority": 50
     },
     {
@@ -599,90 +599,6 @@
       "level": "intern",
       "geo": "usa",
       "age": 0,
-      "priority": 50
-    },
-    {
-      "company": "Waymo",
-      "title": "2027 Summer Intern, BS/MS/PhD, AI-driven ML Performance Engineering Intern",
-      "location": "Mountain View, CA, USA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8248060",
-      "careers_url": "https://waymo.com/careers/",
-      "category": "automotive",
-      "level": "intern",
-      "geo": "usa",
-      "age": 36,
-      "priority": 50
-    },
-    {
-      "company": "Waymo",
-      "title": "2027 Summer Intern, MS/PhD, Perception Systems Engineering: Pedestrian Detection Precision",
-      "location": "San Francisco, California",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
-      "careers_url": "https://waymo.com/careers/",
-      "category": "automotive",
-      "level": "intern",
-      "geo": "usa",
-      "age": 39,
-      "priority": 50
-    },
-    {
-      "company": "Waymo",
-      "title": "2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern",
-      "location": "Mountain View, CA, USA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8319171",
-      "careers_url": "https://waymo.com/careers/",
-      "category": "automotive",
-      "level": "intern",
-      "geo": "usa",
-      "age": 10,
-      "priority": 50
-    },
-    {
-      "company": "Waymo",
-      "title": "2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics",
-      "location": "Mountain View, CA, USA",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8231711",
-      "careers_url": "https://waymo.com/careers/",
-      "category": "automotive",
-      "level": "intern",
-      "geo": "usa",
-      "age": 42,
-      "priority": 50
-    },
-    {
-      "company": "ResMed",
-      "title": "Intern, Manufacturing Engineering",
-      "location": "Singapore, Singapore",
-      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Singapore-Singapore/Intern--Manufacturing-Engineering_JR_053879-1",
-      "careers_url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers",
-      "category": "medical",
-      "level": "intern",
-      "geo": "intl",
-      "age": 3,
-      "priority": 50
-    },
-    {
-      "company": "ResMed",
-      "title": "Intern, Manufacturing Digital Transformation",
-      "location": "Singapore, Singapore",
-      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Singapore-Singapore/Intern--Manufacturing-Digital-Transformation_JR_054269",
-      "careers_url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers",
-      "category": "medical",
-      "level": "intern",
-      "geo": "intl",
-      "age": 3,
-      "priority": 50
-    },
-    {
-      "company": "ResMed",
-      "title": "Intern, Manufacturing Project Lead",
-      "location": "Singapore, Singapore",
-      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Singapore-Singapore/Intern--Manufacturing-Project-Lead_JR_053375-2",
-      "careers_url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers",
-      "category": "medical",
-      "level": "intern",
-      "geo": "intl",
-      "age": 3,
       "priority": 50
     },
     {
@@ -1118,6 +1034,150 @@
       "priority": 3
     },
     {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS/MS/PhD, AI-driven ML Performance Engineering Intern",
+      "location": "Mountain View, CA, USA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8248060",
+      "careers_url": "https://waymo.com/careers/",
+      "category": "automotive",
+      "level": "intern",
+      "geo": "usa",
+      "age": 36,
+      "priority": 50
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Perception Systems Engineering: Pedestrian Detection Precision",
+      "location": "San Francisco, California",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
+      "careers_url": "https://waymo.com/careers/",
+      "category": "automotive",
+      "level": "intern",
+      "geo": "usa",
+      "age": 39,
+      "priority": 50
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern",
+      "location": "Mountain View, CA, USA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8319171",
+      "careers_url": "https://waymo.com/careers/",
+      "category": "automotive",
+      "level": "intern",
+      "geo": "usa",
+      "age": 11,
+      "priority": 50
+    },
+    {
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics",
+      "location": "Mountain View, CA, USA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8231711",
+      "careers_url": "https://waymo.com/careers/",
+      "category": "automotive",
+      "level": "intern",
+      "geo": "usa",
+      "age": 42,
+      "priority": 50
+    },
+    {
+      "company": "ResMed",
+      "title": "Intern, Manufacturing Engineering",
+      "location": "Singapore, Singapore",
+      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Singapore-Singapore/Intern--Manufacturing-Engineering_JR_053879-1",
+      "careers_url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers",
+      "category": "medical",
+      "level": "intern",
+      "geo": "intl",
+      "age": 3,
+      "priority": 50
+    },
+    {
+      "company": "ResMed",
+      "title": "Intern, Manufacturing Digital Transformation",
+      "location": "Singapore, Singapore",
+      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Singapore-Singapore/Intern--Manufacturing-Digital-Transformation_JR_054269",
+      "careers_url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers",
+      "category": "medical",
+      "level": "intern",
+      "geo": "intl",
+      "age": 3,
+      "priority": 50
+    },
+    {
+      "company": "ResMed",
+      "title": "Intern, Manufacturing Project Lead",
+      "location": "Singapore, Singapore",
+      "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Singapore-Singapore/Intern--Manufacturing-Project-Lead_JR_053375-2",
+      "careers_url": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers",
+      "category": "medical",
+      "level": "intern",
+      "geo": "intl",
+      "age": 3,
+      "priority": 50
+    },
+    {
+      "company": "BD",
+      "title": "Engineering Intern",
+      "location": "USA UT - Sandy",
+      "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Engineering-Intern_R-553921-1",
+      "careers_url": "https://jobs.bd.com/",
+      "category": "medical",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 9
+    },
+    {
+      "company": "BD",
+      "title": "Quality Engineer I",
+      "location": "USA IL - Carol Stream",
+      "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-IL---Carol-Stream/Quality-Engineer-I_R-557753-1",
+      "careers_url": "https://jobs.bd.com/",
+      "category": "medical",
+      "level": "newgrad",
+      "geo": "usa",
+      "age": 17,
+      "priority": 9
+    },
+    {
+      "company": "BD",
+      "title": "R&D Co-op, Warwick, RI",
+      "location": "USA RI - Warwick",
+      "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-RI---Warwick/R-D-Co-op--Warwick--RI_R-558442",
+      "careers_url": "https://jobs.bd.com/",
+      "category": "medical",
+      "level": "coop",
+      "geo": "usa",
+      "age": 11,
+      "priority": 9
+    },
+    {
+      "company": "BD",
+      "title": "Quality Engineer 1, EU MDR",
+      "location": "USA UT - Salt Lake City BAS",
+      "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Salt-Lake-City-BAS/Quality-Engineer-1--EU-MDR_R-558347",
+      "careers_url": "https://jobs.bd.com/",
+      "category": "medical",
+      "level": "newgrad",
+      "geo": "usa",
+      "age": 12,
+      "priority": 9
+    },
+    {
+      "company": "BD",
+      "title": "Quality Engineer 1, EU MDR",
+      "location": "USA UT - Sandy",
+      "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Salt-Lake-City-BAS/Quality-Engineer-1--EU-MDR_R-558347",
+      "careers_url": "https://jobs.bd.com/",
+      "category": "medical",
+      "level": "newgrad",
+      "geo": "usa",
+      "age": 12,
+      "priority": 9
+    },
+    {
       "company": "SpaceX",
       "title": "New Graduate Engineer, Manufacturing (Starshield)",
       "location": "Hawthorne, CA",
@@ -1126,7 +1186,7 @@
       "category": "aerospace",
       "level": "newgrad",
       "geo": "usa",
-      "age": 70,
+      "age": 71,
       "priority": 27
     },
     {
@@ -1162,7 +1222,7 @@
       "category": "aerospace",
       "level": "newgrad",
       "geo": "usa",
-      "age": 84,
+      "age": 85,
       "priority": 27
     },
     {
@@ -1186,7 +1246,7 @@
       "category": "aerospace",
       "level": "newgrad",
       "geo": "usa",
-      "age": 57,
+      "age": 58,
       "priority": 27
     },
     {
@@ -1366,7 +1426,7 @@
       "category": "aerospace",
       "level": "newgrad",
       "geo": "usa",
-      "age": 80,
+      "age": 81,
       "priority": 50
     },
     {
@@ -1390,7 +1450,7 @@
       "category": "aerospace",
       "level": "newgrad",
       "geo": "usa",
-      "age": 10,
+      "age": 11,
       "priority": 50
     },
     {
@@ -1402,7 +1462,7 @@
       "category": "aerospace",
       "level": "newgrad",
       "geo": "usa",
-      "age": 7,
+      "age": 8,
       "priority": 50
     },
     {
@@ -1450,7 +1510,7 @@
       "category": "aerospace",
       "level": "newgrad",
       "geo": "usa",
-      "age": 36,
+      "age": 37,
       "priority": 50
     },
     {
@@ -1526,64 +1586,16 @@
       "priority": 50
     },
     {
-      "company": "BD",
-      "title": "Engineering Intern",
-      "location": "USA UT - Sandy",
-      "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Sandy/Engineering-Intern_R-553921-1",
-      "careers_url": "https://jobs.bd.com/",
-      "category": "medical",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 9
-    },
-    {
-      "company": "BD",
-      "title": "Quality Engineer I",
-      "location": "USA IL - Carol Stream",
-      "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-IL---Carol-Stream/Quality-Engineer-I_R-557753-1",
-      "careers_url": "https://jobs.bd.com/",
-      "category": "medical",
-      "level": "newgrad",
-      "geo": "usa",
-      "age": 17,
-      "priority": 9
-    },
-    {
-      "company": "BD",
-      "title": "R&D Co-op, Warwick, RI",
-      "location": "USA RI - Warwick",
-      "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-RI---Warwick/R-D-Co-op--Warwick--RI_R-558442",
-      "careers_url": "https://jobs.bd.com/",
+      "company": "Johnson & Johnson",
+      "title": "GTO Engineering Co-op",
+      "location": "Raritan, New Jersey, United States of America",
+      "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Raritan-New-Jersey-United-States-of-America/GTO-Engineering-Co-op_R-095955-1",
+      "careers_url": "https://www.careers.jnj.com/",
       "category": "medical",
       "level": "coop",
       "geo": "usa",
-      "age": 11,
-      "priority": 9
-    },
-    {
-      "company": "BD",
-      "title": "Quality Engineer 1, EU MDR",
-      "location": "USA UT - Salt Lake City BAS",
-      "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Salt-Lake-City-BAS/Quality-Engineer-1--EU-MDR_R-558347",
-      "careers_url": "https://jobs.bd.com/",
-      "category": "medical",
-      "level": "newgrad",
-      "geo": "usa",
-      "age": 12,
-      "priority": 9
-    },
-    {
-      "company": "BD",
-      "title": "Quality Engineer 1, EU MDR",
-      "location": "USA UT - Sandy",
-      "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-UT---Salt-Lake-City-BAS/Quality-Engineer-1--EU-MDR_R-558347",
-      "careers_url": "https://jobs.bd.com/",
-      "category": "medical",
-      "level": "newgrad",
-      "geo": "usa",
-      "age": 12,
-      "priority": 9
+      "age": 10,
+      "priority": 0
     },
     {
       "company": "Rocket Lab",
@@ -1738,7 +1750,7 @@
       "category": "aerospace",
       "level": "newgrad",
       "geo": "usa",
-      "age": 23,
+      "age": 24,
       "priority": 50
     },
     {
@@ -1858,7 +1870,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "intl",
-      "age": 56,
+      "age": 57,
       "priority": 50
     },
     {
@@ -1930,7 +1942,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 56,
+      "age": 57,
       "priority": 50
     },
     {
@@ -2158,7 +2170,7 @@
       "category": "aerospace",
       "level": "newgrad",
       "geo": "usa",
-      "age": 25,
+      "age": 26,
       "priority": 50
     },
     {
@@ -2170,7 +2182,7 @@
       "category": "aerospace",
       "level": "newgrad",
       "geo": "usa",
-      "age": 25,
+      "age": 26,
       "priority": 50
     },
     {
@@ -2182,7 +2194,7 @@
       "category": "aerospace",
       "level": "newgrad",
       "geo": "usa",
-      "age": 25,
+      "age": 26,
       "priority": 50
     },
     {
@@ -2196,54 +2208,6 @@
       "geo": "usa",
       "age": 108,
       "priority": 50
-    },
-    {
-      "company": "Medtronic",
-      "title": "Sales Operations Intern",
-      "location": "Ankara, Ankara, Türkiye",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ankara-Ankara-Trkiye/Sales-Operations-Intern_R78959-1",
-      "careers_url": "https://www.medtronic.com/en-us/our-company/careers.html",
-      "category": "medical",
-      "level": "intern",
-      "geo": "intl",
-      "age": 23,
-      "priority": 1
-    },
-    {
-      "company": "Medtronic",
-      "title": "R&D Intern: Tech",
-      "location": "Shanghai, Shanghai, China",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/R-D-Intern--Tech_R70374-2",
-      "careers_url": "https://www.medtronic.com/en-us/our-company/careers.html",
-      "category": "medical",
-      "level": "intern",
-      "geo": "intl",
-      "age": 30,
-      "priority": 1
-    },
-    {
-      "company": "Medtronic",
-      "title": "Manufacturing Engineer I",
-      "location": "Humacao, Puerto Rico, United States of America",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Humacao-Puerto-Rico-United-States-of-America/Manufacturing-Engineer-I_R81582-1",
-      "careers_url": "https://www.medtronic.com/en-us/our-company/careers.html",
-      "category": "medical",
-      "level": "newgrad",
-      "geo": "usa",
-      "age": 0,
-      "priority": 1
-    },
-    {
-      "company": "Medtronic",
-      "title": "R&D Engineer I",
-      "location": "Geleen, Limburg, Netherlands",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Geleen-Limburg-Netherlands/R-D-Engineer-I_R77874-1",
-      "careers_url": "https://www.medtronic.com/en-us/our-company/careers.html",
-      "category": "medical",
-      "level": "newgrad",
-      "geo": "intl",
-      "age": 3,
-      "priority": 1
     },
     {
       "company": "Ursa Major",
@@ -2626,7 +2590,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "intl",
-      "age": 43,
+      "age": 44,
       "priority": 50
     },
     {
@@ -2662,7 +2626,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 36,
+      "age": 37,
       "priority": 50
     },
     {
@@ -2674,7 +2638,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 91,
+      "age": 92,
       "priority": 50
     },
     {
@@ -2710,7 +2674,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 91,
+      "age": 92,
       "priority": 50
     },
     {
@@ -2734,7 +2698,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 91,
+      "age": 92,
       "priority": 50
     },
     {
@@ -2758,7 +2722,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 91,
+      "age": 92,
       "priority": 50
     },
     {
@@ -2794,7 +2758,7 @@
       "category": "aerospace",
       "level": "intern",
       "geo": "usa",
-      "age": 91,
+      "age": 92,
       "priority": 50
     },
     {
@@ -2808,18 +2772,6 @@
       "geo": "usa",
       "age": 37,
       "priority": 50
-    },
-    {
-      "company": "Johnson & Johnson",
-      "title": "GTO Engineering Co-op",
-      "location": "Raritan, New Jersey, United States of America",
-      "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Raritan-New-Jersey-United-States-of-America/GTO-Engineering-Co-op_R-095955-1",
-      "careers_url": "https://www.careers.jnj.com/",
-      "category": "medical",
-      "level": "coop",
-      "geo": "usa",
-      "age": 10,
-      "priority": 0
     },
     {
       "company": "Alcon",
@@ -2856,6 +2808,54 @@
       "geo": "usa",
       "age": 3,
       "priority": 13
+    },
+    {
+      "company": "Medtronic",
+      "title": "Sales Operations Intern",
+      "location": "Ankara, Ankara, Türkiye",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ankara-Ankara-Trkiye/Sales-Operations-Intern_R78959-1",
+      "careers_url": "https://www.medtronic.com/en-us/our-company/careers.html",
+      "category": "medical",
+      "level": "intern",
+      "geo": "intl",
+      "age": 23,
+      "priority": 1
+    },
+    {
+      "company": "Medtronic",
+      "title": "R&D Intern: Tech",
+      "location": "Shanghai, Shanghai, China",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Shanghai-Shanghai-China/R-D-Intern--Tech_R70374-2",
+      "careers_url": "https://www.medtronic.com/en-us/our-company/careers.html",
+      "category": "medical",
+      "level": "intern",
+      "geo": "intl",
+      "age": 30,
+      "priority": 1
+    },
+    {
+      "company": "Medtronic",
+      "title": "Manufacturing Engineer I",
+      "location": "Humacao, Puerto Rico, United States of America",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Humacao-Puerto-Rico-United-States-of-America/Manufacturing-Engineer-I_R81582-1",
+      "careers_url": "https://www.medtronic.com/en-us/our-company/careers.html",
+      "category": "medical",
+      "level": "newgrad",
+      "geo": "usa",
+      "age": 0,
+      "priority": 1
+    },
+    {
+      "company": "Medtronic",
+      "title": "R&D Engineer I",
+      "location": "Geleen, Limburg, Netherlands",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Geleen-Limburg-Netherlands/R-D-Engineer-I_R77874-1",
+      "careers_url": "https://www.medtronic.com/en-us/our-company/careers.html",
+      "category": "medical",
+      "level": "newgrad",
+      "geo": "intl",
+      "age": 3,
+      "priority": 1
     },
     {
       "company": "Kairos Power",
@@ -3202,7 +3202,7 @@
       "category": "robotics",
       "level": "intern",
       "geo": "usa",
-      "age": 23,
+      "age": 24,
       "priority": 50
     },
     {
@@ -3226,7 +3226,7 @@
       "category": "robotics",
       "level": "newgrad",
       "geo": "usa",
-      "age": 22,
+      "age": 23,
       "priority": 50
     },
     {
@@ -3250,7 +3250,7 @@
       "category": "robotics",
       "level": "intern",
       "geo": "usa",
-      "age": 11,
+      "age": 12,
       "priority": 50
     },
     {
@@ -3262,7 +3262,7 @@
       "category": "robotics",
       "level": "intern",
       "geo": "intl",
-      "age": 11,
+      "age": 12,
       "priority": 50
     },
     {
@@ -3274,7 +3274,7 @@
       "category": "robotics",
       "level": "intern",
       "geo": "intl",
-      "age": 11,
+      "age": 12,
       "priority": 50
     },
     {
@@ -3286,7 +3286,7 @@
       "category": "robotics",
       "level": "intern",
       "geo": "intl",
-      "age": 11,
+      "age": 12,
       "priority": 50
     },
     {
@@ -3310,7 +3310,7 @@
       "category": "robotics",
       "level": "intern",
       "geo": "usa",
-      "age": 11,
+      "age": 12,
       "priority": 50
     },
     {
@@ -3322,7 +3322,7 @@
       "category": "robotics",
       "level": "intern",
       "geo": "usa",
-      "age": 11,
+      "age": 12,
       "priority": 50
     },
     {
@@ -3334,7 +3334,7 @@
       "category": "robotics",
       "level": "intern",
       "geo": "usa",
-      "age": 11,
+      "age": 12,
       "priority": 50
     },
     {
@@ -3634,7 +3634,7 @@
       "category": "robotics",
       "level": "intern",
       "geo": "usa",
-      "age": 23,
+      "age": 24,
       "priority": 46
     },
     {
@@ -3658,7 +3658,7 @@
       "category": "robotics",
       "level": "intern",
       "geo": "usa",
-      "age": 49,
+      "age": 50,
       "priority": 46
     },
     {
@@ -3754,7 +3754,7 @@
       "category": "robotics",
       "level": "intern",
       "geo": "usa",
-      "age": 3,
+      "age": 4,
       "priority": 46
     },
     {
@@ -3766,7 +3766,7 @@
       "category": "robotics",
       "level": "newgrad",
       "geo": "usa",
-      "age": 35,
+      "age": 36,
       "priority": 46
     },
     {
@@ -3790,7 +3790,7 @@
       "category": "robotics",
       "level": "intern",
       "geo": "usa",
-      "age": 14,
+      "age": 15,
       "priority": 50
     },
     {
@@ -3802,7 +3802,7 @@
       "category": "robotics",
       "level": "intern",
       "geo": "usa",
-      "age": 14,
+      "age": 15,
       "priority": 50
     },
     {
@@ -4608,6 +4608,186 @@
       "geo": "intl",
       "age": 12,
       "priority": 50
+    },
+    {
+      "company": "Caterpillar",
+      "title": "Oil and Gas Project Application Engineering Intern",
+      "location": "San Diego, California",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/San-Diego-California/Oil-and-Gas-Project-Application-Engineering-Intern_R0000403393-1",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 4,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "Manufacturing Engineering College Intern",
+      "location": "Rayong, Thailand",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Rayong-Thailand/Manufacturing-Engineering-College-Intern_R0000392914",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "intl",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Engineering Corporate Internship Program Welding",
+      "location": "Mossville, Illinois",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Part-Time Intern - Engineering",
+      "location": "Pontiac, Illinois",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Pontiac-Illinois/XMLNAME-2027-Part-Time-Intern---Engineering_R0000399906",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 2,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern – Product Support Engineering",
+      "location": "Peoria, Illinois",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern – Product Support Engineering",
+      "location": "Tucson, Arizona",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern – Product Support Engineering",
+      "location": "Houston, Texas",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern – Product Support Engineering",
+      "location": "Irving, Texas",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern – Product Support Engineering",
+      "location": "Cary, North Carolina",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern – Product Support Engineering",
+      "location": "Seguin, Texas",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
+      "location": "Mossville, Illinois",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
+      "location": "Pittsburgh, Pennsylvania",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
+      "location": "Peoria, Illinois",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
+      "location": "Irving, Texas",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
+    },
+    {
+      "company": "Caterpillar",
+      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
+      "location": "San Francisco, California",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
+      "careers_url": "https://www.caterpillar.com/en/careers.html",
+      "category": "energy",
+      "level": "intern",
+      "geo": "usa",
+      "age": 30,
+      "priority": 33
     },
     {
       "company": "Blue Origin",
@@ -6828,186 +7008,6 @@
       "geo": "usa",
       "age": 3,
       "priority": 42
-    },
-    {
-      "company": "Caterpillar",
-      "title": "Oil and Gas Project Application Engineering Intern",
-      "location": "San Diego, California",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/San-Diego-California/Oil-and-Gas-Project-Application-Engineering-Intern_R0000403393-1",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 4,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "Manufacturing Engineering College Intern",
-      "location": "Rayong, Thailand",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Rayong-Thailand/Manufacturing-Engineering-College-Intern_R0000392914",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "intl",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Engineering Corporate Internship Program Welding",
-      "location": "Mossville, Illinois",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Engineering-Corporate-Internship-Program-Welding_R0000380506",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Part-Time Intern - Engineering",
-      "location": "Pontiac, Illinois",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Pontiac-Illinois/XMLNAME-2027-Part-Time-Intern---Engineering_R0000399906",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 2,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern – Product Support Engineering",
-      "location": "Peoria, Illinois",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern – Product Support Engineering",
-      "location": "Tucson, Arizona",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern – Product Support Engineering",
-      "location": "Houston, Texas",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern – Product Support Engineering",
-      "location": "Irving, Texas",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern – Product Support Engineering",
-      "location": "Cary, North Carolina",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern – Product Support Engineering",
-      "location": "Seguin, Texas",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
-      "location": "Mossville, Illinois",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
-      "location": "Pittsburgh, Pennsylvania",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
-      "location": "Peoria, Illinois",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
-      "location": "Irving, Texas",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
-    },
-    {
-      "company": "Caterpillar",
-      "title": "2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
-      "location": "San Francisco, California",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
-      "careers_url": "https://www.caterpillar.com/en/careers.html",
-      "category": "energy",
-      "level": "intern",
-      "geo": "usa",
-      "age": 30,
-      "priority": 33
     },
     {
       "company": "Procter & Gamble",
