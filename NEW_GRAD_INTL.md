@@ -3,7 +3,7 @@
 Mechanical engineering new-grad and early-career roles outside the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-11-08 15:49 UTC*
+*Last updated: 2026-11-08 20:13 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
