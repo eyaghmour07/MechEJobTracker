@@ -3,7 +3,7 @@
 Mechanical engineering new-grad and early-career roles outside the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-11-11 02:34 UTC*
+*Last updated: 2026-11-11 10:22 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
@@ -23,14 +23,14 @@ Mechanical engineering new-grad and early-career roles outside the United States
 <!-- TABLE_MEDICAL_START -->
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
-| <a href="https://www.medtronic.com/en-us/our-company/careers.html"><strong>Medtronic</strong></a> | R&D Engineer I | Geleen, Limburg, Netherlands | <a href="https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Geleen-Limburg-Netherlands/R-D-Engineer-I_R77874-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 6d |
+| <a href="https://www.medtronic.com/en-us/our-company/careers.html"><strong>Medtronic</strong></a> | R&D Engineer I | Geleen, Limburg, Netherlands | <a href="https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Geleen-Limburg-Netherlands/R-D-Engineer-I_R77874-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 7d |
 | <a href="https://careers.stryker.com/"><strong>Stryker</strong></a> | GQO Manufacturing Operations Graduate Program - September 2027 | Cork, Ireland | <a href="https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cork-Ireland/GQO-Manufacturing-Operations-Graduate-Program---September-2027_R574279"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 0d |
-| <a href="https://jobs.thermofisher.com/"><strong>Thermo Fisher Scientific</strong></a> | Tooling Engineer I | Tijuana, Mexico | <a href="https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Tijuana-Mexico/Tooling-Engineer_R-01370239"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 4d |
-| <a href="https://jobs.baxter.com/"><strong>Baxter</strong></a> | Process Engineer I | Alliston, Ontario | <a href="https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Alliston-Ontario/Engineer-I_JR-212493-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 0d |
-| <a href="https://jobs.baxter.com/"><strong>Baxter</strong></a> | Quality Engineer I, QA Systems | Alliston, Ontario | <a href="https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Alliston-Ontario/Quality-Engineer-I--QA-Systems_JR-212007-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 0d |
-| <a href="https://www.edwards.com/careers"><strong>Edwards Lifesciences</strong></a> | Engineer I, Manufacturing | Singapore | <a href="https://edwards.wd5.myworkdayjobs.com/en-US/EdwardsCareers/job/Singapore/Engineer-I---Manufacturing_Req-51471"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 15d |
-| <a href="https://www.edwards.com/careers"><strong>Edwards Lifesciences</strong></a> | Quality Engineer I | Spain-Valencia | <a href="https://edwards.wd5.myworkdayjobs.com/en-US/EdwardsCareers/job/Spain-Valencia/Engr-I--Quality_Req-51863"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 7d |
-| <a href="https://www.illumina.com/company/careers.html"><strong>Illumina</strong></a> | Manufacturing Equipment Engineer 1 (Calibration) | Singapore - Woodlands - NorthTech | <a href="https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/Singapore---Woodlands---NorthTech/Manufacturing-Equipment-Engineer-1--Calibration-_43831-JOB"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 4d |
+| <a href="https://jobs.thermofisher.com/"><strong>Thermo Fisher Scientific</strong></a> | Tooling Engineer I | Tijuana, Mexico | <a href="https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Tijuana-Mexico/Tooling-Engineer_R-01370239"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 5d |
+| <a href="https://jobs.baxter.com/"><strong>Baxter</strong></a> | Process Engineer I | Alliston, Ontario | <a href="https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Alliston-Ontario/Engineer-I_JR-212493-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 2d |
+| <a href="https://jobs.baxter.com/"><strong>Baxter</strong></a> | Quality Engineer I, QA Systems | Alliston, Ontario | <a href="https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Alliston-Ontario/Quality-Engineer-I--QA-Systems_JR-212007-1"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 2d |
+| <a href="https://www.edwards.com/careers"><strong>Edwards Lifesciences</strong></a> | Engineer I, Manufacturing | Singapore | <a href="https://edwards.wd5.myworkdayjobs.com/en-US/EdwardsCareers/job/Singapore/Engineer-I---Manufacturing_Req-51471"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 16d |
+| <a href="https://www.edwards.com/careers"><strong>Edwards Lifesciences</strong></a> | Quality Engineer I | Spain-Valencia | <a href="https://edwards.wd5.myworkdayjobs.com/en-US/EdwardsCareers/job/Spain-Valencia/Engr-I--Quality_Req-51863"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 8d |
+| <a href="https://www.illumina.com/company/careers.html"><strong>Illumina</strong></a> | Manufacturing Equipment Engineer 1 (Calibration) | Singapore - Woodlands - NorthTech | <a href="https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/Singapore---Woodlands---NorthTech/Manufacturing-Equipment-Engineer-1--Calibration-_43831-JOB"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 5d |
 <!-- TABLE_MEDICAL_END -->
 #### Applied
 
@@ -62,7 +62,7 @@ Mechanical engineering new-grad and early-career roles outside the United States
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Associate Engineer (Spring 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704621006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 88d |
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Associate Engineer (Summer 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704620006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 88d |
 | <a href="https://www.astranis.com/careers"><strong>Astranis</strong></a> | Mechanical Associate Engineer (Winter 2027) | San Francisco | <a href="https://job-boards.greenhouse.io/astranis/jobs/4704619006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 88d |
-| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Junior Manufacturing Engineer | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8032172003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 27d |
+| <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Junior Manufacturing Engineer | Auckland, NZ | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8032172003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 28d |
 <!-- TABLE_AEROSPACE_END -->
 #### Applied
 
@@ -77,7 +77,7 @@ Mechanical engineering new-grad and early-career roles outside the United States
 <!-- TABLE_ENERGY_START -->
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
-| <a href="https://careers.bakerhughes.com/"><strong>Baker Hughes</strong></a> | Mechanical Engineer I - Wellbore Construction New Product Development | IN-Maharashtra-Pune-7th Floor, Tower 1 & 2, Phoenix Millenium Towers S No. 132, 23. Pune-Bangalore Highway | <a href="https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/IN-Maharashtra-Pune-7th-Floor-Tower-1--2-Phoenix-Millenium-Towers-S-No-132-23-Pune-Bangalore-Highway/Mechanical-Engineer-I---Wellbore-Construction-New-Product-Development_R170539"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 15d |
+| <a href="https://careers.bakerhughes.com/"><strong>Baker Hughes</strong></a> | Mechanical Engineer I - Wellbore Construction New Product Development | IN-Maharashtra-Pune-7th Floor, Tower 1 & 2, Phoenix Millenium Towers S No. 132, 23. Pune-Bangalore Highway | <a href="https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/IN-Maharashtra-Pune-7th-Floor-Tower-1--2-Phoenix-Millenium-Towers-S-No-132-23-Pune-Bangalore-Highway/Mechanical-Engineer-I---Wellbore-Construction-New-Product-Development_R170539"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 16d |
 <!-- TABLE_ENERGY_END -->
 #### Applied
 
