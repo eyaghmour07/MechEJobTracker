@@ -3,15 +3,15 @@
 Mechanical engineering new-grad and early-career roles in the United States. Listings refresh hourly and keep postings from the last **120 days**.
 
 <!-- LAST_UPDATED_START -->
-*Last updated: 2026-11-14 01:18 UTC*
+*Last updated: 2026-11-14 08:37 UTC*
 <!-- LAST_UPDATED_END -->
 
 ### USA Positions
-- [Internships](/) - <!-- COUNT_INTERN_USA -->**157**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
+- [Internships](/) - <!-- COUNT_INTERN_USA -->**124**<!-- COUNT_INTERN_USA_END --> available · <!-- COUNT_APPLIED_INTERN_USA -->**0**<!-- COUNT_APPLIED_INTERN_USA_END --> applied ([Medical Devices](/#medical-devices), [Automotive & EV](/#automotive--ev), [Aerospace & Defense](/#aerospace--defense), [Energy & Industrial](/#energy--industrial), [Robotics & Hardware](/#robotics--hardware), [Other](/#other))
 - [New Graduate](/NEW_GRAD_USA.md) - <!-- COUNT_NEWGRAD_USA -->**36**<!-- COUNT_NEWGRAD_USA_END --> available · <!-- COUNT_APPLIED_NEWGRAD_USA -->**0**<!-- COUNT_APPLIED_NEWGRAD_USA_END --> applied ([Medical Devices](#medical-devices), [Automotive & EV](#automotive--ev), [Aerospace & Defense](#aerospace--defense), [Energy & Industrial](#energy--industrial), [Robotics & Hardware](#robotics--hardware), [Other](#other))
 
 ### International Positions
-- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**56**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](/INTERN_INTL.md#medical-devices), [Automotive & EV](/INTERN_INTL.md#automotive--ev), [Aerospace & Defense](/INTERN_INTL.md#aerospace--defense), [Energy & Industrial](/INTERN_INTL.md#energy--industrial), [Robotics & Hardware](/INTERN_INTL.md#robotics--hardware), [Other](/INTERN_INTL.md#other))
+- [Internships](/INTERN_INTL.md) - <!-- COUNT_INTERN_INTL -->**43**<!-- COUNT_INTERN_INTL_END --> available · <!-- COUNT_APPLIED_INTERN_INTL -->**0**<!-- COUNT_APPLIED_INTERN_INTL_END --> applied ([Medical Devices](/INTERN_INTL.md#medical-devices), [Automotive & EV](/INTERN_INTL.md#automotive--ev), [Aerospace & Defense](/INTERN_INTL.md#aerospace--defense), [Energy & Industrial](/INTERN_INTL.md#energy--industrial), [Robotics & Hardware](/INTERN_INTL.md#robotics--hardware), [Other](/INTERN_INTL.md#other))
 - [New Graduate](/NEW_GRAD_INTL.md) - <!-- COUNT_NEWGRAD_INTL -->**4**<!-- COUNT_NEWGRAD_INTL_END --> available · <!-- COUNT_APPLIED_NEWGRAD_INTL -->**0**<!-- COUNT_APPLIED_NEWGRAD_INTL_END --> applied ([Medical Devices](/NEW_GRAD_INTL.md#medical-devices), [Automotive & EV](/NEW_GRAD_INTL.md#automotive--ev), [Aerospace & Defense](/NEW_GRAD_INTL.md#aerospace--defense), [Energy & Industrial](/NEW_GRAD_INTL.md#energy--industrial), [Robotics & Hardware](/NEW_GRAD_INTL.md#robotics--hardware), [Other](/NEW_GRAD_INTL.md#other))
 
 ## 2027 USA ME New Graduate Positions
@@ -23,7 +23,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 <!-- TABLE_MEDICAL_START -->
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
-| <a href="https://www.careers.philips.com/"><strong>Philips</strong></a> | Quality Engineer 1 | Colorado Springs, Colorado, United States | <a href="https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Colorado-Springs-Colorado-United-States/Process-Quality-Engineer_589515"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 28d |
+| <a href="https://www.careers.philips.com/"><strong>Philips</strong></a> | Quality Engineer 1 | Colorado Springs, Colorado, United States | <a href="https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Colorado-Springs-Colorado-United-States/Process-Quality-Engineer_589515"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 29d |
 <!-- TABLE_MEDICAL_END -->
 #### Applied
 
@@ -53,14 +53,14 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | Company | Position | Location | Apply | Age |
 |---|---|---|---|---|
 | <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Manufacturing (Starshield) | Hawthorne, CA | <a href="https://boards.greenhouse.io/spacex/jobs/8752547002?gh_jid=8752547002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 77d |
-| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Manufacturing (Starship) | Starbase, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 86d |
+| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Manufacturing (Starship) | Starbase, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 87d |
 | <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical | McGregor, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8933711002?gh_jid=8933711002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 7d |
-| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical (Starship) | Starbase, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8729117002?gh_jid=8729117002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 86d |
+| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical (Starship) | Starbase, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8729117002?gh_jid=8729117002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 87d |
 | <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical - '26/'27 (Starlink) | Redmond, WA | <a href="https://boards.greenhouse.io/spacex/jobs/8696986002?gh_jid=8696986002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 91d |
-| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical - '26/'27 (Starlink/Starmind) | Bastrop, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8930094002?gh_jid=8930094002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 8d |
+| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical - '26/'27 (Starlink/Starmind) | Bastrop, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8930094002?gh_jid=8930094002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 9d |
 | <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical - Satellites (Starlink) | Redmond, WA | <a href="https://boards.greenhouse.io/spacex/jobs/8931509002?gh_jid=8931509002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 8d |
 | <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Mechanical Design (Starshield) | Hawthorne, CA | <a href="https://boards.greenhouse.io/spacex/jobs/8766964002?gh_jid=8766964002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 64d |
-| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8729085002?gh_jid=8729085002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 86d |
+| <a href="https://www.spacex.com/careers"><strong>SpaceX</strong></a> | New Graduate Engineer, Propulsion (Starship) | Starbase, TX | <a href="https://boards.greenhouse.io/spacex/jobs/8729085002?gh_jid=8729085002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 87d |
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Build Reliability Engineer I | Long Beach, California, United States | <a href="https://boards.greenhouse.io/relativity/jobs/8911813002?gh_jid=8911813002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 17d |
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Launch Fluids Engineer I | Cape Canaveral, Florida, United States | <a href="https://boards.greenhouse.io/relativity/jobs/8693679002?gh_jid=8693679002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 87d |
 | <a href="https://www.relativityspace.com/careers"><strong>Relativity Space</strong></a> | Manufacturing Engineer 1, Unpressurized Structures | Long Beach, California, United States | <a href="https://boards.greenhouse.io/relativity/jobs/8861691002?gh_jid=8861691002"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 42d |
@@ -82,7 +82,7 @@ Mechanical engineering new-grad and early-career roles in the United States. Lis
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Propulsion Systems Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/8058455003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 16d |
 | <a href="https://www.rocketlabusa.com/careers/"><strong>Rocket Lab</strong></a> | Spacecraft Structural Engineer I | Long Beach, CA | <a href="https://job-boards.greenhouse.io/rocketlab/jobs/7784244003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 46d |
 | <a href="https://www.varda.com/careers"><strong>Varda</strong></a> | Propulsion Engineer I - Hardware and Bus Systems | El Segundo, California, United States | <a href="https://job-boards.greenhouse.io/vardaspace/jobs/8039672003"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 24d |
-| <a href="https://www.vastspace.com/careers"><strong>Vast</strong></a> | Tooling Engineer I | Long Beach, California, United States | <a href="https://boards.greenhouse.io/vast/jobs/4692866006?gh_jid=4692866006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 114d |
+| <a href="https://www.vastspace.com/careers"><strong>Vast</strong></a> | Tooling Engineer I | Long Beach, California, United States | <a href="https://boards.greenhouse.io/vast/jobs/4692866006?gh_jid=4692866006"><img src="https://img.shields.io/badge/Apply-2563eb?style=flat" alt="Apply"></a> | 115d |
 <!-- TABLE_AEROSPACE_END -->
 #### Applied
 
